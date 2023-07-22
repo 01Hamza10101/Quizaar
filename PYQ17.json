@@ -1,0 +1,552 @@
+[
+    {
+      "number": 1,
+      "question": "What is the basic unit of life?",
+      "options": [
+        "Cell",
+        "Atom",
+        "Molecule",
+        "Organ"
+      ],
+      "answer": "Cell"
+    },
+    {
+      "number": 2,
+      "question": "Which gas is responsible for the greenhouse effect?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Methane"
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "number": 3,
+      "question": "What is the process by which plants use sunlight to make food?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Digestion"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "number": 4,
+      "question": "What is the process by which plants release water vapor through their leaves?",
+      "options": [
+        "Transpiration",
+        "Evaporation",
+        "Condensation",
+        "Precipitation"
+      ],
+      "answer": "Transpiration"
+    },
+    {
+      "number": 5,
+      "question": "What is the process by which animals obtain oxygen and release carbon dioxide?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Digestion",
+        "Transpiration"
+      ],
+      "answer": "Respiration"
+    },
+    {
+      "number": 6,
+      "question": "Which organ in the human body pumps blood?",
+      "options": [
+        "Heart",
+        "Lungs",
+        "Liver",
+        "Brain"
+      ],
+      "answer": "Heart"
+    },
+    {
+      "number": 7,
+      "question": "What is the process by which organisms produce offspring of their own kind?",
+      "options": [
+        "Reproduction",
+        "Growth",
+        "Adaptation",
+        "Metabolism"
+      ],
+      "answer": "Reproduction"
+    },
+    {
+      "number": 8,
+      "question": "Which gas is essential for the process of respiration?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "number": 9,
+      "question": "What is the process by which rocks are broken down into smaller pieces?",
+      "options": [
+        "Weathering",
+        "Erosion",
+        "Deposition",
+        "Melting"
+      ],
+      "answer": "Weathering"
+    },
+    {
+      "number": 10,
+      "question": "Which of the following is a renewable source of energy?",
+      "options": [
+        "Solar power",
+        "Coal",
+        "Natural gas",
+        "Nuclear energy"
+      ],
+      "answer": "Solar power"
+    },
+    {
+      "number": 11,
+      "question": "What is the process by which an organism takes in food and breaks it down for energy?",
+      "options": [
+        "Digestion",
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration"
+      ],
+      "answer": "Digestion"
+    },
+    {
+      "number": 12,
+      "question": "Which of the following is a non-renewable source of energy?",
+      "options": [
+        "Coal",
+        "Solar power",
+        "Wind power",
+        "Hydropower"
+      ],
+      "answer": "Coal"
+    },
+    {
+      "number": 13,
+      "question": "What is the process by which water changes from a liquid to a gas?",
+      "options": [
+        "Evaporation",
+        "Condensation",
+        "Melting",
+        "Sublimation"
+      ],
+      "answer": "Evaporation"
+    },
+    {
+      "number": 14,
+      "question": "Which gas is necessary for photosynthesis?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Methane"
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "number": 15,
+      "question": "What is the process by which plants and animals produce more of their own kind?",
+      "options": [
+        "Reproduction",
+        "Growth",
+        "Adaptation",
+        "Metabolism"
+      ],
+      "answer": "Reproduction"
+    },
+    {
+      "number": 16,
+      "question": "Which of the following is a form of potential energy?",
+      "options": [
+        "Chemical energy",
+        "Kinetic energy",
+        "Thermal energy",
+        "Electrical energy"
+      ],
+      "answer": "Chemical energy"
+    },
+    {
+      "number": 17,
+      "question": "What is the process by which a gas changes into a liquid?",
+      "options": [
+        "Condensation",
+        "Evaporation",
+        "Melting",
+        "Sublimation"
+      ],
+      "answer": "Condensation"
+    },
+    {
+      "number": 18,
+      "question": "Which of the following is a conductor of electricity?",
+      "options": [
+        "Copper",
+        "Rubber",
+        "Glass",
+        "Wood"
+      ],
+      "answer": "Copper"
+    },
+    {
+      "number": 19,
+      "question": "What is the process by which rocks and soil are moved from one place to another?",
+      "options": [
+        "Erosion",
+        "Weathering",
+        "Deposition",
+        "Melting"
+      ],
+      "answer": "Erosion"
+    },
+    {
+      "number": 20,
+      "question": "Which of the following is a form of energy associated with motion?",
+      "options": [
+        "Kinetic energy",
+        "Potential energy",
+        "Thermal energy",
+        "Chemical energy"
+      ],
+      "answer": "Kinetic energy"
+    },
+    {
+      "number": 21,
+      "question": "What is the process by which a solid changes directly into a gas without becoming a liquid?",
+      "options": [
+        "Sublimation",
+        "Evaporation",
+        "Melting",
+        "Condensation"
+      ],
+      "answer": "Sublimation"
+    },
+    {
+      "number": 22,
+      "question": "Which of the following is the main source of energy for the Earth?",
+      "options": [
+        "Sun",
+        "Moon",
+        "Stars",
+        "Earth"
+      ],
+      "answer": "Sun"
+    },
+    {
+      "number": 23,
+      "question": "What is the process by which organisms adapt to their environment over time?",
+      "options": [
+        "Natural selection",
+        "Photosynthesis",
+        "Reproduction",
+        "Respiration"
+      ],
+      "answer": "Natural selection"
+    },
+    {
+      "number": 24,
+      "question": "Which of the following is the process of the exchange of heat between objects of different temperatures?",
+      "options": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "Evaporation"
+      ],
+      "answer": "Conduction"
+    },
+    {
+      "number": 25,
+      "question": "What is the process by which plants and animals respond to changes in their environment?",
+      "options": [
+        "Stimulus",
+        "Response",
+        "Adaptation",
+        "Mutation"
+      ],
+      "answer": "Response"
+    },
+    {
+      "number": 26,
+      "question": "Which of the following is a form of energy that comes from the movement of water?",
+      "options": [
+        "Hydropower",
+        "Geothermal energy",
+        "Wind power",
+        "Nuclear energy"
+      ],
+      "answer": "Hydropower"
+    },
+    {
+      "number": 27,
+      "question": "What is the process by which light is absorbed and converted into chemical energy in plants?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Digestion"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "number": 28,
+      "question": "Which of the following is the main component of the Earth's atmosphere?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Argon"
+      ],
+      "answer": "Nitrogen"
+    },
+    {
+      "number": 29,
+      "question": "What is the process by which organisms grow and increase in size?",
+      "options": [
+        "Growth",
+        "Reproduction",
+        "Adaptation",
+        "Metabolism"
+      ],
+      "answer": "Growth"
+    },
+    {
+      "number": 30,
+      "question": "Which of the following is a source of renewable energy derived from the heat of the Earth's interior?",
+      "options": [
+        "Geothermal energy",
+        "Solar power",
+        "Wind power",
+        "Hydropower"
+      ],
+      "answer": "Geothermal energy"
+    },
+    {
+      "number": 31,
+      "question": "What is the process by which plants and animals exchange gases with their environment?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Digestion"
+      ],
+      "answer": "Respiration"
+    },
+    {
+      "number": 32,
+      "question": "Which of the following is the process by which new individuals of the same species are produced?",
+      "options": [
+        "Reproduction",
+        "Growth",
+        "Adaptation",
+        "Metabolism"
+      ],
+      "answer": "Reproduction"
+    },
+    {
+      "number": 33,
+      "question": "What is the process by which light energy is converted into electrical energy in solar cells?",
+      "options": [
+        "Photovoltaic effect",
+        "Electromagnetic induction",
+        "Thermoelectric effect",
+        "Photoelectric effect"
+      ],
+      "answer": "Photovoltaic effect"
+    },
+    {
+      "number": 34,
+      "question": "Which of the following is a measure of the average kinetic energy of the particles in a substance?",
+      "options": [
+        "Temperature",
+        "Heat",
+        "Thermal energy",
+        "Specific heat"
+      ],
+      "answer": "Temperature"
+    },
+    {
+      "number": 35,
+      "question": "What is the process by which an organism undergoes changes to become better suited to its environment?",
+      "options": [
+        "Adaptation",
+        "Mutation",
+        "Evolution",
+        "Natural selection"
+      ],
+      "answer": "Adaptation"
+    },
+    {
+      "number": 36,
+      "question": "Which of the following is the process by which liquid water changes into water vapor?",
+      "options": [
+        "Evaporation",
+        "Condensation",
+        "Melting",
+        "Sublimation"
+      ],
+      "answer": "Evaporation"
+    },
+    {
+      "number": 37,
+      "question": "What is the process by which energy is transferred from one object to another without the need for a medium?",
+      "options": [
+        "Radiation",
+        "Conduction",
+        "Convection",
+        "Evaporation"
+      ],
+      "answer": "Radiation"
+    },
+    {
+      "number": 38,
+      "question": "Which of the following is a material that does not conduct electricity?",
+      "options": [
+        "Rubber",
+        "Copper",
+        "Glass",
+        "Aluminum"
+      ],
+      "answer": "Rubber"
+    },
+    {
+      "number": 39,
+      "question": "What is the process by which sediment settles out of water or wind?",
+      "options": [
+        "Deposition",
+        "Erosion",
+        "Weathering",
+        "Melting"
+      ],
+      "answer": "Deposition"
+    },
+    {
+      "number": 40,
+      "question": "Which of the following is a form of energy associated with the motion of particles?",
+      "options": [
+        "Thermal energy",
+        "Kinetic energy",
+        "Chemical energy",
+        "Electrical energy"
+      ],
+      "answer": "Thermal energy"
+    },
+    {
+      "number": 41,
+      "question": "What is the process by which a gas changes directly into a solid without becoming a liquid?",
+      "options": [
+        "Deposition",
+        "Evaporation",
+        "Melting",
+        "Condensation"
+      ],
+      "answer": "Deposition"
+    },
+    {
+      "number": 42,
+      "question": "Which of the following is the main source of energy for wind power?",
+      "options": [
+        "Wind",
+        "Sun",
+        "Water",
+        "Coal"
+      ],
+      "answer": "Wind"
+    },
+    {
+      "number": 43,
+      "question": "What is the process by which an organism's genetic information changes over time?",
+      "options": [
+        "Mutation",
+        "Adaptation",
+        "Reproduction",
+        "Natural selection"
+      ],
+      "answer": "Mutation"
+    },
+    {
+      "number": 44,
+      "question": "Which of the following is the unit of electric current?",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Watt",
+        "Ohm"
+      ],
+      "answer": "Ampere"
+    },
+    {
+      "number": 45,
+      "question": "What is the process by which rocks and soil are transformed through heat and pressure?",
+      "options": [
+        "Metamorphism",
+        "Weathering",
+        "Erosion",
+        "Deposition"
+      ],
+      "answer": "Metamorphism"
+    },
+    {
+      "number": 46,
+      "question": "Which of the following is the process by which energy is transferred through a fluid by the movement of its particles?",
+      "options": [
+        "Convection",
+        "Conduction",
+        "Radiation",
+        "Evaporation"
+      ],
+      "answer": "Convection"
+    },
+    {
+      "number": 47,
+      "question": "What is the process by which genetic traits that improve an organism's chances of survival are passed on to future generations?",
+      "options": [
+        "Natural selection",
+        "Photosynthesis",
+        "Reproduction",
+        "Respiration"
+      ],
+      "answer": "Natural selection"
+    },
+    {
+      "number": 48,
+      "question": "Which of the following is the process by which sound waves travel through a medium?",
+      "options": [
+        "Compression",
+        "Rarefaction",
+        "Propagation",
+        "Amplification"
+      ],
+      "answer": "Propagation"
+    },
+    {
+      "number": 49,
+      "question": "What is the process by which energy is transferred from one object to another through direct contact?",
+      "options": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "Evaporation"
+      ],
+      "answer": "Conduction"
+    },
+    {
+      "number": 50,
+      "question": "Which of the following is the process by which water vapor changes into liquid water?",
+      "options": [
+        "Condensation",
+        "Evaporation",
+        "Melting",
+        "Sublimation"
+      ],
+      "answer": "Condensation"
+    }
+  ]

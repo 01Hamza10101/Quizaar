@@ -1,0 +1,1102 @@
+[
+    {
+      "number": 1,
+      "question": "What is the phenomenon of bending of light when it passes from one medium to another?",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Dispersion",
+        "Diffraction"
+      ],
+      "answer": "Refraction"
+    },
+    {
+      "number": 2,
+      "question": "Which type of mirror always forms a virtual image?",
+      "options": [
+        "Convex mirror",
+        "Concave mirror",
+        "Plane mirror",
+        "None of the above"
+      ],
+      "answer": "Plane mirror"
+    },
+    {
+      "number": 3,
+      "question": "Which of the following colors of light bends the most while passing through a prism?",
+      "options": [
+        "Red",
+        "Blue",
+        "Green",
+        "Yellow"
+      ],
+      "answer": "Violet"
+    },
+    {
+      "number": 4,
+      "question": "When light travels from a rarer medium to a denser medium, it bends _____ the normal.",
+      "options": [
+        "Towards",
+        "Away from",
+        "Parallel to",
+        "None of the above"
+      ],
+      "answer": "Towards"
+    },
+    {
+      "number": 5,
+      "question": "The splitting of white light into its constituent colors is known as _____.",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Dispersion",
+        "Diffraction"
+      ],
+      "answer": "Dispersion"
+    },
+    {
+      "number": 6,
+      "question": "The angle of incidence is equal to the angle of _____.",
+      "options": [
+        "Refraction",
+        "Reflection",
+        "Diffraction",
+        "Dispersion"
+      ],
+      "answer": "Reflection"
+    },
+    {
+      "number": 7,
+      "question": "Which type of lens is used to correct nearsightedness?",
+      "options": [
+        "Convex lens",
+        "Concave lens",
+        "Plano-convex lens",
+        "Plano-concave lens"
+      ],
+      "answer": "Concave lens"
+    },
+    {
+      "number": 8,
+      "question": "The speed of light is maximum in which of the following?",
+      "options": [
+        "Vacuum",
+        "Water",
+        "Glass",
+        "Air"
+      ],
+      "answer": "Vacuum"
+    },
+    {
+      "number": 9,
+      "question": "Which of the following is a phenomenon due to diffraction?",
+      "options": [
+        "Twinkling of stars",
+        "Mirage",
+        "Rainbow",
+        "Polarization"
+      ],
+      "answer": "Twinkling of stars"
+    },
+    {
+      "number": 10,
+      "question": "Which of the following colors of light has the longest wavelength?",
+      "options": [
+        "Red",
+        "Blue",
+        "Green",
+        "Yellow"
+      ],
+      "answer": "Red"
+    },
+    {
+      "number": 11,
+      "question": "The bending of light around obstacles is called _____.",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Diffraction",
+        "Dispersion"
+      ],
+      "answer": "Diffraction"
+    },
+{
+  "number": 12,
+  "question": "Which type of mirror is used in the rearview mirror of vehicles?",
+  "options": [
+    "Convex mirror",
+    "Concave mirror",
+    "Plane mirror",
+    "None of the above"
+  ],
+  "answer": "Convex mirror"
+},
+{
+  "number": 13,
+  "question": "When light travels from a denser medium to a rarer medium, it bends _____ the normal.",
+  "options": [
+    "Towards",
+    "Away from",
+    "Parallel to",
+    "None of the above"
+  ],
+  "answer": "Away from"
+},
+{
+  "number": 14,
+  "question": "The image formed by a concave lens is always _____.",
+  "options": [
+    "Virtual and erect",
+    "Real and inverted",
+    "Virtual and inverted",
+    "Real and erect"
+  ],
+  "answer": "Virtual and erect"
+},
+{
+  "number": 15,
+  "question": "Which of the following is an example of total internal reflection?",
+  "options": [
+    "Rainbow formation",
+    "Mirage formation",
+    "Shining of stars",
+    "Diamond sparkle"
+  ],
+  "answer": "Diamond sparkle"
+},
+{
+  "number": 16,
+  "question": "Which color of light bends the least while passing through a prism?",
+  "options": [
+    "Red",
+    "Blue",
+    "Green",
+    "Violet"
+  ],
+  "answer": "Red"
+},
+{
+  "number": 17,
+  "question": "Which type of lens is used to correct farsightedness?",
+  "options": [
+    "Convex lens",
+    "Concave lens",
+    "Plano-convex lens",
+    "Plano-concave lens"
+  ],
+  "answer": "Convex lens"
+},
+{
+  "number": 18,
+  "question": "Which of the following colors of light has the shortest wavelength?",
+  "options": [
+    "Red",
+    "Blue",
+    "Green",
+    "Violet"
+  ],
+  "answer": "Violet"
+},
+{
+  "number": 19,
+  "question": "Which of the following is not a characteristic of an image formed by a plane mirror?",
+  "options": [
+    "Virtual",
+    "Inverted",
+    "Same size as the object",
+    "Behind the mirror"
+  ],
+  "answer": "Inverted"
+},
+{
+  "number": 20,
+  "question": "Which phenomenon causes the bending of light around sharp edges?",
+  "options": [
+    "Reflection",
+    "Refraction",
+    "Diffraction",
+    "Dispersion"
+  ],
+  "answer": "Diffraction"
+},
+{
+  "number": 21,
+  "question": "The angle of refraction is always _____ the angle of incidence.",
+  "options": [
+    "Greater than",
+    "Less than",
+    "Equal to",
+    "Depends on the medium"
+  ],
+  "answer": "Less than"
+},
+{
+  "number": 22,
+  "question": "Which of the following is not a natural source of light?",
+  "options": [
+    "Sun",
+    "Stars",
+    "Firefly",
+    "Electric bulb"
+  ],
+  "answer": "Electric bulb"
+},
+{
+  "number": 23,
+  "question": "Which of the following colors of light is refracted the most?",
+  "options": [
+    "Red",
+    "Blue",
+    "Green",
+    "Violet"
+  ],
+  "answer": "Blue"
+},
+{
+  "number": 24,
+  "question": "When light is incident at the critical angle, it undergoes _____.",
+  "options": [
+    "Reflection",
+    "Refraction",
+    "Diffraction",
+    "Dispersion"
+  ],
+  "answer": "Total internal reflection"
+},
+{
+  "number": 25,
+  "question": "Which type of mirror can form both real and virtual images?",
+  "options": [
+    "Convex mirror",
+    "Concave mirror",
+    "Plane mirror",
+    "None of the above"
+  ],
+  "answer": "Concave mirror"
+},
+{
+  "number": 26,
+  "question": "The rainbow is a result of _____.",
+  "options": [
+    "Reflection",
+    "Refraction",
+    "Diffraction",
+    "Dispersion"
+  ],
+  "answer": "Dispersion"
+},
+{
+  "number": 27,
+  "question": "Which type of lens is used in magnifying glasses?",
+  "options": [
+    "Convex lens",
+    "Concave lens",
+    "Plano-convex lens",
+    "Plano-concave lens"
+  ],
+  "answer": "Convex lens"
+},
+{
+  "number": 28,
+  "question": "Which of the following colors of light has medium wavelength?",
+  "options": [
+    "Red",
+    "Blue",
+    "Green",
+    "Yellow"
+  ],
+  "answer": "Green"
+},
+{
+  "number": 29,
+  "question": "The image formed by a convex lens can be _____.",
+  "options": [
+    "Virtual and erect",
+    "Real and inverted",
+    "Virtual and inverted",
+    "Real and erect"
+  ],
+  "answer": "Real and inverted"
+},
+{
+  "number": 30,
+  "question": "Which of the following is not a type of mirror?",
+  "options": [
+    "Convex mirror",
+    "Concave mirror",
+    "Plane mirror",
+    "Cylindrical mirror"
+  ],
+  "answer": "Cylindrical mirror"
+},
+{
+  "number": 31,
+  "question": "Which of the following is a phenomenon due to polarization?",
+  "options": [
+    "Twinkling of stars",
+    "Mirage",
+    "Rainbow",
+    "3D movies"
+  ],
+  "answer": "3D movies"
+},
+{
+  "number": 32,
+  "question": "Which of the following colors of light is refracted the least?",
+  "options": [
+    "Red",
+    "Blue",
+    "Green",
+    "Violet"
+  ],
+  "answer": "Red"
+},
+{
+  "number": 33,
+  "question": "A concave lens always forms a _____ image.",
+  "options": [
+    "Virtual and erect",
+    "Real and inverted",
+    "Virtual and inverted",
+    "Real and erect"
+  ],
+  "answer": "Virtual and erect"
+},
+{
+  "number": 34,
+  "question": "Which of the following is an example of regular reflection?",
+  "options": [
+    "Shining of stars",
+    "Twinkling of stars",
+    "Mirror reflection",
+    "Refraction"
+  ],
+  "answer": "Mirror reflection"
+},
+{
+  "number": 35,
+  "question": "Which color of light bends the most while passing through a glass prism?",
+  "options": [
+    "Red",
+    "Blue",
+    "Green",
+    "Violet"
+  ],
+  "answer": "Violet"
+},
+{
+  "number": 36,
+  "question": "When light travels from a denser medium to a rarer medium, it bends _____ the normal.",
+  "options": [
+    "Towards",
+    "Away from",
+    "Parallel to",
+    "None of the above"
+  ],
+  "answer": "Away from"
+},
+{
+  "number": 37,
+  "question": "Which type of lens is used to correct farsightedness?",
+  "options": [
+    "Convex lens",
+    "Concave lens",
+    "Plano-convex lens",
+    "Plano-concave lens"
+  ],
+  "answer": "Convex lens"
+},
+{
+  "number": 38,
+  "question": "The speed of light is maximum in which of the following?",
+  "options": [
+    "Vacuum",
+    "Water",
+    "Glass",
+    "Air"
+  ],
+  "answer": "Vacuum"
+},
+{
+  "number": 39,
+  "question": "Which of the following is a phenomenon due to diffraction?",
+  "options": [
+    "Twinkling of stars",
+    "Mirage",
+    "Rainbow",
+    "Polarization"
+  ],
+  "answer": "Twinkling of stars"
+},
+{
+  "number": 40,
+  "question": "Which of the following colors of light has the shortest wavelength?",
+  "options": [
+    "Red",
+    "Blue",
+    "Green",
+    "Violet"
+  ],
+  "answer": "Violet"
+},
+{
+  "number": 41,
+  "question": "Which phenomenon causes the bending of light around sharp edges?",
+  "options": [
+    "Reflection",
+    "Refraction",
+    "Diffraction",
+    "Dispersion"
+  ],
+  "answer": "Diffraction"
+},
+{
+  "number": 42,
+  "question": "The angle of refraction is always _____ the angle of incidence.",
+  "options": [
+    "Greater than",
+    "Less than",
+    "Equal to",
+    "Depends on the medium"
+  ],
+  "answer": "Less than"
+},
+{
+  "number": 43,
+  "question": "Which of the following is not a natural source of light?",
+  "options": [
+    "Sun",
+    "Stars",
+    "Firefly",
+    "Electric bulb"
+  ],
+  "answer": "Electric bulb"
+},
+{
+  "number": 44,
+  "question": "Which of the following colors of light is refracted the most?",
+  "options": [
+    "Red",
+    "Blue",
+    "Green",
+    "Violet"
+  ],
+  "answer": "Blue"
+},
+{
+  "number": 45,
+  "question": "When light is incident at the critical angle, it undergoes _____.",
+  "options": [
+    "Reflection",
+    "Refraction",
+    "Diffraction",
+    "Dispersion"
+  ],
+  "answer": "Total internal reflection"
+},
+{
+  "number": 46,
+  "question": "Which type of mirror can form both real and virtual images?",
+  "options": [
+    "Convex mirror",
+    "Concave mirror",
+    "Plane mirror",
+    "None of the above"
+  ],
+  "answer": "Concave mirror"
+},
+{
+  "number": 47,
+  "question": "The rainbow is a result of _____.",
+  "options": [
+    "Reflection",
+    "Refraction",
+    "Diffraction",
+    "Dispersion"
+  ],
+  "answer": "Dispersion"
+},
+{
+  "number": 48,
+  "question": "Whichof the following is not a type of mirror?",
+  "options": [
+    "Convex mirror",
+    "Concave mirror",
+    "Plane mirror",
+    "Cylindrical mirror"
+  ],
+  "answer": "Cylindrical mirror"
+},
+{
+  "number": 49,
+  "question": "Which of the following is a phenomenon due to polarization?",
+  "options": [
+    "Twinkling of stars",
+    "Mirage",
+    "Rainbow",
+    "3D movies"
+  ],
+  "answer": "3D movies"
+},
+{
+  "number": 50,
+  "question": "Which of the following colors of light is refracted the least?",
+  "options": [
+    "Red",
+    "Blue",
+    "Green",
+    "Violet"
+  ],
+  "answer": "Red"
+},
+{
+  "number": 51,
+  "question": "A concave lens always forms a _____ image.",
+  "options": [
+    "Virtual and erect",
+    "Real and inverted",
+    "Virtual and inverted",
+    "Real and erect"
+  ],
+  "answer": "Virtual and erect"
+},
+{
+  "number": 52,
+  "question": "Which of the following is an example of regular reflection?",
+  "options": [
+    "Shining of stars",
+    "Twinkling of stars",
+    "Mirror reflection",
+    "Refraction"
+  ],
+  "answer": "Mirror reflection"
+},
+{
+  "number": 53,
+  "question": "Which color of light bends the most while passing through a glass prism?",
+  "options": [
+    "Red",
+    "Blue",
+    "Green",
+    "Violet"
+  ],
+  "answer": "Violet"
+},
+{
+  "number": 54,
+  "question": "When light travels from a denser medium to a rarer medium, it bends _____ the normal.",
+  "options": [
+    "Towards",
+    "Away from",
+    "Parallel to",
+    "None of the above"
+  ],
+  "answer": "Away from"
+},
+{
+  "number": 55,
+  "question": "Which type of lens is used to correct farsightedness?",
+  "options": [
+    "Convex lens",
+    "Concave lens",
+    "Plano-convex lens",
+    "Plano-concave lens"
+  ],
+  "answer": "Convex lens"
+},
+{
+  "number": 56,
+  "question": "The speed of light is maximum in which of the following?",
+  "options": [
+    "Vacuum",
+    "Water",
+    "Glass",
+    "Air"
+  ],
+  "answer": "Vacuum"
+},
+{
+  "number": 57,
+  "question": "Which of the following is a phenomenon due to diffraction?",
+  "options": [
+    "Twinkling of stars",
+    "Mirage",
+    "Rainbow",
+    "Polarization"
+  ],
+  "answer": "Twinkling of stars"
+},
+{
+  "number": 58,
+  "question": "Which of the following colors of light has the shortest wavelength?",
+  "options": [
+    "Red",
+    "Blue",
+    "Green",
+    "Violet"
+  ],
+  "answer": "Violet"
+},
+{
+  "number": 59,
+  "question": "Which phenomenon causes the bending of light around sharp edges?",
+  "options": [
+    "Reflection",
+    "Refraction",
+    "Diffraction",
+    "Dispersion"
+  ],
+  "answer": "Diffraction"
+},
+{
+  "number": 60,
+  "question": "The angle ofreflection is always equal to the angle of _____.",
+  "options": [
+    "Refraction",
+    "Diffraction",
+    "Dispersion",
+    "Incidence"
+  ],
+  "answer": "Incidence"
+},
+{
+  "number": 61,
+  "question": "Which type of lens is used in a magnifying glass?",
+  "options": [
+    "Convex lens",
+    "Concave lens",
+    "Plano-convex lens",
+    "Plano-concave lens"
+  ],
+  "answer": "Convex lens"
+},
+{
+  "number": 62,
+  "question": "When light travels from a rarer medium to a denser medium, it bends _____ the normal.",
+  "options": [
+    "Towards",
+    "Away from",
+    "Parallel to",
+    "None of the above"
+  ],
+  "answer": "Towards"
+},
+{
+  "number": 63,
+  "question": "Which of the following is not a characteristic of an image formed by a plane mirror?",
+  "options": [
+    "Virtual",
+    "Inverted",
+    "Same size as the object",
+    "Behind the mirror"
+  ],
+  "answer": "Inverted"
+},
+{
+  "number": 64,
+  "question": "Which of the following colors of light has the longest wavelength?",
+  "options": [
+    "Red",
+    "Blue",
+    "Green",
+    "Violet"
+  ],
+  "answer": "Red"
+},
+{
+  "number": 65,
+  "question": "Which type of lens is used to correct nearsightedness?",
+  "options": [
+    "Convex lens",
+    "Concave lens",
+    "Plano-convex lens",
+    "Plano-concave lens"
+  ],
+  "answer": "Concave lens"
+},
+{
+  "number": 66,
+  "question": "Which of the following is an example of diffuse reflection?",
+  "options": [
+    "Shining of stars",
+    "Twinkling of stars",
+    "Mirror reflection",
+    "Refraction"
+  ],
+  "answer": "Refraction"
+},
+{
+  "number": 67,
+  "question": "Which color of light bends the least while passing through a glass prism?",
+  "options": [
+    "Red",
+    "Blue",
+    "Green",
+    "Violet"
+  ],
+  "answer": "Red"
+},
+{
+  "number": 68,
+  "question": "Which type of mirror can form an enlarged virtual image?",
+  "options": [
+    "Convex mirror",
+    "Concave mirror",
+    "Plane mirror",
+    "None of the above"
+  ],
+  "answer": "Convex mirror"
+},
+{
+  "number": 69,
+  "question": "Which of the following is not a type of dispersion?",
+  "options": [
+    "Rainbow",
+    "Prism",
+    "Water droplets",
+    "Diffraction grating"
+  ],
+  "answer": "Prism"
+},
+{
+  "number": 70,
+  "question": "The bending of light around obstacles is called _____.",
+  "options": [
+    "Reflection",
+    "Refraction",
+    "Diffraction",
+    "Dispersion"
+  ],
+  "answer": "Diffraction"
+},
+{
+  "number": 71,
+  "question": "Which of the following colors of light is refracted the most?",
+  "options": [
+    "Red",
+    "Blue",
+    "Green",
+    "Violet"
+  ],
+  "answer": "Violet"
+},
+{
+  "number": 72,
+  "question": "Which of the following is not a characteristic of an image formed by a convex lens?",
+  "options": [
+    "Real and inverted",
+    "Virtual and erect",
+    "Enlarged",
+    "Behind the lens"
+  ],
+  "answer": "Behind the lens"
+},
+{
+  "number": 73,
+  "question": "Which of the following is an example of irregular reflection?",
+  "options": [
+    "Shining of stars",
+    "Twinkling of stars",
+    "Mirror reflection",
+    "Refraction"
+  ],
+  "answer": "Twinkling of stars"
+},
+{
+  "number": 74,
+  "question": "Which color of light bends the most while passing through a glass prism?",
+  "options": [
+    "Red",
+    "Blue",
+    "Green",
+    "Violet"
+  ],
+  "answer": "Violet"
+},
+{
+  "number": 75,
+  "question": "When light travels from a denser medium to a rarer medium, it bends _____ the normal.",
+  "options": [
+    "Towards",
+    "Away from",
+    "Parallel to",
+    "None of the above"
+  ],
+  "answer": "Away from"
+},
+{
+  "number": 76,
+  "question": "Which type of lens is used to correct farsightedness?",
+  "options": [
+    "Convex lens",
+    "Concave lens",
+    "Plano-convex lens",
+    "Plano-concave lens"
+  ],
+  "answer": "Convex lens"
+},
+{
+  "number": 77,
+  "question": "The speed of light is maximum in which of the following?",
+  "options": [
+    "Vacuum",
+    "Water",
+    "Glass",
+    "Air"
+  ],
+  "answer": "Vacuum"
+},
+{
+  "number": 78,
+  "question": "Which of the following is a phenomenon due to diffraction?",
+  "options": [
+    "Twinkling of stars",
+    "Mirage",
+    "Rainbow",
+    "Polarization"
+  ],
+  "answer": "Twinkling of stars"
+},
+{
+  "number": 79,
+  "question": "Which of the following colors of light has the shortest wavelength?",
+  "options": [
+    "Red",
+    "Blue",
+    "Green",
+    "Violet"
+  ],
+  "answer": "Violet"
+},
+{
+  "number": 80,
+  "question": "Which phenomenon causes the bending of light around sharp edges?",
+  "options": [
+    "Reflection",
+    "Refraction",
+    "Diffraction",
+    "Dispersion"
+  ],
+  "answer": "Diffraction"
+},
+{
+  "number": 81,
+  "question": "The angle of reflection is always equal to the angle of _____.",
+  "options": [
+    "Refraction",
+    "Diffraction",
+    "Dispersion",
+    "Incidence"
+  ],
+  "answer": "Incidence"
+},
+{
+  "number": 82,
+  "question": "Which type of lens is used in a magnifying glass?",
+  "options": [
+    "Convex lens",
+    "Concave lens",
+    "Plano-convex lens",
+    "Plano-concave lens"
+  ],
+  "answer": "Convex lens"
+},
+{
+  "number": 83,
+  "question": "When light travels from a rarer medium to a denser medium, it bends _____ the normal.",
+  "options": [
+    "Towards",
+    "Away from",
+    "Parallel to",
+   "None of the above"
+  ],
+  "answer": "Towards"
+},
+{
+  "number": 84,
+  "question": "Which of the following is not a characteristic of an image formed by a plane mirror?",
+  "options": [
+    "Virtual",
+    "Inverted",
+    "Same size as the object",
+    "Behind the mirror"
+  ],
+  "answer": "Inverted"
+},
+{
+  "number": 85,
+  "question": "Which of the following colors of light has the longest wavelength?",
+  "options": [
+    "Red",
+    "Blue",
+    "Green",
+    "Violet"
+  ],
+  "answer": "Red"
+},
+{
+  "number": 86,
+  "question": "Which type of lens is used to correct nearsightedness?",
+  "options": [
+    "Convex lens",
+    "Concave lens",
+    "Plano-convex lens",
+    "Plano-concave lens"
+  ],
+  "answer": "Concave lens"
+},
+{
+  "number": 87,
+  "question": "Which of the following is an example of diffuse reflection?",
+  "options": [
+    "Shining of stars",
+    "Twinkling of stars",
+    "Mirror reflection",
+    "Refraction"
+  ],
+  "answer": "Refraction"
+},
+{
+  "number": 88,
+  "question": "Which color of light bends the least while passing through a glass prism?",
+  "options": [
+    "Red",
+    "Blue",
+    "Green",
+    "Violet"
+  ],
+  "answer": "Red"
+},
+{
+  "number": 89,
+  "question": "Which type of mirror can form an enlarged virtual image?",
+  "options": [
+    "Convex mirror",
+    "Concave mirror",
+    "Plane mirror",
+    "None of the above"
+  ],
+  "answer": "Convex mirror"
+},
+{
+  "number": 90,
+  "question": "Which of the following is not a type of dispersion?",
+  "options": [
+    "Rainbow",
+    "Prism",
+    "Water droplets",
+    "Diffraction grating"
+  ],
+  "answer": "Prism"
+},
+{
+  "number": 91,
+  "question": "The bending of light around obstacles is called _____.",
+  "options": [
+    "Reflection",
+    "Refraction",
+    "Diffraction",
+    "Dispersion"
+  ],
+  "answer": "Diffraction"
+},
+{
+  "number": 92,
+  "question": "Which of the following colors of light is refracted the most?",
+  "options": [
+    "Red",
+    "Blue",
+    "Green",
+    "Violet"
+  ],
+  "answer": "Violet"
+},
+{
+  "number": 93,
+  "question": "Which of the following is not a characteristic of an image formed by a convex lens?",
+  "options": [
+    "Real and inverted",
+    "Virtual and erect",
+    "Enlarged",
+    "Behind the lens"
+  ],
+  "answer": "Behind the lens"
+},
+{
+  "number": 94,
+  "question": "Which of the following is an example of irregular reflection?",
+  "options": [
+    "Shining of stars",
+    "Twinkling of stars",
+    "Mirror reflection",
+    "Refraction"
+  ],
+  "answer": "Twinkling of stars"
+},
+{
+  "number": 95,
+  "question": "Which color of light bends the most while passing through a glass prism?",
+  "options": [
+    "Red",
+    "Blue",
+   "Green",
+    "Violet"
+  ],
+  "answer": "Violet"
+},
+{
+  "number": 96,
+  "question": "When light travels from a denser medium to a rarer medium, it bends _____ the normal.",
+  "options": [
+    "Towards",
+    "Away from",
+    "Parallel to",
+    "None of the above"
+  ],
+  "answer": "Away from"
+},
+{
+  "number": 97,
+  "question": "Which type of lens is used to correct farsightedness?",
+  "options": [
+    "Convex lens",
+    "Concave lens",
+    "Plano-convex lens",
+    "Plano-concave lens"
+  ],
+  "answer": "Convex lens"
+},
+{
+  "number": 98,
+  "question": "The speed of light is maximum in which of the following?",
+  "options": [
+    "Vacuum",
+    "Water",
+    "Glass",
+    "Air"
+  ],
+  "answer": "Vacuum"
+},
+{
+  "number": 99,
+  "question": "Which of the following is a phenomenon due to diffraction?",
+  "options": [
+    "Twinkling of stars",
+    "Mirage",
+    "Rainbow",
+    "Polarization"
+  ],
+  "answer": "Twinkling of stars"
+},
+{
+  "number": 100,
+  "question": "Which of the following colors of light has the shortest wavelength?",
+  "options": [
+    "Red",
+    "Blue",
+    "Green",
+    "Violet"
+  ],
+  "answer": "Violet"
+}
+]

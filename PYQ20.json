@@ -1,0 +1,553 @@
+[
+    {
+      "number": 1,
+      "question": "What is the primary pigment involved in photosynthesis?",
+      "options": [
+        "Chlorophyll",
+        "Melanin",
+        "Hemoglobin",
+        "Carotene"
+      ],
+      "answer": "Chlorophyll"
+    },
+    {
+      "number": 2,
+      "question": "What is the waste product of respiration in humans?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Water"
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "number": 3,
+      "question": "What is the main component of blood responsible for carrying oxygen to the body tissues?",
+      "options": [
+        "Red blood cells",
+        "White blood cells",
+        "Platelets",
+        "Plasma"
+      ],
+      "answer": "Red blood cells"
+    },
+    {
+      "number": 4,
+      "question": "Which of the following is the process of removal of waste products from the body?",
+      "options": [
+        "Excretion",
+        "Respiration",
+        "Digestion",
+        "Circulation"
+      ],
+      "answer": "Excretion"
+    },
+    {
+      "number": 5,
+      "question": "What is the main organ of the respiratory system in humans?",
+      "options": [
+        "Lungs",
+        "Nose",
+        "Mouth",
+        "Diaphragm"
+      ],
+      "answer": "Lungs"
+    },
+    {
+      "number": 6,
+      "question": "Which of the following is the process of the breakdown of glucose to release energy in the absence of oxygen?",
+      "options": [
+        "Fermentation",
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration"
+      ],
+      "answer": "Fermentation"
+    },
+    {
+      "number": 7,
+      "question": "What is the process by which organisms release energy from food using oxygen?",
+      "options": [
+        "Aerobic respiration",
+        "Anaerobic respiration",
+        "Fermentation",
+        "Photosynthesis"
+      ],
+      "answer": "Aerobic respiration"
+    },
+    {
+      "number": 8,
+      "question": "Which of the following is the process of the exchange of gases between the respiratory system and the environment?",
+      "options": [
+        "Breathing",
+        "Transpiration",
+        "Circulation",
+        "Digestion"
+      ],
+      "answer": "Breathing"
+    },
+    {
+      "number": 9,
+      "question": "Which of the following is the process by which nutrients are absorbed into the bloodstream from the digestive system?",
+      "options": [
+        "Absorption",
+        "Digestion",
+        "Assimilation",
+        "Excretion"
+      ],
+      "answer": "Absorption"
+    },
+    {
+      "number": 10,
+      "question": "Which of the following is the process by which plants take in water and minerals from the soil?",
+      "options": [
+        "Absorption",
+        "Photosynthesis",
+        "Transpiration",
+        "Fermentation"
+      ],
+      "answer": "Absorption"
+    },
+    {
+      "number": 11,
+      "question": "Which of the following is the process by which plants convert light energy into chemical energy?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Fermentation"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "number": 12,
+      "question": "What is the primary excretory organ in plants?",
+      "options": [
+        "Leaves",
+        "Roots",
+        "Stems",
+        "Flowers"
+      ],
+      "answer": "Leaves"
+    },
+    {
+      "number": 13,
+      "question": "Which of the following is the process by which plants release water vapor into the atmosphere?",
+      "options": [
+        "Transpiration",
+        "Respiration",
+        "Photosynthesis",
+        "Absorption"
+      ],
+      "answer": "Transpiration"
+    },
+    {
+      "number": 14,
+      "question": "Which of the following is the process by which waste materials are eliminated from the body in the form of urine?",
+      "options": [
+        "Urination",
+        "Excretion",
+        "Circulation",
+        "Digestion"
+      ],
+      "answer": "Urination"
+    },
+    {
+      "number": 15,
+      "question": "What is the process by which substances are transported through the plant body?",
+      "options": [
+        "Translocation",
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration"
+      ],
+      "answer": "Translocation"
+    },
+    {
+      "number": 16,
+      "question": "What is the process by which plants bend or turn towards a source of light?",
+      "options": [
+        "Phototropism",
+        "Geotropism",
+        "Hydrotropism",
+        "Thigmotropism"
+      ],
+      "answer": "Phototropism"
+    },
+    {
+      "number": 17,
+      "question": "Which of the following is the process by which green plants make food using sunlight?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Digestion",
+        "Circulation"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "number": 18,
+      "question": "What is the process by which food is broken down into simpler substances in the body?",
+      "options": [
+        "Digestion",
+        "Assimilation",
+        "Excretion",
+        "Absorption"
+      ],
+      "answer": "Digestion"
+    },
+    {
+      "number": 19,
+      "question": "Which of the following is the main site of digestion and absorption of food in the human body?",
+      "options": [
+        "Small intestine",
+        "Large intestine",
+        "Stomach",
+        "Liver"
+      ],
+      "answer": "Small intestine"
+    },
+    {
+      "number": 20,
+      "question": "What is the process by which nutrients are taken up by cells and used for energy, growth, and repair?",
+      "options": [
+        "Assimilation",
+        "Respiration",
+        "Excretion",
+        "Circulation"
+      ],
+      "answer": "Assimilation"
+    },
+    {
+      "number": 21,
+      "question": "Which of the following is the process of removal of waste products from the body?",
+      "options": [
+        "Excretion",
+        "Respiration",
+        "Digestion",
+        "Circulation"
+      ],
+      "answer": "Excretion"
+    },
+    {
+      "number": 22,
+      "question": "What is the primary excretory organ in humans?",
+      "options": [
+        "Kidneys",
+        "Liver",
+        "Lungs",
+        "Skin"
+      ],
+      "answer": "Kidneys"
+    },
+    {
+      "number": 23,
+      "question": "Which of the following is the process of the transport of oxygenated blood to body tissues?",
+      "options": [
+        "Circulation",
+        "Respiration",
+        "Digestion",
+        "Assimilation"
+      ],
+      "answer": "Circulation"
+    },
+    {
+      "number": 24,
+      "question": "What is the largest organ in the human body?",
+      "options": [
+        "Skin",
+        "Liver",
+        "Heart",
+        "Lungs"
+      ],
+      "answer": "Skin"
+    },
+    {
+      "number": 25,
+      "question": "Which of the following is the process by which plants lose water vapor through small openings on their leaves?",
+      "options": [
+        "Transpiration",
+        "Respiration",
+        "Photosynthesis",
+        "Absorption"
+      ],
+      "answer": "Transpiration"
+    },
+    {
+      "number": 26,
+      "question": "What is the process by which plants convert light energy into chemical energy?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Fermentation"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "number": 27,
+      "question": "Which of the following is the process by which waste materials are eliminated from the body in the form of feces?",
+      "options": [
+        "Defecation",
+        "Urination",
+        "Excretion",
+        "Circulation"
+      ],
+      "answer": "Defecation"
+    },
+    {
+      "number": 28,
+      "question": "What is the process by which nutrients are transported within the body of an organism?",
+      "options": [
+        "Circulation",
+        "Respiration",
+        "Digestion",
+        "Assimilation"
+      ],
+      "answer": "Circulation"
+    },
+    {
+      "number": 29,
+      "question": "Which of the following is the process by which plants respond to gravity?",
+      "options": [
+        "Geotropism",
+        "Phototropism",
+        "Hydrotropism",
+        "Thigmotropism"
+      ],
+      "answer": "Geotropism"
+    },
+    {
+      "number": 30,
+      "question": "What is the process by which plants absorb water through their roots?",
+      "options": [
+        "Root absorption",
+        "Capillary action",
+        "Osmosis",
+        "Transpiration"
+      ],
+      "answer": "Root absorption"
+    },
+    {
+      "number": 31,
+      "question": "Which of the following is the process of conversion of food into simpler substances in the body?",
+      "options": [
+        "Digestion",
+        "Assimilation",
+        "Respiration",
+        "Excretion"
+      ],
+      "answer": "Digestion"
+    },
+    {
+      "number": 32,
+      "question": "What is the process by which food is broken down into simpler substances outside the body?",
+      "options": [
+        "External digestion",
+        "Internal digestion",
+        "Assimilation",
+        "Excretion"
+      ],
+      "answer": "External digestion"
+    },
+    {
+      "number": 33,
+      "question": "Which of the following is the process by which plants respond to touch or contact?",
+      "options": [
+        "Thigmotropism",
+        "Phototropism",
+        "Geotropism",
+        "Hydrotropism"
+      ],
+      "answer": "Thigmotropism"
+    },
+    {
+      "number": 34,
+      "question": "What is the process by which plants release oxygen into the atmosphere?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Fermentation"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "number": 35,
+      "question": "Which of the following is the process of the transport of nutrients and oxygen to body cells?",
+      "options": [
+        "Circulation",
+        "Respiration",
+        "Digestion",
+        "Assimilation"
+      ],
+      "answer": "Circulation"
+    },
+    {
+      "number": 36,
+      "question": "What is the main component of the circulatory system in humans?",
+      "options": [
+        "Heart",
+        "Lungs",
+        "Liver",
+        "Kidneys"
+      ],
+      "answer": "Heart"
+    },
+    {
+      "number": 37,
+      "question": "Which of the following is the process by which plants bend or turn towards water?",
+      "options": [
+        "Hydrotropism",
+        "Phototropism",
+        "Geotropism",
+        "Thigmotropism"
+      ],
+      "answer": "Hydrotropism"
+    },
+    {
+      "number": 38,
+      "question": "What is the process by which plants take in carbon dioxide from the atmosphere?",
+      "options": [
+        "Carbon dioxide absorption",
+        "Carbon dioxide fixation",
+        "Carbon dioxide release",
+        "Carbon dioxide reduction"
+      ],
+      "answer": "Carbon dioxide absorption"
+    },
+    {
+      "number": 39,
+      "question": "Which of the following is the process of the exchange of gases between the respiratory system and the blood?",
+      "options": [
+        "Internal respiration",
+        "External respiration",
+        "Cellular respiration",
+        "Aerobic respiration"
+      ],
+      "answer": "External respiration"
+    },
+    {
+      "number": 40,
+      "question": "What is the process by which waste materials are eliminated from the body in the form of sweat?",
+      "options": [
+        "Perspiration",
+        "Urination",
+        "Excretion",
+        "Circulation"
+      ],
+      "answer": "Perspiration"
+    },
+    {
+      "number": 41,
+      "question": "Which of the following is the process by which plants respond to the presence of light?",
+      "options": [
+        "Phototropism",
+        "Geotropism",
+        "Thigmotropism",
+        "Hydrotropism"
+      ],
+      "answer": "Phototropism"
+    },
+    {
+      "number": 42,
+      "question": "What is the process by which plants produce oxygen as a byproduct?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Fermentation"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "number": 43,
+      "question": "Which of the following is the process of the breakdown of food to release energy in cells?",
+      "options": [
+        "Cellular respiration",
+        "Aerobic respiration",
+        "Anaerobic respiration",
+        "Fermentation"
+      ],
+      "answer": "Cellular respiration"
+    },
+    {
+      "number": 44,
+      "question": "What is the main organ of the excretory system in humans?",
+      "options": [
+        "Kidneys",
+        "Liver",
+        "Lungs",
+        "Skin"
+      ],
+      "answer": "Kidneys"
+    },
+    {
+      "number": 45,
+      "question": "Which of the following is the process of the transport of nutrients and oxygen within a plant?",
+      "options": [
+        "Translocation",
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration"
+      ],
+      "answer": "Translocation"
+    },
+    {
+      "number": 46,
+      "question": "What is the process by which plants respond to the force of gravity?",
+      "options": [
+        "Geotropism",
+        "Phototropism",
+        "Thigmotropism",
+        "Hydrotropism"
+      ],
+      "answer": "Geotropism"
+    },
+    {
+      "number": 47,
+      "question": "Which of the following is the process of the transport of nutrients and water within a plant?",
+      "options": [
+        "Xylem",
+        "Phloem",
+        "Transpiration",
+        "Translocation"
+      ],
+      "answer": "Phloem"
+    },
+    {
+      "number": 48,
+      "question": "What is the process by which plants absorb water through their leaves?",
+      "options": [
+        "Foliar absorption",
+        "Capillary action",
+        "Osmosis",
+        "Transpiration"
+      ],
+      "answer": "Foliar absorption"
+    },
+    {
+      "number": 49,
+      "question": "Which of the following is the process by which plants respond to the presence of water?",
+      "options": [
+        "Hydrotropism",
+        "Phototropism",
+        "Geotropism",
+        "Thigmotropism"
+      ],
+      "answer": "Hydrotropism"
+    },
+    {
+      "number": 50,
+      "question": "What is the process by which plants convert stored energy into usable energy for growth and metabolism?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Fermentation"
+      ],
+      "answer": "Respiration"
+    }
+  ]
+

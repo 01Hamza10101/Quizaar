@@ -1,0 +1,1105 @@
+[
+    {
+      "number": 1,
+      "question": "Define sustainable management of natural resources.",
+      "options": [
+        "Preserving natural resources for future generations",
+        "Using natural resources without considering the environment",
+        "Exploiting natural resources for immediate gain",
+        "Ignoring the importance of natural resources"
+      ],
+      "answer": "Preserving natural resources for future generations"
+    },
+    {
+      "number": 2,
+      "question": "What is the role of renewable energy in sustainable resource management?",
+      "options": [
+        "Renewable energy is not important for resource management",
+        "Renewable energy reduces the need for non-renewable resources",
+        "Renewable energy has a negative impact on the environment",
+        "Renewable energy is expensive and inefficient"
+      ],
+      "answer": "Renewable energy reduces the need for non-renewable resources"
+    },
+    {
+      "number": 3,
+      "question": "What are the three R's in sustainable resource management?",
+      "options": [
+        "Reduce, Reuse, Recycle",
+        "Reserve, Refuse, Remove",
+        "Reject, Rebuild, Regenerate",
+        "Restore, Replace, Remove"
+      ],
+      "answer": "Reduce, Reuse, Recycle"
+    },
+    {
+      "number": 4,
+      "question": "What is the main objective of sustainable resource management?",
+      "options": [
+        "Maximize resource extraction",
+        "Minimize resource utilization",
+        "Ensure long-term resource availability",
+        "Promote resource scarcity"
+      ],
+      "answer": "Ensure long-term resource availability"
+    },
+    {
+      "number": 5,
+      "question": "Why is sustainable management of natural resources important?",
+      "options": [
+        "It has no impact on the environment",
+        "It helps to conserve resources for future generations",
+        "It leads to rapid resource depletion",
+        "It is not economically viable"
+      ],
+      "answer": "It helps to conserve resources for future generations"
+    },
+    {
+      "number": 6,
+      "question": "What is the significance of biodiversity in sustainable resource management?",
+      "options": [
+        "Biodiversity has no relation to resource management",
+        "Biodiversity leads to resource degradation",
+        "Biodiversity helps in the sustainable use of resources",
+        "Biodiversity hinders resource extraction"
+      ],
+      "answer": "Biodiversity helps in the sustainable use of resources"
+    },
+    {
+      "number": 7,
+      "question": "What are non-renewable resources?",
+      "options": [
+        "Resources that can be replenished quickly",
+        "Resources that cannot be depleted",
+        "Resources that take millions of years to form",
+        "Resources that are abundant in nature"
+      ],
+      "answer": "Resources that take millions of years to form"
+    },
+    {
+      "number": 8,
+      "question": "How can water resources be sustainably managed?",
+      "options": [
+        "By wasting water as much as possible",
+        "By using water without any restrictions",
+        "By conserving and efficiently using water",
+        "By polluting water sources"
+      ],
+      "answer": "By conserving and efficiently using water"
+    },
+    {
+      "number": 9,
+      "question": "What is the concept of sustainable agriculture?",
+      "options": [
+        "Using chemical fertilizers and pesticides in large quantities",
+        "Promoting monoculture and genetic modification",
+        "Practicing organic farming and crop rotation",
+        "Destroying natural habitats for agriculture"
+      ],
+      "answer": "Practicing organic farming and crop rotation"
+    },
+    {
+      "number": 10,
+      "question": "What is the role of community participation in sustainable resource management?",
+      "options": [
+        "Community participation has no impact on resource management",
+        "Community participation helps in exploiting resources",
+        "Community participation ensures sustainable resource use",
+        "Community participation leads to resource depletion"
+      ],
+      "answer": "Community participation ensures sustainable resource use"
+    },
+    {
+      "number": 11,
+      "question": "What are the consequences of overexploitation of natural resources?",
+      "options": [
+        "Sustainable resource management",
+        "Resource conservation",
+        "Resource depletion and environmental degradation",
+        "Resource regeneration"
+      ],
+      "answer": "Resource depletion and environmental degradation"
+    },
+    {
+      "number": 12,
+      "question": "What is the significance of forests in sustainable resource management?",
+      "options": [
+        "Forests have no impact on resource management",
+        "Forests lead to resource scarcity",
+        "Forests promote sustainable resource use",
+        "Forests hinder economic development"
+      ],
+      "answer": "Forests promote sustainable resource use"
+    },
+    {
+      "number": 13,
+      "question": "What is the concept of waste management in sustainable resource management?",
+      "options": [
+        "Dumping waste in natural habitats",
+        "Burning waste for energy generation",
+        "Reducing waste generation and proper disposal",
+        "Ignoring waste management practices"
+      ],
+      "answer": "Reducing waste generation and proper disposal"
+    },
+    {
+      "number": 14,
+      "question": "What are the advantages of using renewable energy sources?",
+      "options": [
+        "Renewable energy sources are expensive and unreliable",
+        "Renewable energy sources contribute to pollution",
+        "Renewable energy sources reduce greenhouse gas emissions",
+        "Renewable energy sources deplete natural resources"
+      ],
+      "answer": "Renewable energy sources reduce greenhouse gas emissions"
+    },
+    {
+      "number": 15,
+      "question": "How can we promote sustainable resource management in urban areas?",
+      "options": [
+        "By increasing resource consumption in cities",
+        "By implementing efficient waste management systems",
+        "By prioritizing industrial growth over resource conservation",
+        "By neglecting environmental considerations"
+      ],
+      "answer": "By implementing efficient waste management systems"
+    },
+    {
+      "number": 16,
+      "question": "What is the role of technology in sustainable resource management?",
+      "options": [
+        "Technology has no impact on resource management",
+        "Technology leads to resource depletion",
+        "Technology promotes sustainable resource use",
+        "Technology hinders economic development"
+      ],
+      "answer": "Technology promotes sustainable resource use"
+    },
+    {
+      "number": 17,
+      "question": "What is the concept of sustainable fishing?",
+      "options": [
+        "Overfishing and exploiting fish populations",
+        "Using destructive fishing methods",
+        "Managing fish populations for long-term sustainability",
+        "Ignoring fishing regulations"
+      ],
+      "answer": "Managing fish populations for long-term sustainability"
+    },
+    {
+      "number": 18,
+      "question": "How can we conserve energy resources?",
+      "options": [
+        "By increasing energy consumption",
+        "By wasting energy as much as possible",
+        "By using energy-efficient appliances and practices",
+        "By promoting energy-intensive industries"
+      ],
+      "answer": "By using energy-efficient appliances and practices"
+    },
+    {
+      "number": 19,
+      "question": "What is the concept of sustainable mining?",
+      "options": [
+        "Unregulated mining practices",
+        "Maximizing mineral extraction without considering the environment",
+        "Mining minerals in a responsible and environmentally-friendly manner",
+        "Ignoring the impact of mining on local communities"
+      ],
+      "answer": "Mining minerals in a responsible and environmentally-friendly manner"
+    },
+    {
+      "number": 20,
+      "question": "How can we promote sustainable water management?",
+      "options": [
+        "By wasting water without any restrictions",
+        "By polluting water sources",
+        "By conserving and efficiently using water resources",
+        "By depleting water sources"
+      ],
+      "answer": "By conserving and efficiently using water resources"
+    },
+    {
+      "number": 21,
+      "question": "What are the benefits of sustainable resource management?",
+      "options": [
+        "Increased resource depletion",
+        "Environmental degradation",
+        "Long-term resource availability and ecological balance",
+        "Economic stagnation"
+      ],
+      "answer": "Long-term resource availability and ecological balance"
+    },
+    {
+      "number": 22,
+      "question": "How can sustainable resource management contribute to economic development?",
+      "options": [
+        "By depleting resources for immediate economic gains",
+        "By neglecting environmental considerations",
+        "By promoting sustainable and responsible resource use",
+        "By ignoring the needs of future generations"
+      ],
+      "answer": "By promoting sustainable and responsible resource use"
+    },
+    {
+      "number": 23,
+      "question": "What is the concept of sustainable forestry?",
+      "options": [
+        "Clear-cutting forests for immediate economic gains",
+        "Exploiting forest resources without considering the environment",
+        "Managing forests in a sustainable and responsible manner",
+        "Ignoring the importance of forests in resource management"
+      ],
+      "answer": "Managing forests in a sustainable and responsible manner"
+    },
+    {
+      "number": 24,
+      "question": "What is the role of education in promoting sustainable resource management?",
+      "options": [
+        "Education has no impact on resource management",
+        "Education promotes resource depletion",
+        "Education raises awareness and fosters responsible resource use",
+        "Education hinders economic development"
+      ],
+      "answer": "Education raises awareness and fosters responsible resource use"
+    },
+    {
+      "number": 25,
+      "question": "What are the challenges in implementing sustainable resource management practices?",
+      "options": [
+        "Lack of resources and technology",
+        "Lack of awareness and motivation",
+        "Lack of regulations and policies",
+        "Lack of interest from the community"
+      ],
+      "answer": "Lack of awareness and motivation"
+    },
+    {
+      "number": 26,
+      "question": "What is the concept of sustainable tourism?",
+      "options": [
+        "Exploiting natural and cultural resources for tourism",
+        "Ignoring the impact of tourism on local communities",
+        "Promoting tourism while preserving natural and cultural resources",
+        "Neglecting environmental considerations in tourism"
+      ],
+      "answer": "Promoting tourism while preserving natural and cultural resources"
+    },
+    {
+      "number": 27,
+      "question": "How can sustainable resource management contribute to climate change mitigation?",
+      "options": [
+        "By increasing greenhouse gas emissions",
+        "By neglecting renewable energy sources",
+        "By promoting energy-intensive industries",
+        "By reducing greenhouse gas emissions and promoting renewable energy"
+      ],
+      "answer": "By reducing greenhouse gas emissions and promoting renewable energy"
+    },
+    {
+      "number": 28,
+      "question": "What is the role of government policies in sustainable resource management?",
+      "options": [
+        "Government policies have no impact on resource management",
+        "Government policies promote resource depletion",
+        "Government policies regulate and encourage sustainable resource use",
+        "Government policies hinder economic development"
+      ],
+      "answer": "Government policies regulate and encourage sustainable resource use"
+    },
+    {
+      "number": 29,
+      "question": "What is the concept of sustainable transportation?",
+      "options": [
+        "Promoting private car usage and disregarding public transportation",
+        "Expanding transportation infrastructure without considering the environment",
+        "Promoting efficient and environmentally-friendly transportation systems",
+        "Neglecting the impact of transportation on air pollution"
+      ],
+      "answer": "Promoting efficient and environmentally-friendly transportation systems"
+    },
+    {
+      "number": 30,
+      "question": "How can sustainable resource management contribute to poverty alleviation?",
+      "options": [
+        "By exploiting resources and neglecting local communities",
+        "By promoting resource scarcity and inequality",
+        "By ensuring equitable access to resources and promoting sustainable livelihoods",
+        "By ignoring the needs of marginalized populations"
+      ],
+      "answer": "By ensuring equitable access to resources and promoting sustainable livelihoods"
+    },
+    {
+      "number": 31,
+      "question": "What is the concept of sustainable construction?",
+      "options": [
+        "Using unsustainable materials and practices in construction",
+        "Promoting energy-efficient and environmentally-friendly construction methods",
+        "Ignoring the impact of construction on local communities",
+        "Neglecting the importance of sustainable infrastructure"
+      ],
+      "answer": "Promoting energy-efficient and environmentally-friendly construction methods"
+    },
+    {
+      "number": 32,
+      "question": "What is the role of international cooperation in sustainable resource management?",
+      "options": [
+        "International cooperation has no impact on resource management",
+        "International cooperation promotes resource depletion",
+        "International cooperation fosters responsible resource use and conservation",
+        "International cooperation hinders economic development"
+      ],
+      "answer": "International cooperation fosters responsible resource use and conservation"
+    },
+    {
+      "number": 33,
+      "question": "What is the concept of sustainable land use?",
+      "options": [
+        "Exploiting land resources without considering the environment",
+        "Managing land resources in a sustainable and responsible manner",
+        "Ignoring the impact of land use on biodiversity",
+        "Neglecting the importance of land in resource management"
+      ],
+      "answer": "Managing land resources in a sustainable and responsible manner"
+    },
+    {
+      "number": 34,
+      "question": "How can we promote sustainable resource management in rural areas?",
+      "options": [
+        "By neglecting the needs of rural communities",
+        "By exploiting resources without considering the environment",
+        "By empowering rural communities and promoting sustainable livelihoods",
+        "By promoting urbanization and neglecting rural development"
+      ],
+      "answer": "By empowering rural communities and promoting sustainable livelihoods"
+    },
+    {
+      "number": 35,
+      "question": "What is the role of businesses in sustainable resource management?",
+      "options": [
+        "Businesses have no impact on resource management",
+        "Businesses promote resource depletion",
+        "Businesses can adopt sustainable practices and promote responsible resource use",
+        "Businesses hinder economic development"
+      ],
+      "answer": "Businesses can adopt sustainable practices and promote responsible resource use"
+    },
+    {
+      "number": 36,
+      "question": "What is the concept of sustainable waste management?",
+      "options": [
+        "Dumping waste in natural habitats",
+        "Burning waste for energy generation",
+        "Reducing waste generation and implementing proper disposal methods",
+      "Ignoring waste management practices",
+      "Reducing waste generation and implementing proper disposal methods"
+    ],
+    "answer": "Reducing waste generation and implementing proper disposal methods"
+  },
+  {
+    "number": 37,
+    "question": "What is the role of indigenous knowledge in sustainable resource management?",
+    "options": [
+      "Indigenous knowledge has no impact on resource management",
+      "Indigenous knowledge promotes resource depletion",
+      "Indigenous knowledge contributes to sustainable resource use and conservation",
+      "Indigenous knowledge hinders economic development"
+    ],
+    "answer": "Indigenous knowledge contributes to sustainable resource use and conservation"
+  },
+  {
+    "number": 38,
+    "question": "What is the concept of sustainable manufacturing?",
+    "options": [
+      "Using environmentally harmful materials and practices in manufacturing",
+      "Promoting energy-efficient and environmentally-friendly manufacturing processes",
+      "Ignoring the impact of manufacturing on local communities",
+      "Neglecting the importance of sustainable production"
+    ],
+    "answer": "Promoting energy-efficient and environmentally-friendly manufacturing processes"
+  },
+  {
+    "number": 39,
+    "question": "How can we promote sustainable resource management in coastal areas?",
+    "options": [
+      "By neglecting the impact of human activities on coastal ecosystems",
+      "By exploiting coastal resources without considering the environment",
+      "By implementing coastal conservation and sustainable fishing practices",
+      "By promoting coastal development at the expense of ecosystems"
+    ],
+    "answer": "By implementing coastal conservation and sustainable fishing practices"
+  },
+  {
+    "number": 40,
+    "question": "What is the role of research and innovation in sustainable resource management?",
+    "options": [
+      "Research and innovation have no impact on resource management",
+      "Research and innovation promote resource depletion",
+      "Research and innovation contribute to sustainable and efficient resource use",
+      "Research and innovation hinder economic development"
+    ],
+    "answer": "Research and innovation contribute to sustainable and efficient resource use"
+  },
+  {
+    "number": 41,
+    "question": "What is the concept of sustainable urban planning?",
+    "options": [
+      "Promoting unsustainable urban development",
+      "Ignoring the impact of urbanization on natural resources",
+      "Planning cities in a sustainable and environmentally-friendly manner",
+      "Neglecting the importance of urban infrastructure"
+    ],
+    "answer": "Planning cities in a sustainable and environmentally-friendly manner"
+  },
+  {
+    "number": 42,
+    "question": "How can sustainable resource management contribute to social equity?",
+    "options": [
+      "By promoting resource scarcity and inequality",
+      "By neglecting the needs of marginalized populations",
+      "By ensuring equitable access to resources and promoting inclusive development",
+      "By exploiting resources for the benefit of a few"
+    ],
+    "answer": "By ensuring equitable access to resources and promoting inclusive development"
+  },
+  {
+    "number": 43,
+    "question": "What is the role of awareness campaigns in sustainable resource management?",
+    "options": [
+      "Awareness campaigns have no impact on resource management",
+      "Awareness campaigns promote resource depletion",
+      "Awareness campaigns raise awareness and foster responsible resource use",
+      "Awareness campaigns hinder economic development"
+    ],
+    "answer": "Awareness campaigns raise awareness and foster responsible resource use"
+  },
+  {
+    "number": 44,
+    "question": "What is the concept of sustainable consumption?",
+    "options": [
+      "Promoting excessive and wasteful consumption",
+      "Ignoring the impact of consumption patterns on resource depletion",
+      "Promoting responsible and mindful consumption",
+      "Neglecting the importance of consumption in resource management"
+    ],
+    "answer": "Promoting responsible and mindful consumption"
+  },
+  {
+    "number": 45,
+    "question": "How can sustainable resource management contribute to disaster risk reduction?",
+    "options": [
+      "By neglecting the impact of resource management on disaster risk",
+      "By promoting unsustainable practices that increase disaster risk",
+      "By integrating disaster risk reduction strategies into resource management",
+      "By ignoring the need for disaster preparedness"
+    ],
+    "answer": "By integrating disaster risk reduction strategies into resource management"
+  },
+  {
+    "number": 46,
+    "question": "What is the role of ethics in sustainable resource management?",
+    "options": [
+      "Ethics have no impact on resource management",
+      "Ethics promote resource depletion",
+      "Ethics guide responsible and sustainable resource use",
+      "Ethics hinder economic development"
+    ],
+    "answer": "Ethics guide responsible and sustainable resource use"
+  },
+  {
+    "number": 47,
+    "question": "What is the concept of sustainable development?",
+    "options": [
+      "Promoting short-term economic growth at the expense of the environment",
+      "Neglecting the impact of human activities on natural resources",
+      "Balancing economic, social, and environmental considerations for long-term well-being",
+      "Ignoring the importance of development in resource management"
+    ],
+    "answer": "Balancing economic, social, and environmental considerations for long-term well-being"
+  },
+  {
+    "number": 48,
+    "question": "How can sustainable resource management contribute to biodiversity conservation?",
+    "options": [
+      "By promoting practices that lead to biodiversity loss",
+      "By neglecting the importance of biodiversity in resource management",
+      "By implementing conservation measures that protect and restore biodiversity",
+      "By prioritizing resource extraction over biodiversity conservation"
+    ],
+    "answer": "By implementing conservation measures that protect and restore biodiversity"
+  },
+  {
+    "number": 49,
+    "question": "What is the role of cultural heritage in sustainable resource management?",
+    "options": [
+      "Cultural heritage has no impact on resource management",
+      "Cultural heritage promotes resource depletion",
+      "Cultural heritage contributes to sustainable resource use and conservation",
+      "Cultural heritage hinders economic development"
+    ],
+    "answer": "Cultural heritage contributes to sustainable resource use and conservation"
+  },
+  {
+    "number": 50,
+    "question": "What is the concept of sustainable water harvesting?",
+    "options": [
+      "Promoting wasteful water consumption practices",
+      "Ignoring the impact of water use on ecosystems",
+      "Harvesting and using water in a sustainable and responsible manner",
+      "Neglecting the importance of water in resource management"
+    ],
+    "answer": "Harvesting and using water in a sustainable and responsible manner"
+  },
+  {
+    "number": 51,
+    "question": "How can sustainable resource management contribute to human health?",
+    "options": [
+      "By promoting practices that negatively impact human health",
+      "By neglecting the importance of environmental factors in human health",
+      "By ensuring a clean and healthy environment through responsible resource use",
+      "By ignoring the health needs of communities"
+    ],
+    "answer": "By ensuring a clean and healthy environment through responsible resource use"
+  },
+  {
+    "number": 52,
+    "question": "What is the role of circular economy in sustainable resource management?",
+    "options": [
+      "Circular economy has no impact on resource management",
+      "Circular economy promotes resource depletion",
+      "Circular economy promotes resource reuse and minimizes waste generation",
+      "Circular economy hinders economic development"
+    ],
+    "answer": "Circular economy promotes resource reuse and minimizes waste generation"
+  },
+  {
+    "number": 53,
+    "question": "What is the concept of sustainable fisheries?",
+    "options": [
+      "Overfishing and exploiting fish populations",
+      "Using destructive fishing methods",
+      "Managing fish populations for long-term sustainability",
+      "Ignoring fishing regulations"
+    ],
+    "answer": "Managing fish populations for long-term sustainability"
+  },
+  {
+    "number": 54,
+    "question": "How can sustainable resource management contribute to social well-being?",
+    "options": [
+      "By promoting resource scarcity and inequality",
+      "By neglecting the needs of marginalized populations",
+      "By ensuring equitable access to resources and promoting social inclusivity",
+      "By exploiting resources for the benefit of a few"
+    ],
+    "answer": "By ensuring equitable access to resources and promoting social inclusivity"
+  },
+  {
+    "number": 55,
+    "question": "What is the role of international agreements in sustainable resource management?",
+    "options": [
+      "International agreements have no impact on resource management",
+      "International agreements promote resource depletion",
+      "International agreements foster cooperation and promote responsible resource use",
+      "International agreements hinder economic development"
+    ],
+    "answer": "International agreements foster cooperation and promote responsible resource use"
+  },
+  {
+    "number": 56,
+    "question": "What is the concept of sustainable energy?",
+    "options": [
+      "Promoting the use of fossil fuels and disregarding renewable energy",
+      "Ignoring the impact of energy consumption on the environment",
+      "Promoting renewable and clean energy sources",
+      "Neglecting the importance of energy in resource management"
+    ],
+    "answer": "Promoting renewable and clean energy sources"
+  },
+  {
+    "number": 57,
+    "question": "How can sustainable resource management contribute to cultural diversity?",
+    "options": [
+      "By promoting practices that lead to cultural homogenization",
+      "By neglecting the importance of cultural diversity in resource management",
+      "By recognizing and valuing diverse cultural perspectives in resource use",
+      "By imposing a single cultural perspective on resource management"
+    ],
+    "answer": "By recognizing and valuing diverse cultural perspectives in resource use"
+  },
+  {
+    "number": 58,
+    "question": "What is the role of monitoring and evaluation in sustainable resource management?",
+    "options": [
+      "Monitoring and evaluation have no impact on resource management",
+      "Monitoring and evaluation promote resource depletion",
+      "Monitoring and evaluation ensure accountability and inform adaptive resource management",
+      "Monitoring and evaluation hinder economic development"
+    ],
+    "answer": "Monitoring and evaluation ensure accountability and inform adaptive resource management"
+  },
+  {
+    "number": 59,
+    "question": "What is the concept of sustainable wildlife management?",
+    "options": [
+      "Exploiting wildlife populations without considering the environment",
+      "Conserving and managing wildlife populations for long-term sustainability",
+      "Ignoring the impact of human activities on wildlife",
+      "Promoting illegal wildlife trade"
+    ],
+    "answer": "Conserving and managing wildlife populations for long-term sustainability"
+  },
+  {
+    "number": 60,
+    "question": "How can sustainable resource management contribute to gender equality?",
+    "options": [
+      "By promoting resource scarcity and gender inequality",
+      "By neglecting the needs and rights of women in resource management",
+      "By empowering women and ensuring their equal participation in resource decision-making",
+      "By ignoring the gender dimensions of resource management"
+    ],
+    "answer": "By empowering women and ensuring their equal participation in resource decision-making"
+  },
+  {
+    "number": 61,
+    "question": "What is the role of traditional knowledge in sustainable resource management?",
+    "options": [
+      "Traditional knowledge has no impact on resource management",
+      "Traditional knowledge promotes resource depletion",
+      "Traditional knowledge contributes to sustainable resource use and conservation",
+      "Traditional knowledge hinders economic development"
+    ],
+    "answer": "Traditional knowledge contributes to sustainable resource use and conservation"
+  },
+  {
+    "number": 62,
+    "question": "What is the concept of sustainable soil management?",
+    "options": [
+      "Exploiting soil resources without considering the environment",
+      "Conserving and managing soil resources for long-term productivity",
+      "Ignoring the impact of soil degradation on agriculture",
+      "Promoting soil erosion"
+    ],
+    "answer": "Conserving and managing soil resources for long-term productivity"
+  },
+  {
+    "number": 63,
+    "question": "How can sustainable resource management contribute to food security?",
+    "options": [
+      "By promoting resource scarcity and food insecurity",
+      "By neglecting the importance of sustainable agricultural practices",
+      "By ensuring sustainable and resilient food production systems",
+      "By ignoring the nutritional needs of communities"
+    ],
+    "answer": "By ensuring sustainable and resilient food production systems"
+  },
+  {
+    "number": 64,
+    "question": "What is the role of public participation in sustainable resource management?",
+    "options": [
+      "Public participation has no impact on resource management",
+      "Public participation promotes resource depletion",
+      "Public participation ensures democratic decision-making and fosters sustainable resource use",
+      "Public participation hinders economic development"
+    ],
+    "answer": "Public participation ensures democratic decision-making and fosters sustainable resource use"
+  },
+  {
+    "number": 65,
+    "question": "What is the concept of sustainable tourism?",
+    "options": [
+      "Exploiting natural and cultural resources for tourism",
+      "Ignoring the impact of tourism on local communities",
+      "Promoting tourism while preserving natural and cultural resources",
+      "Neglecting environmental considerations in tourism"
+    ],
+    "answer": "Promoting tourism while preserving natural and cultural resources"
+  },
+  {
+    "number": 66,
+    "question": "How can sustainable resource management contribute to climate change adaptation?",
+    "options": [
+      "By increasing greenhouse gas emissions",
+      "By neglecting renewable energy sources",
+      "By promoting energy-intensive industries",
+      "By implementing adaptive strategies to address the impacts of climate change"
+    ],
+    "answer": "By implementing adaptive strategies to address the impacts of climate change"
+  },
+  {
+    "number": 67,
+    "question": "What is the role of economic incentives in sustainable resource management?",
+    "options": [
+      "Economic incentives have no impact on resource management",
+      "Economic incentives promote resource depletion",
+      "Economic incentives encourage responsible resource use and conservation",
+      "Economic incentives hinder economic development"
+    ],
+    "answer": "Economic incentives encourage responsible resource use and conservation"
+  },
+  {
+    "number": 68,
+    "question": "What is the concept of sustainable transportation?",
+    "options": [
+      "Promoting private car usage and disregarding public transportation",
+      "Expanding transportation infrastructure without considering the environment",
+      "Promoting efficient and environmentally-friendly transportation systems",
+      "Neglecting the impact of transportation on air pollution"
+    ],
+    "answer": "Promoting efficient and environmentally-friendly transportation systems"
+  },
+  {
+    "number": 69,
+    "question": "How can sustainable resource management contribute to disaster resilience?",
+    "options": [
+     
+
+"By neglecting the impact of resource management on disaster risk",
+      "By promoting unsustainable practices that increase disaster risk",
+      "By integrating disaster risk reduction strategies into resource management",
+      "By ignoring the need for disaster preparedness"
+    ],
+    "answer": "By integrating disaster risk reduction strategies into resource management"
+  },
+  {
+    "number": 70,
+    "question": "What is the role of education in promoting sustainable resource management?",
+    "options": [
+      "Education has no impact on resource management",
+      "Education promotes resource depletion",
+      "Education raises awareness and fosters responsible resource use",
+      "Education hinders economic development"
+    ],
+    "answer": "Education raises awareness and fosters responsible resource use"
+  },
+  {
+    "number": 71,
+    "question": "What is the concept of sustainable construction?",
+    "options": [
+      "Using unsustainable materials and practices in construction",
+      "Promoting energy-efficient and environmentally-friendly construction methods",
+      "Ignoring the impact of construction on local communities",
+      "Neglecting the importance of sustainable infrastructure"
+    ],
+    "answer": "Promoting energy-efficient and environmentally-friendly construction methods"
+  },
+  {
+    "number": 72,
+    "question": "How can sustainable resource management contribute to poverty reduction?",
+    "options": [
+      "By exploiting resources and neglecting local communities",
+      "By promoting resource scarcity and inequality",
+      "By ensuring equitable access to resources and promoting sustainable livelihoods",
+      "By ignoring the needs of marginalized populations"
+    ],
+    "answer": "By ensuring equitable access to resources and promoting sustainable livelihoods"
+  },
+  {
+    "number": 73,
+    "question": "What is the role of technological innovation in sustainable resource management?",
+    "options": [
+      "Technological innovation has no impact on resource management",
+      "Technological innovation promotes resource depletion",
+      "Technological innovation fosters sustainable and efficient resource use",
+      "Technological innovation hinders economic development"
+    ],
+    "answer": "Technological innovation fosters sustainable and efficient resource use"
+  },
+  {
+    "number": 74,
+    "question": "What is the concept of sustainable agriculture?",
+    "options": [
+      "Using chemical fertilizers and pesticides in large quantities",
+      "Promoting monoculture and genetic modification",
+      "Practicing organic farming and crop rotation",
+      "Destroying natural habitats for agriculture"
+    ],
+    "answer": "Practicing organic farming and crop rotation"
+  },
+  {
+    "number": 75,
+    "question": "How can sustainable resource management contribute to environmental conservation?",
+    "options": [
+      "By promoting resource depletion and environmental degradation",
+      "By neglecting the importance of environmental conservation",
+      "By implementing conservation measures that protect and restore ecosystems",
+      "By prioritizing economic growth over environmental protection"
+    ],
+    "answer": "By implementing conservation measures that protect and restore ecosystems"
+  },
+  {
+    "number": 76,
+    "question": "What is the role of government policies in sustainable resource management?",
+    "options": [
+      "Government policies have no impact on resource management",
+      "Government policies promote resource depletion",
+      "Government policies regulate and encourage sustainable resource use",
+      "Government policies hinder economic development"
+    ],
+    "answer": "Government policies regulate and encourage sustainable resource use"
+  },
+  {
+    "number": 77,
+    "question": "What is the concept of sustainable manufacturing?",
+    "options": [
+      "Using environmentally harmful materials and practices in manufacturing",
+      "Promoting energy-efficient and environmentally-friendly manufacturing processes",
+      "Ignoring the impact of manufacturing on local communities",
+      "Neglecting the importance of sustainable production"
+    ],
+    "answer": "Promoting energy-efficient and environmentally-friendly manufacturing processes"
+  },
+  {
+    "number": 78,
+    "question": "How can sustainable resource management contribute to social justice?",
+    "options": [
+      "By promoting resource scarcity and inequality",
+      "By neglecting the needs and rights of marginalized populations",
+      "By ensuring equitable access to resources and promoting inclusive development",
+      "By exploiting resources for the benefit of a few"
+    ],
+    "answer": "By ensuring equitable access to resources and promoting inclusive development"
+  },
+  {
+    "number": 79,
+    "question": "What is the role of community participation in sustainable resource management?",
+    "options": [
+      "Community participation has no impact on resource management",
+      "Community participation helps in exploiting resources",
+      "Community participation ensures sustainable resource use",
+      "Community participation leads to resource depletion"
+    ],
+    "answer": "Community participation ensures sustainable resource use"
+  },
+  {
+    "number": 80,
+    "question": "What is the concept of sustainable waste management?",
+    "options": [
+      "Dumping waste in natural habitats",
+      "Burning waste for energy generation",
+      "Reducing waste generation and implementing proper disposal methods",
+      "Ignoring waste management practices"
+    ],
+    "answer": "Reducing waste generation and implementing proper disposal methods"
+  },
+  {
+    "number": 81,
+    "question": "How can sustainable resource management contribute to economic prosperity?",
+    "options": [
+      "By promoting resource scarcity and economic stagnation",
+      "By neglecting economic considerations in resource management",
+      "By promoting sustainable and responsible resource use",
+      "By ignoring the needs of future generations"
+    ],
+    "answer": "By promoting sustainable and responsible resource use"
+  },
+  {
+    "number": 82,
+    "question": "What is the role of technology in sustainable resource management?",
+    "options": [
+      "Technology has no impact on resource management",
+      "Technology leads to resource depletion",
+      "Technology promotes sustainable resource use",
+      "Technology hinders economic development"
+    ],
+    "answer": "Technology promotes sustainable resource use"
+  },
+  {
+    "number": 83,
+    "question": "What is the concept of sustainable forestry?",
+    "options": [
+      "Clear-cutting forests for immediate economic gains",
+      "Exploiting forest resources without considering the environment",
+      "Managing forests in a sustainable and responsible manner",
+      "Ignoring the importance of forests in resource management"
+    ],
+    "answer": "Managing forests in a sustainable and responsible manner"
+  },
+  {
+    "number": 84,
+    "question": "How can sustainable resource management contribute to climate change mitigation?",
+    "options": [
+      "By increasing greenhouse gas emissions",
+      "By neglecting renewable energy sources",
+      "By promoting energy-intensive industries",
+      "By reducing greenhouse gas emissions and promoting renewable energy"
+    ],
+    "answer": "By reducing greenhouse gas emissions and promoting renewable energy"
+  },
+  {
+    "number": 85,
+    "question": "What is the role of international cooperation in sustainable resource management?",
+    "options": [
+      "International cooperation has no impact on resource management",
+      "International cooperation promotes resource depletion",
+      "International cooperation fosters responsible resource use and conservation",
+      "International cooperation hinders economic development"
+    ],
+    "answer": "International cooperation fosters responsible resource use and conservation"
+  },
+  {
+    "number": 86,
+    "question": "What is the concept of sustainable land use?",
+    "options": [
+      "Exploiting land resources without considering the environment",
+      "Managing land resources in a sustainable and responsible manner",
+      "Ignoring the impact of land use on biodiversity",
+      "Neglecting the importance of land in resource management"
+    ],
+    "answer": "Managing land resources in a sustainable and responsible manner"
+  },
+  {
+    "number": 87,
+    "question": "How can sustainable resource management contribute to rural development?",
+    "options": [
+      "By neglecting the needs of rural communities",
+      "By exploiting resources without considering the environment",
+      "By empowering rural communities and promoting sustainable livelihoods",
+      "By promoting urbanization and neglecting rural development"
+    ],
+    "answer": "By empowering rural communities and promoting sustainable livelihoods"
+  },
+  {
+    "number": 88,
+    "question": "What is the role of businesses in sustainable resource management?",
+    "options": [
+      "Businesses have no impact on resource management",
+      "Businesses promote resource depletion",
+      "Businesses can adopt sustainable practices and promote responsible resource use",
+      "Businesses hinder economic development"
+    ],
+    "answer": "Businesses can adopt sustainable practices and promote responsible resource use"
+  },
+  {
+    "number": 89,
+    "question": "What is the concept of sustainable water management?",
+    "options": [
+      "By wasting water without any restrictions",
+      "By polluting water sources",
+      "By conserving and efficiently using water resources",
+      "By depleting water sources"
+    ],
+    "answer": "By conserving and efficiently using water resources"
+  },
+  {
+    "number": 90,
+    "question": "How can sustainable resource management contribute to ecological balance?",
+    "options": [
+      "By promoting resource depletion and environmental degradation",
+      "By neglecting the importance of ecological balance",
+      "By ensuring long-term resource availability and ecological balance",
+      "By prioritizing economic growth over ecological considerations"
+    ],
+    "answer": "By ensuring long-term resource availability and ecological balance"
+  },
+  {
+    "number": 91,
+    "question": "What is the role of innovation in sustainable resource management?",
+    "options": [
+      "Innovation has no impact on resource management",
+      "Innovation promotes resource depletion",
+      "Innovation fosters sustainable and efficient resource use",
+      "Innovation hinders economic development"
+    ],
+    "answer": "Innovation fosters sustainable and efficient resource use"
+  },
+  {
+    "number": 92,
+    "question": "What is the concept of sustainable mining?",
+    "options": [
+      "Unregulated mining practices",
+      "Maximizing mineral extraction without considering the environment",
+      "Mining minerals in a responsible and environmentally-friendly manner",
+      "Ignoring the impact of mining on local communities"
+    ],
+    "answer": "Mining minerals in a responsible and environmentally-friendly manner"
+  },
+  {
+    "number": 93,
+    "question": "How can we promote sustainable agriculture?",
+    "options": [
+      "By using chemical fertilizers and pesticides in large quantities",
+      "By promoting monoculture and genetic modification",
+      "By practicing organic farming and sustainable farming methods",
+      "By destroying natural habitats for agriculture"
+    ],
+    "answer": "By practicing organic farming and sustainable farming methods"
+  },
+  {
+    "number": 94,
+    "question": "What is the role of public awareness in sustainable resource management?",
+    "options": [
+      "Public awareness has no impact on resource management",
+      "Public awareness promotes resource depletion",
+      "Public awareness raises awareness and fosters responsible resource use",
+      "Public awareness hinders economic development"
+    ],
+    "answer": "Public awareness raises awareness and fosters responsible resource use"
+  },
+  {
+    "number": 95,
+    "question": "What is the concept of sustainable fishing?",
+    "options": [
+      "Overfishing and exploiting fish populations",
+      "Using destructive fishing methods",
+      "Managing fish populations for long-term sustainability",
+      "Ignoring fishing regulations"
+    ],
+    "answer": "Managing fish populations for long-term sustainability"
+  },
+  {
+    "number": 96,
+    "question": "How can sustainable resource management contribute to social well-being?",
+    "options": [
+      "By promoting resource scarcity and inequality",
+      "By neglecting the needs of marginalized populations",
+      "By ensuring equitable access to resources and promoting social inclusivity",
+      "By exploiting resources for the benefit of a few"
+    ],
+    "answer": "By ensuring equitable access to resources and promoting social inclusivity"
+  },
+  {
+    "number": 97,
+    "question": "What is the role of international collaboration in sustainable resource management?",
+    "options": [
+      "International collaboration has no impact on resource management",
+      "International collaboration promotes resource depletion",
+      "International collaboration fosters responsible resource use and conservation",
+      "International collaboration hinders economic development"
+    ],
+    "answer": "International collaboration fosters responsible resource use and conservation"
+  },
+  {
+    "number": 98,
+    "question": "What is the concept of sustainable energy?",
+    "options": [
+      "Promoting the use of fossil fuels and disregarding renewable energy",
+      "Ignoring the impact of energy consumption on the environment",
+      "Promoting renewable and clean energy sources",
+      "Neglecting the importance of energy in resource management"
+    ],
+    "answer": "Promoting renewable and clean energy sources"
+  },
+  {
+    "number": 99,
+    "question": "How can sustainable resource management contribute to cultural preservation?",
+    "options": [
+      "By promoting practices that lead to cultural homogenization",
+      "By neglecting the importance of cultural preservation in resource management",
+      "By recognizing and valuing diverse cultural perspectives in resource use",
+      "By imposing a single cultural perspective on resource management"
+    ],
+    "answer": "By recognizing and valuing diverse cultural perspectives in resource use"
+  },
+  {
+    "number": 100,
+    "question": "What is the concept of sustainable water harvesting?",
+    "options": [
+      "Promoting wasteful water consumption practices",
+      "Ignoring the impact of water use on ecosystems",
+      "Harvesting and using water in a sustainable and responsible manner",
+      "Neglecting the importance of water in resource management"
+    ],
+    "answer": "Harvesting and using water in a sustainable and responsible manner"
+  }
+]

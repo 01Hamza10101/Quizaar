@@ -1,0 +1,1102 @@
+[
+  {
+    "number": 1,
+    "question": "What is the process of converting a solid directly into a gas called?",
+    "options": [
+      "Condensation",
+      "Evaporation",
+      "Sublimation",
+      "Melting"
+    ],
+    "answer": "Sublimation"
+  },
+  {
+    "number": 2,
+    "question": "What is the formula to calculate electric current?",
+    "options": [
+      "I = V/R",
+      "I = R/V",
+      "I = P/V",
+      "I = V/P"
+    ],
+    "answer": "I = V/R"
+  },
+  {
+    "number": 3,
+    "question": "Which type of chemical reaction involves the exchange of ions between two compounds?",
+    "options": [
+      "Combustion reaction",
+      "Decomposition reaction",
+      "Displacement reaction",
+      "Synthesis reaction"
+    ],
+    "answer": "Displacement reaction"
+  },
+  {
+    "number": 4,
+    "question": "What is the balanced chemical equation for the reaction of methane (CH4) with oxygen (O2) to form carbon dioxide (CO2) and water (H2O)?",
+    "options": [
+      "CH4 + O2 -> CO2 + H2O",
+      "CO2 + H2O -> CH4 + O2",
+      "CO2 + H2O -> CH4 + O2",
+      "CH4 + O2 -> CO2 + H2O"
+    ],
+    "answer": "CH4 + 2O2 -> CO2 + 2H2O"
+  },
+  {
+    "number": 5,
+    "question": "What is the process of a substance combining with oxygen to produce heat and light called?",
+    "options": [
+      "Decomposition",
+      "Displacement",
+      "Combustion",
+      "Precipitation"
+    ],
+    "answer": "Combustion"
+  },
+  {
+    "number": 6,
+    "question": "Which type of chemical reaction involves the breakdown of a single compound into two or more simpler substances?",
+    "options": [
+      "Synthesis reaction",
+      "Decomposition reaction",
+      "Displacement reaction",
+      "Combustion reaction"
+    ],
+    "answer": "Decomposition reaction"
+  },
+  {
+    "number": 7,
+    "question": "What is the balanced chemical equation for the reaction of sodium (Na) with water (H2O) to form sodium hydroxide (NaOH) and hydrogen gas (H2)?",
+    "options": [
+      "Na + H2O -> NaOH + H2",
+      "NaOH + H2 -> Na + H2O",
+      "NaOH + H2O -> Na + H2",
+      "Na + H2 -> NaOH + H2O"
+    ],
+    "answer": "2Na + 2H2O -> 2NaOH + H2"
+  },
+  {
+    "number": 8,
+    "question": "Which type of chemical reaction involves the combination of two or more substances to form a single compound?",
+    "options": [
+      "Decomposition reaction",
+      "Displacement reaction",
+      "Synthesis reaction",
+      "Combustion reaction"
+    ],
+    "answer": "Synthesis reaction"
+  },
+  {
+    "number": 9,
+    "question": "What is thebalanced chemical equation for the reaction between hydrochloric acid (HCl) and sodium hydroxide (NaOH) to form sodium chloride (NaCl) and water (H2O)?",
+    "options": [
+      "HCl + NaOH -> NaCl + H2O",
+      "NaCl + H2O -> HCl + NaOH",
+      "NaCl + H2O -> HCl + NaOH",
+      "HCl + NaOH -> NaCl + 2H2O"
+    ],
+    "answer": "HCl + NaOH -> NaCl + H2O"
+  },
+  {
+    "number": 10,
+    "question": "Which type of chemical reaction involves the formation of a solid precipitate when two aqueous solutions are mixed?",
+    "options": [
+      "Combustion reaction",
+      "Decomposition reaction",
+      "Displacement reaction",
+      "Precipitation reaction"
+    ],
+    "answer": "Precipitation reaction"
+  },
+  {
+    "number": 11,
+    "question": "What is the balanced chemical equation for the reaction between sulfuric acid (H2SO4) and potassium hydroxide (KOH) to form potassium sulfate (K2SO4) and water (H2O)?",
+    "options": [
+      "H2SO4 + KOH -> K2SO4 + H2O",
+      "K2SO4 + H2O -> H2SO4 + KOH",
+      "K2SO4 + H2O -> H2SO4 + KOH",
+      "H2SO4 + KOH -> K2SO4 + 2H2O"
+    ],
+    "answer": "H2SO4 + 2KOH -> K2SO4 + 2H2O"
+  },
+  {
+    "number": 12,
+  "question": "Which type of chemical reaction involves the combination of an element with a compound to form a new compound and a different element?",
+  "options": [
+    "Synthesis reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Displacement reaction"
+},
+{
+  "number": 13,
+  "question": "What is the balanced chemical equation for the reaction between iron (Fe) and sulfur (S) to form iron(II) sulfide (FeS)?",
+  "options": [
+    "Fe + S -> FeS",
+    "FeS -> Fe + S",
+    "FeS -> Fe + S",
+    "Fe + S -> FeS"
+  ],
+  "answer": "2Fe + 3S -> Fe2S3"
+},
+{
+  "number": 14,
+  "question": "Which type of chemical reaction involves the exchange of ions between two compounds?",
+  "options": [
+    "Combustion reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Synthesis reaction"
+  ],
+  "answer": "Displacement reaction"
+},
+{
+  "number": 15,
+  "question": "Which type of chemical reaction involves the formation of a solid precipitate when two aqueous solutions are mixed?",
+  "options": [
+       "Combustion reaction",
+       "Decomposition reaction",
+       "Displacement reaction",
+       "Precipitation reaction"
+     ],
+     "answer": "Precipitation reaction"
+},
+{
+  "number": 16,
+  "question": "Which type of chemical reaction involves the breakdown of a single compound into two or more simpler substances?",
+  "options": [
+    "Synthesis reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Decomposition reaction"
+},
+{
+  "number": 17,
+  "question": "What is the balanced chemical equation for the reaction between magnesium (Mg) and hydrochloric acid (HCl) to form magnesium chloride (MgCl2) and hydrogen gas (H2)?",
+  "options": [
+    "Mg + HCl -> MgCl2 + H2",
+    "MgCl2 + H2 -> Mg + HCl",
+    "MgCl2 + H2 -> Mg + HCl",
+    "Mg + H2 -> MgCl2 + HCl"
+  ],
+  "answer": "Mg + 2HCl -> MgCl2 + H2"
+},
+{
+  "number": 18,
+  "question": "Which type of chemical reaction involves the combination of two or more substances to form a single compound?",
+  "options": [
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Synthesis reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Synthesis reaction"
+},
+{
+  "number": 19,
+  "question": "What is the balanced chemical equation for the reaction between sodium hydroxide (NaOH) and hydrochloric acid (HCl) to form sodium chloride (NaCl) and water (H2O)?",
+  "options": [
+    "NaOH + HCl -> NaCl + H2O",
+    "NaCl + H2O -> NaOH + HCl",
+    "NaCl + H2O -> NaOH + HCl",
+    "NaOH + H2 -> NaCl + H2O"
+  ],
+  "answer": "NaOH + HCl -> NaCl + H2O"
+},
+{
+  "number": 20,
+  "question": "Which type of chemical reaction involves the formation of a solid precipitate when two aqueous solutions are mixed?",
+  "options": [
+    "Combustion reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Precipitation reaction"
+  ],
+  "answer": "Precipitation reaction"
+},
+{
+  "number": 21,
+  "question": "What is the balanced chemical equation for the reaction between sulfuric acid (H2SO4) and potassium hydroxide (KOH) to form potassium sulfate (K2SO4) and water (H2O)?",
+  "options": [
+    "H2SO4 + KOH -> K2SO4 + H2O",
+    "K2SO4 + H2O -> H2SO4 + KOH",
+    "K2SO4 + H2O -> H2SO4 + KOH",
+    "H2SO4 + KOH -> K2SO4 + 2H2O"
+  ],
+  "answer": "H2SO4 + 2KOH -> K2SO4 + 2H2O"
+},
+{
+  "number": 22,
+  "question": "Which type of chemical reaction involves the combination of an element with a compound to form a new compound and a different element?",
+  "options": [
+    "Synthesis reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Displacement reaction"
+},
+{
+  "number": 23,
+  "question": "What is the balanced chemical equation for the reaction between iron (Fe) and sulfur (S) to form iron(II) sulfide (FeS)?",
+  "options": [
+    "Fe + S -> FeS",
+    "FeS -> Fe + S",
+    "FeS -> Fe + S",
+    "Fe + S -> FeS"
+  ],
+  "answer": "Fe + S -> FeS"
+},
+{
+  "number": 24,
+  "question": "Which type of chemical reaction involves the exchange of ions between two compounds?",
+  "options": [
+    "Combustion reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Synthesis reaction"
+  ],
+  "answer": "Displacement reaction"
+},
+{
+  "number": 25,
+  "question": "What is the balanced chemical equation for the reaction between calcium carbonate (CaCO3) and hydrochloric acid (HCl) to form calcium chloride (CaCl2), water (H2O), and carbon dioxide (CO2)?",
+  "options": [
+    "CaCO3 + HCl -> CaCl2 + H2O + CO2",
+    "CaCl2 + H2O + CO2 -> CaCO3 + HCl",
+    "CaCl2 + H2O + CO2 -> CaCO3 + HCl",
+    "CaCO3 + H2O + CO2 -> CaCl2 + HCl"
+  ],
+  "answer": "CaCO3 + 2HCl -> CaCl2 + H2O + CO2"
+},
+{
+  "number": 26,
+  "question": "Which type of chemical reaction involves the breakdown of a single compound into two or more simpler substances?",
+  "options": [
+    "Synthesis reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Decomposition reaction"
+},
+{
+  "number": 27,
+  "question": "What is the balanced chemical equation for the reaction between magnesium (Mg) and hydrochloric acid (HCl) to form magnesium chloride (MgCl2) and hydrogen gas (H2)?",
+  "options": [
+    "Mg + HCl -> MgCl2 + H2",
+    "MgCl2 + H2 -> Mg + HCl",
+    "MgCl2 + H2 -> Mg + HCl",
+    "Mg + H2 -> MgCl2 + HCl"
+  ],
+  "answer": "Mg + 2HCl -> MgCl2 + H2"
+},
+{
+  "number": 28,
+  "question": "Which type of chemical reaction involves the combination of two or more substances to form a single compound?",
+  "options": [
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Synthesis reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Synthesis reaction"
+},
+{
+  "number": 29,
+  "question": "Which type of chemical reaction involves the combination of two or more substances to form a single compound?",
+      "options": [
+        "Decomposition reaction",
+        "Displacement reaction",
+        "Synthesis reaction",
+        "Combustion reaction"
+      ],
+      "answer": "Synthesis reaction"
+},
+{
+  "number": 30,
+  "question": "Which type of chemical reaction involves the formation of a solid precipitate when two aqueous solutions are mixed?",
+  "options": [
+    "Combustion reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Precipitation reaction"
+  ],
+  "answer": "Precipitation reaction"
+},
+{
+  "number": 31,
+  "question": "What is the balanced chemical equation for the reaction between sulfuric acid (H2SO4) and potassium hydroxide (KOH) to form potassium sulfate (K2SO4) and water (H2O)?",
+  "options": [
+    "H2SO4 + KOH -> K2SO4 + H2O",
+    "K2SO4 + H2O -> H2SO4 + KOH",
+    "K2SO4 + H2O -> H2SO4 + KOH",
+    "H2SO4 + KOH -> K2SO4 + 2H2O"
+  ],
+  "answer": "H2SO4 + 2KOH -> K2SO4 + 2H2O"
+},
+{
+  "number": 32,
+  "question": "Which type of chemical reaction involves the combination of an element with a compound to form a new compound and a different element?",
+  "options": [
+    "Synthesis reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Displacement reaction"
+},
+{
+  "number": 33,
+  "question": "What is the balanced chemical equation for the reaction between iron (Fe) and sulfur (S) to form iron(II) sulfide (FeS)?",
+  "options": [
+    "Fe + S -> FeS",
+    "FeS -> Fe + S",
+    "FeS -> Fe + S",
+    "Fe + S -> FeS"
+  ],
+  "answer": "Fe + S -> FeS"
+},
+{
+  "number": 34,
+  "question": "Which type of chemical reaction involves the exchange of ions between two compounds?",
+  "options": [
+    "Combustion reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Synthesis reaction"
+  ],
+  "answer": "Displacement reaction"
+},
+{
+  "number": 35,
+  "question": "What is the balanced chemical equation for the reaction between calcium carbonate (CaCO3) and hydrochloric acid (HCl) to form calcium chloride (CaCl2), water (H2O), and carbon dioxide (CO2)?",
+  "options": [
+    "CaCO3 + HCl -> CaCl2 + H2O + CO2",
+    "CaCl2 + H2O + CO2 -> CaCO3 + HCl",
+    "CaCl2 + H2O + CO2 -> CaCO3 + HCl",
+    "CaCO3 + H2O + CO2 -> CaCl2 + HCl"
+  ],
+  "answer": "CaCO3 + 2HCl -> CaCl2 + H2O + CO2"
+},
+{
+  "number": 36,
+  "question": "Which type of chemical reaction involves the breakdown of a single compound into two or more simpler substances?",
+  "options": [
+    "Synthesis reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Decomposition reaction"
+},
+{
+ "number": 37,
+  "question": "What is the balanced chemical equation for the reaction between magnesium (Mg) and hydrochloric acid (HCl) to form magnesium chloride (MgCl2) and hydrogen gas (H2)?",
+  "options": [
+    "Mg + HCl -> MgCl2 + H2",
+    "MgCl2 + H2 -> Mg + HCl",
+    "MgCl2 + H2 -> Mg + HCl",
+    "Mg + H2 -> MgCl2 + HCl"
+  ],
+  "answer": "Mg + 2HCl -> MgCl2 + H2"
+},
+{
+  "number": 38,
+  "question": "Which type of chemical reaction involves the combination of two or more substances to form a single compound?",
+  "options": [
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Synthesis reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Synthesis reaction"
+},
+{
+  "number": 39,
+  "question": "What is the balanced chemical equation for the reaction between sodium hydroxide (NaOH) and hydrochloric acid (HCl) to form sodium chloride (NaCl) and water (H2O)?",
+  "options": [
+    "NaOH + HCl -> NaCl + H2O",
+    "NaCl + H2O -> NaOH + HCl",
+    "NaCl + H2O -> NaOH + HCl",
+    "NaOH + H2 -> NaCl + H2O"
+  ],
+  "answer": "NaOH + HCl -> NaCl + H2O"
+},
+{
+  "number": 40,
+  "question": "Which type of chemical reaction involves the formation of a solid precipitate when two aqueous solutions are mixed?",
+  "options": [
+    "Combustion reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Precipitation reaction"
+  ],
+  "answer": "Precipitation reaction"
+},
+{
+  "number": 41,
+  "question": "What is the balanced chemical equation for the reaction between sulfuric acid (H2SO4) and potassium hydroxide (KOH) to form potassium sulfate (K2SO4) and water (H2O)?",
+  "options": [
+    "H2SO4 + KOH -> K2SO4 + H2O",
+    "K2SO4 + H2O -> H2SO4 + KOH",
+    "K2SO4 + H2O -> H2SO4 + KOH",
+    "H2SO4 + KOH -> K2SO4 + 2H2O"
+  ],
+  "answer": "H2SO4 + 2KOH -> K2SO4 + 2H2O"
+},
+{
+  "number": 42,
+  "question": "Which type of chemical reaction involves the combination of an element with a compound to form a new compound and a different element?",
+  "options": [
+    "Synthesis reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Displacement reaction"
+},
+{
+  "number": 43,
+  "question": "What is the balanced chemical equation for the reaction between iron (Fe) and sulfur (S) to form iron(II) sulfide (FeS)?",
+  "options": [
+    "Fe + S -> FeS",
+    "FeS -> Fe + S",
+    "FeS -> Fe + S",
+    "Fe+ S -> FeS"
+    ],
+    "answer" : "Fe + S → FeS"
+},
+{
+  "number": 44,
+  "question": "Which type of chemical reaction involves the exchange of ions between two compounds?",
+  "options": [
+    "Combustion reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Synthesis reaction"
+  ],
+  "answer": "Displacement reaction"
+},
+{
+  "number": 45,
+  "question": "What is the balanced chemical equation for the reaction between calcium carbonate (CaCO3) and hydrochloric acid (HCl) to form calcium chloride (CaCl2), water (H2O), and carbon dioxide (CO2)?",
+  "options": [
+    "CaCO3 + HCl -> CaCl2 + H2O + CO2",
+    "CaCl2 + H2O + CO2 -> CaCO3 + HCl",
+    "CaCl2 + H2O + CO2 -> CaCO3 + HCl",
+    "CaCO3 + H2O + CO2 -> CaCl2 + HCl"
+  ],
+  "answer": "CaCO3 + 2HCl -> CaCl2 + H2O + CO2"
+},
+{
+  "number": 46,
+  "question": "Which type of chemical reaction involves the breakdown of a single compound into two or more simpler substances?",
+  "options": [
+    "Synthesis reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Decomposition reaction"
+},
+{
+  "number": 47,
+  "question": "What is the balanced chemical equation for the reaction between magnesium (Mg) and hydrochloric acid (HCl) to form magnesium chloride (MgCl2) and hydrogen gas (H2)?",
+  "options": [
+    "Mg + HCl -> MgCl2 + H2",
+    "MgCl2 + H2 -> Mg + HCl",
+    "MgCl2 + H2 -> Mg + HCl",
+    "Mg + H2 -> MgCl2 + HCl"
+  ],
+  "answer": "Mg + 2HCl -> MgCl2 + H2"
+},
+{
+  "number": 48,
+  "question": "Which type of chemical reaction involves the combination of two or more substances to form a single compound?",
+  "options": [
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Synthesis reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Synthesis reaction"
+},
+{
+  "number": 49,
+  "question": "What is the balanced chemical equation for the reaction between sodium hydroxide (NaOH) and hydrochloric acid (HCl) to form sodium chloride (NaCl) and water (H2O)?",
+  "options": [
+    "NaOH + HCl -> NaCl + H2O",
+    "NaCl + H2O -> NaOH + HCl",
+    "NaCl + H2O -> NaOH + HCl",
+    "NaOH + H2 -> NaCl + H2O"
+  ],
+  "answer": "NaOH + HCl -> NaCl + H2O"
+},
+{
+  "number": 50,
+  "question": "Which type of chemical reaction involves the formation of a solid precipitate when two aqueous solutions are mixed?",
+  "options": [
+    "Combustion reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Precipitation reaction"
+  ],
+  "answer": "Precipitation reaction"
+},
+{
+"number": 51,
+  "question": "What is the balanced chemical equation for the reaction between sulfuric acid (H2SO4) and potassium hydroxide (KOH) to form potassium sulfate (K2SO4) and water (H2O)?",
+  "options": [
+    "H2SO4 + KOH -> K2SO4 + H2O",
+    "K2SO4 + H2O -> H2SO4 + KOH",
+    "K2SO4 + H2O -> H2SO4 + KOH",
+    "H2SO4 + KOH -> K2SO4 + 2H2O"
+  ],
+  "answer": "H2SO4 + 2KOH -> K2SO4 + 2H2O"
+},
+{
+  "number": 52,
+  "question": "Which type of chemical reaction involves the combination of an element with a compound to form a new compound and a different element?",
+  "options": [
+    "Synthesis reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Displacement reaction"
+},
+{
+  "number": 53,
+  "question": "What is the balanced chemical equation for the reaction between iron (Fe) and sulfur (S) to form iron(II) sulfide (FeS)?",
+  "options": [
+    "Fe + S -> FeS",
+    "FeS -> Fe + S",
+    "FeS -> Fe + S",
+    "Fe + S -> FeS"
+  ],
+  "answer": "Fe + S -> FeS"
+},
+{
+  "number": 54,
+  "question": "Which type of chemical reaction involves the exchange of ions between two compounds?",
+  "options": [
+    "Combustion reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Synthesis reaction"
+  ],
+  "answer": "Displacement reaction"
+},
+{
+  "number": 55,
+  "question": "What is the balanced chemical equation for the reaction between calcium carbonate (CaCO3) and hydrochloric acid (HCl) to form calcium chloride (CaCl2), water (H2O), and carbon dioxide (CO2)?",
+  "options": [
+    "CaCO3 + HCl -> CaCl2 + H2O + CO2",
+    "CaCl2 + H2O + CO2 -> CaCO3 + HCl",
+    "CaCl2 + H2O + CO2 -> CaCO3 + HCl",
+    "CaCO3 + H2O + CO2 -> CaCl2 + HCl"
+  ],
+  "answer": "CaCO3 + 2HCl -> CaCl2 + H2O + CO2"
+},
+{
+  "number": 56,
+  "question": "Which type of chemical reaction involves the breakdown of a single compound into two or more simpler substances?",
+  "options": [
+    "Synthesis reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Decomposition reaction"
+},
+{
+  "number": 57,
+  "question": "What is the balanced chemical equation for the reaction between magnesium (Mg) and hydrochloric acid (HCl) to form magnesium chloride (MgCl2) and hydrogen gas (H2)?",
+  "options": [
+    "Mg + HCl -> MgCl2 + H2",
+    "MgCl2 + H2 -> Mg + HCl",
+    "MgCl2 +H2 -> Mg + HCl"
+  ],
+  "answer": "Mg + 2HCl -> MgCl2 + H2"
+},
+{
+  "number": 58,
+  "question": "Which type of chemical reaction involves the combination of two or more substances to form a single compound?",
+  "options": [
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Synthesis reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Synthesis reaction"
+},
+{
+  "number": 59,
+  "question": "What is the balanced chemical equation for the reaction between sodium hydroxide (NaOH) and hydrochloric acid (HCl) to form sodium chloride (NaCl) and water (H2O)?",
+  "options": [
+    "NaOH + HCl -> NaCl + H2O",
+    "NaCl + H2O -> NaOH + HCl",
+    "NaCl + H2O -> NaOH + HCl",
+    "NaOH + H2 -> NaCl + H2O"
+  ],
+  "answer": "NaOH + HCl -> NaCl + H2O"
+},
+{
+  "number": 60,
+  "question": "Which type of chemical reaction involves the formation of a solid precipitate when two aqueous solutions are mixed?",
+  "options": [
+    "Combustion reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Precipitation reaction"
+  ],
+  "answer": "Precipitation reaction"
+},
+{
+  "number": 61,
+  "question": "What is the balanced chemical equation for the reaction between sulfuric acid (H2SO4) and potassium hydroxide (KOH) to form potassium sulfate (K2SO4) and water (H2O)?",
+  "options": [
+    "H2SO4 + KOH -> K2SO4 + H2O",
+    "K2SO4 + H2O -> H2SO4 + KOH",
+    "K2SO4 + H2O -> H2SO4 + KOH",
+    "H2SO4 + KOH -> K2SO4 + 2H2O"
+  ],
+  "answer": "H2SO4 + 2KOH -> K2SO4 + 2H2O"
+},
+{
+  "number": 62,
+  "question": "Which type of chemical reaction involves the combination of an element with a compound to form a new compound and a different element?",
+  "options": [
+    "Synthesis reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Displacement reaction"
+},
+{
+  "number": 63,
+  "question": "What is the balanced chemical equation for the reaction between iron (Fe) and sulfur (S) to form iron(II) sulfide (FeS)?",
+  "options": [
+    "Fe + S -> FeS",
+    "FeS -> Fe + S",
+    "FeS -> Fe + S",
+    "Fe + S -> FeS"
+  ],
+  "answer": "Fe + S -> FeS"
+},
+{
+  "number": 64,
+  "question": "Which type of chemical reaction involves the exchange of ions between two compounds?",
+  "options": [
+    "Combustion reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Synthesis reaction"
+  ],
+  "answer": "Displacement reaction"
+},
+{
+  "number": 65,
+  "question": "What is the balanced chemical equationfor the reaction between calcium carbonate (CaCO3) and hydrochloric acid (HCl) to form calcium chloride (CaCl2), water (H2O), and carbon dioxide (CO2)?",
+  "options": [
+    "CaCO3 + HCl -> CaCl2 + H2O + CO2",
+    "CaCl2 + H2O + CO2 -> CaCO3 + HCl",
+    "CaCl2 + H2O + CO2 -> CaCO3 + HCl",
+    "CaCO3 + H2O + CO2 -> CaCl2 + HCl"
+  ],
+  "answer": "CaCO3 + 2HCl -> CaCl2 + H2O + CO2"
+},
+{
+  "number": 66,
+  "question": "Which type of chemical reaction involves the breakdown of a single compound into two or more simpler substances?",
+  "options": [
+    "Synthesis reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Decomposition reaction"
+},
+{
+  "number": 67,
+  "question": "What is the balanced chemical equation for the reaction between magnesium (Mg) and hydrochloric acid (HCl) to form magnesium chloride (MgCl2) and hydrogen gas (H2)?",
+  "options": [
+    "Mg + HCl -> MgCl2 + H2",
+    "MgCl2 + H2 -> Mg + HCl",
+    "MgCl2 + H2 -> Mg + HCl",
+    "Mg + H2 -> MgCl2 + HCl"
+  ],
+  "answer": "Mg + 2HCl -> MgCl2 + H2"
+},
+{
+  "number": 68,
+  "question": "Which type of chemical reaction involves the combination of two or more substances to form a single compound?",
+  "options": [
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Synthesis reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Synthesis reaction"
+},
+{
+  "number": 69,
+  "question": "What is the balanced chemical equation for the reaction between sodium hydroxide (NaOH) and hydrochloric acid (HCl) to form sodium chloride (NaCl) and water (H2O)?",
+  "options": [
+    "NaOH + HCl -> NaCl + H2O",
+    "NaCl + H2O -> NaOH + HCl",
+    "NaCl + H2O -> NaOH + HCl",
+    "NaOH + H2 -> NaCl + H2O"
+  ],
+  "answer": "NaOH + HCl -> NaCl + H2O"
+},
+{
+  "number": 70,
+  "question": "Which type of chemical reaction involves the formation of a solid precipitate when two aqueous solutions are mixed?",
+  "options": [
+    "Combustion reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Precipitation reaction"
+  ],
+  "answer": "Precipitation reaction"
+},
+{
+  "number": 71,
+  "question": "What is the balanced chemical equation for the reaction between sulfuric acid (H2SO4) and potassium hydroxide (KOH) to form potassium sulfate (K2SO4) and water (H2O)?",
+  "options": [
+    "H2SO4 + KOH -> K2SO4 + H2O",
+    "K2SO4 + H2O -> H2SO4 + KOH",
+    "K2SO4 + H2O -> H2SO4 + KOH",
+    "K2SO4 + H2O -> H2SO4 + KOH",
+    "H2SO4 + 2KOH -> K2SO4 + 2H2O"
+  ],
+  "answer": "H2SO4 + 2KOH -> K2SO4 + 2H2O"
+},
+{
+  "number": 72,
+  "question": "Which type of chemical reaction involves the combination of an element with a compound to form a new compound and a different element?",
+  "options": [
+    "Synthesis reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Displacement reaction"
+},
+{
+  "number": 73,
+  "question": "What is the balanced chemical equation for the reaction between iron (Fe) and sulfur (S) to form iron(II) sulfide (FeS)?",
+  "options": [
+    "Fe + S -> FeS",
+    "FeS -> Fe + S",
+    "FeS -> Fe + S",
+    "Fe + S -> FeS"
+  ],
+  "answer": "Fe + S -> FeS"
+},
+{
+  "number": 74,
+  "question": "Which type of chemical reaction involves the exchange of ions between two compounds?",
+  "options": [
+    "Combustion reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Synthesis reaction"
+  ],
+  "answer": "Displacement reaction"
+},
+{
+  "number": 75,
+  "question": "What is the balanced chemical equation for the reaction between calcium carbonate (CaCO3) and hydrochloric acid (HCl) to form calcium chloride (CaCl2), water (H2O), and carbon dioxide (CO2)?",
+  "options": [
+    "CaCO3 + HCl -> CaCl2 + H2O + CO2",
+    "CaCl2 + H2O + CO2 -> CaCO3 + HCl",
+    "CaCl2 + H2O + CO2 -> CaCO3 + HCl",
+    "CaCO3 + H2O + CO2 -> CaCl2 + HCl"
+  ],
+  "answer": "CaCO3 + 2HCl -> CaCl2 + H2O + CO2"
+},
+{
+  "number": 76,
+  "question": "Which type of chemical reaction involves the breakdown of a single compound into two or more simpler substances?",
+  "options": [
+    "Synthesis reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Decomposition reaction"
+},
+{
+  "number": 77,
+  "question": "What is the balanced chemical equation for the reaction between magnesium (Mg) and hydrochloric acid (HCl) to form magnesium chloride (MgCl2) and hydrogen gas (H2)?",
+  "options": [
+    "Mg + HCl -> MgCl2 + H2",
+    "MgCl2 + H2 -> Mg + HCl",
+    "MgCl2 + H2 -> Mg + HCl",
+    "Mg + H2 -> MgCl2 + HCl"
+  ],
+  "answer": "Mg + 2HCl -> MgCl2 + H2"
+},
+{
+  "number": 78,
+  "question": "Which type of chemical reaction involves the combination of two or more substances to form a singlecompound?",
+  "options": [
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Synthesis reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Synthesis reaction"
+},
+{
+  "number": 79,
+  "question": "What is the balanced chemical equation for the reaction between sodium hydroxide (NaOH) and hydrochloric acid (HCl) to form sodium chloride (NaCl) and water (H2O)?",
+  "options": [
+    "NaOH + HCl -> NaCl + H2O",
+    "NaCl + H2O -> NaOH + HCl",
+    "NaCl + H2O -> NaOH + HCl",
+    "NaOH + H2 -> NaCl + H2O"
+  ],
+  "answer": "NaOH + HCl -> NaCl + H2O"
+},
+{
+  "number": 80,
+  "question": "Which type of chemical reaction involves the formation of a solid precipitate when two aqueous solutions are mixed?",
+  "options": [
+    "Combustion reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Precipitation reaction"
+  ],
+  "answer": "Precipitation reaction"
+},
+{
+  "number": 81,
+  "question": "What is the balanced chemical equation for the reaction between sulfuric acid (H2SO4) and potassium hydroxide (KOH) to form potassium sulfate (K2SO4) and water (H2O)?",
+  "options": [
+    "H2SO4 + KOH -> K2SO4 + H2O",
+    "K2SO4 + H2O -> H2SO4 + KOH",
+    "K2SO4 + H2O -> H2SO4 + KOH",
+    "H2SO4 + KOH -> K2SO4 + 2H2O"
+  ],
+  "answer": "H2SO4 + 2KOH -> K2SO4 + 2H2O"
+},
+{
+  "number": 82,
+  "question": "Which type of chemical reaction involves the combination of an element with a compound to form a new compound and a different element?",
+  "options": [
+    "Synthesis reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Displacement reaction"
+},
+{
+  "number": 83,
+  "question": "What is the balanced chemical equation for the reaction between iron (Fe) and sulfur (S) to form iron(II) sulfide (FeS)?",
+  "options": [
+    "Fe + S -> FeS",
+    "FeS -> Fe + S",
+    "FeS -> Fe + S",
+    "Fe -> S +FeS"
+  ],
+  "answer": "Fe + S -> FeS"
+},
+{
+  "number": 84,
+  "question": "Which type of chemical reaction involves the exchange of ions between two compounds?",
+  "options": [
+    "Combustion reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Synthesis reaction"
+  ],
+  "answer": "Displacement reaction"
+},
+{
+  "number": 85,
+  "question": "What is the balanced chemical equation for the reaction between calcium carbonate (CaCO3) and hydrochloric acid (HCl) to form calcium chloride (CaCl2), water (H2O), and carbon dioxide (CO2)?",
+  "options": [
+    "CaCO3 + HCl -> CaCl2 +H2O + CO2",
+    "CaCl2 + H2O + CO2 -> CaCO3 + HCl",
+    "CaCl2 + H2O + CO2 -> CaCO3 + HCl",
+    "CaCO3 + H2O + CO2 -> CaCl2 + HCl"
+  ],
+  "answer": "CaCO3 + 2HCl -> CaCl2 + H2O + CO2"
+},
+{
+  "number": 86,
+  "question": "Which type of chemical reaction involves the breakdown of a single compound into two or more simpler substances?",
+  "options": [
+    "Synthesis reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Decomposition reaction"
+},
+{
+  "number": 87,
+  "question": "What is the balanced chemical equation for the reaction between magnesium (Mg) and hydrochloric acid (HCl) to form magnesium chloride (MgCl2) and hydrogen gas (H2)?",
+  "options": [
+    "Mg + HCl -> MgCl2 + H2",
+    "MgCl2 + H2 -> Mg + HCl",
+    "MgCl2 + H2 -> Mg + HCl",
+    "Mg + H2 -> MgCl2 + HCl"
+  ],
+  "answer": "Mg + 2HCl -> MgCl2 + H2"
+},
+{
+  "number": 88,
+  "question": "Which type of chemical reaction involves the combination of two or more substances to form a single compound?",
+  "options": [
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Synthesis reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Synthesis reaction"
+},
+{
+  "number": 89,
+  "question": "What is the balanced chemical equation for the reaction between sodium hydroxide (NaOH) and hydrochloric acid (HCl) to form sodium chloride (NaCl) and water (H2O)?",
+  "options": [
+    "NaOH + HCl -> NaCl + H2O",
+    "NaCl + H2O -> NaOH + HCl",
+    "NaCl + H2O -> NaOH + HCl",
+    "NaOH + H2 -> NaCl + H2O"
+  ],
+  "answer": "NaOH + HCl -> NaCl + H2O"
+},
+{
+  "number": 90,
+  "question": "Which type of chemical reaction involves the formation of a solid precipitate when two aqueous solutions are mixed?",
+  "options": [
+    "Combustion reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Precipitation reaction"
+  ],
+  "answer": "Precipitation reaction"
+},
+{
+  "number": 91,
+  "question": "What is the balanced chemical equation for the reaction between sulfuric acid (H2SO4) and potassium hydroxide (KOH) to form potassium sulfate (K2SO4) and water (H2O)?",
+  "options": [
+    "H2SO4 + KOH -> K2SO4 + H2O",
+    "K2SO4 + H2O -> H2SO4 + KOH",
+    "K2SO4 + H2O -> H2SO4 + KOH",
+    "H2SO4 + KOH -> K2SO4 + 2H2O"
+  ],
+  "answer": "H2SO4 + 2KOH-> K2SO4 + 2H2O"
+},
+{
+  "number": 92,
+  "question": "Which type of chemical reaction involves the combination of an element with a compound to form a new compound and a different element?",
+  "options": [
+    "Synthesis reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Displacement reaction"
+},
+{
+  "number": 93,
+  "question": "What is the balanced chemical equation for the reaction between iron (Fe) and sulfur (S) to form iron(II) sulfide (FeS)?",
+  "options": [
+    "Fe + S -> FeS",
+    "FeS -> Fe + S",
+    "FeS -> Fe + S",
+    "Fe + S -> FeS"
+  ],
+  "answer": "Fe + S -> FeS"
+},
+{
+  "number": 94,
+  "question": "Which type of chemical reaction involves the exchange of ions between two compounds?",
+  "options": [
+    "Combustion reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Synthesis reaction"
+  ],
+  "answer": "Displacement reaction"
+},
+{
+  "number": 95,
+  "question": "What is the balanced chemical equation for the reaction between calcium carbonate (CaCO3) and hydrochloric acid (HCl) to form calcium chloride (CaCl2), water (H2O), and carbon dioxide (CO2)?",
+  "options": [
+    "CaCO3 + HCl -> CaCl2 + H2O + CO2",
+    "CaCl2 + H2O + CO2 -> CaCO3 + HCl",
+    "CaCl2 + H2O + CO2 -> CaCO3 + HCl",
+    "CaCO3 + H2O + CO2 -> CaCl2 + HCl"
+  ],
+  "answer": "CaCO3 + 2HCl -> CaCl2 + H2O + CO2"
+},
+{
+  "number": 96,
+  "question": "Which type of chemical reaction involves the breakdown of a single compound into two or more simpler substances?",
+  "options": [
+    "Synthesis reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Decomposition reaction"
+},
+{
+  "number": 97,
+  "question": "What is the balanced chemical equation for the reaction between magnesium (Mg) and hydrochloric acid (HCl) to form magnesium chloride (MgCl2) and hydrogen gas (H2)?",
+  "options": [
+    "Mg + HCl -> MgCl2 + H2",
+    "MgCl2 + H2 -> Mg + HCl",
+    "MgCl2 + H2 -> Mg + HCl",
+    "Mg + H2 -> MgCl2 + HCl"
+  ],
+  "answer": "Mg + 2HCl -> MgCl2 + H2"
+},
+{
+  "number": 98,
+  "question": "Which type of chemical reaction involves the combination of two or more substances to form a single compound?",
+  "options": [
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Synthesis reaction",
+    "Combustion reaction"
+  ],
+  "answer": "Synthesis reaction"
+},
+{
+  "number": 99,
+  "question": "What is the balanced chemical equation for the reaction between sodium hydroxide (NaOH) and hydrochloricacid (HCl) to form sodium chloride (NaCl) and water (H2O)?",
+  "options": [
+    "NaOH + HCl -> NaCl + H2O",
+    "NaCl + H2O -> NaOH + HCl",
+    "NaCl + H2O -> NaOH + HCl",
+    "NaOH + H2 -> NaCl + H2O"
+  ],
+  "answer": "NaOH + HCl -> NaCl + H2O"
+},
+{
+  "number": 100,
+  "question": "Which type of chemical reaction involves the formation of a solid precipitate when two aqueous solutions are mixed?",
+  "options": [
+    "Combustion reaction",
+    "Decomposition reaction",
+    "Displacement reaction",
+    "Precipitation reaction"
+  ],
+  "answer": "Precipitation reaction"
+}
+]

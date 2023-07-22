@@ -1,0 +1,1102 @@
+[
+  {
+    "number": 1,
+    "question": "Which of the following is a greenhouse gas?",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "number": 2,
+    "question": "What is the SI unit of electric current?",
+    "options": [
+      "Ampere",
+      "Ohm",
+      "Watt",
+      "Volt"
+    ],
+    "answer": "Ampere"
+  },
+  {
+    "number": 3,
+    "question": "Which gas is used for extinguishing fire?",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen"
+    ],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "number": 4,
+    "question": "Which of the following is an exothermic reaction?",
+    "options": [
+      "Burning of paper",
+      "Melting of ice",
+      "Evaporation of water",
+      "Photosynthesis"
+    ],
+    "answer": "Burning of paper"
+  },
+  {
+    "number": 5,
+    "question": "Which of the following is a non-metal?",
+    "options": [
+      "Oxygen",
+      "Iron",
+      "Gold",
+      "Copper"
+    ],
+    "answer": "Oxygen"
+  },
+  {
+    "number": 6,
+    "question": "What is the process of conversion of solid directly into gas called?",
+    "options": [
+      "Sublimation",
+      "Evaporation",
+      "Condensation",
+      "Melting"
+    ],
+    "answer": "Sublimation"
+  },
+  {
+    "number": 7,
+    "question": "Which of the following diseases is caused by a virus?",
+    "options": [
+      "Influenza",
+      "Tuberculosis",
+      "Malaria",
+      "Cholera"
+    ],
+    "answer": "Influenza"
+  },
+  {
+    "number": 8,
+    "question": "Which part of the plant absorbs water and minerals from the soil?",
+    "options": [
+      "Roots",
+      "Stem",
+      "Leaves",
+      "Flowers"
+    ],
+    "answer": "Roots"
+  },
+  {
+    "number": 9,
+    "question": "Which component of blood helps in clotting?",
+    "options": [
+      "Platelets",
+      "Red blood cells",
+      "White blood cells",
+      "Plasma"
+    ],
+    "answer": "Platelets"
+  },
+  {
+    "number": 10,
+    "question": "Which of the following is a renewable source of energy?",
+    "options": [
+      "Solar energy",
+      "Coal",
+      "Natural gas",
+      "Petroleum"
+    ],
+    "answer": "Solar energy"
+  },
+  {
+    "number": 11,
+    "question": "Which gas is responsible for the depletion of the ozone layer?",
+    "options": [
+      "Chlorofluorocarbons (CFCs)",
+      "Carbon dioxide",
+      "Methane",
+      "Sulfur dioxide"
+    ],
+    "answer": "Chlorofluorocarbons (CFCs)"
+  },
+  {
+    "number": 12,
+    "question": "Which of the following is an example of a chemical change?",
+    "options": [
+      "Burning of wood",
+      "Cutting of paper",
+      "Melting of ice",
+      "Boiling of water"
+    ],
+    "answer": "Burning of wood"
+  },
+  {
+    "number": 13,
+    "question": "Which lens is used to correct nearsightedness?",
+    "options": [
+      "Concave lens",
+      "Convex lens",
+      "Cylindrical lens",
+      "Plano lens"
+    ],
+    "answer": "Concave lens"
+  },
+  {
+    "number": 14,
+    "question": "Which disease is caused by the deficiency of Vitamin C?",
+    "options": [
+      "Scurvy",
+      "Rickets",
+      "Beriberi",
+      "Night blindness"
+    ],
+    "answer": "Scurvy"
+  },
+  {
+    "number": 15,
+    "question": "Which metal is the best conductor of electricity?",
+    "options": [
+      "Silver",
+      "Copper",
+      "Aluminum",
+      "Iron"
+    ],
+    "answer": "Silver"
+  },
+  {
+    "number": 16,
+    "question": "Which of the following is a primary pollutant?",
+    "options": [
+      "Carbon monoxide",
+      "Ozone",
+      "Pollen",
+      "Dust"
+    ],
+    "answer": "Carbon monoxide"
+  },
+  {
+    "number": 17,
+    "question": "Which of the following is an example of a parasitic plant?",
+    "options": [
+      "Mistletoe",
+      "Sunflower",
+      "Rose",
+      "Cactus"
+    ],
+    "answer": "Mistletoe"
+  },
+  {
+    "number": 18,
+    "question": "Which instrument is used to measure blood pressure?",
+    "options": [
+      "Sphygmomanometer",
+      "Stethoscope",
+      "Thermometer",
+      "Pulse oximeter"
+    ],
+    "answer": "Sphygmomanometer"
+  },
+  {
+    "number": 19,
+    "question": "Which of the following is a source of vitamin A?",
+    "options": [
+      "Carrots",
+      "Oranges",
+      "Bananas",
+      "Grapes"
+    ],
+    "answer": "Carrots"
+  },
+  {
+    "number": 20,
+    "question": "Which of the following is an example of a mixture?",
+    "options": [
+      "Air",
+      "Water",
+      "Salt",
+      "Iron"
+    ],
+    "answer": "Air"
+  },
+  {
+    "number": 21,
+    "question": "What is the chemical formula of water?",
+    "options": [
+      "H2O",
+      "CO2",
+      "O2",
+      "NaCl"
+    ],
+    "answer": "H2O"
+  },
+  {
+    "number": 22,
+    "question": "Which of the following is a vector-borne disease?",
+    "options": [
+      "Malaria",
+      "Tuberculosis",
+      "Dengue",
+      "Typhoid"
+    ],
+    "answer": "Malaria"
+  },
+  {
+    "number": 23,
+    "question": "Which of the following is an example of a sedimentary rock?",
+    "options": [
+      "Limestone",
+      "Granite",
+      "Marble",
+      "Slate"
+    ],
+    "answer": "Limestone"
+  },
+  {
+    "number": 24,
+    "question": "Which of the following is the hardest substance?",
+    "options": [
+      "Diamond",
+      "Gold",
+      "Silver",
+      "Platinum"
+    ],
+    "answer": "Diamond"
+  },
+  {
+    "number": 25,
+    "question": "Which organ is responsible for the production of insulin?",
+    "options": [
+      "Pancreas",
+      "Liver",
+      "Kidney",
+      "Stomach"
+    ],
+    "answer": "Pancreas"
+  },
+  {
+    "number": 26,
+    "question": "Which of the following is an example of a non-renewable resource?",
+    "options": [
+      "Coal",
+      "Solar energy",
+      "Wind energy",
+      "Biomass"
+    ],
+    "answer": "Coal"
+  },
+  {
+    "number": 27,
+    "question": "What is the process of conversion of water vapor into water called?",
+    "options": [
+      "Condensation",
+      "Evaporation",
+      "Sublimation",
+      "Melting"
+    ],
+    "answer": "Condensation"
+  },
+  {
+    "number": 28,
+    "question": "Which of the following is a conductor of electricity?",
+    "options": [
+      "Copper",
+      "Rubber",
+      "Plastic",
+      "Glass"
+    ],
+    "answer": "Copper"
+  },
+  {
+    "number": 29,
+    "question": "Which of the following is a disease caused by a bacteria?",
+    "options": [
+      "Tuberculosis",
+      "Malaria",
+      "Influenza",
+      "Dengue"
+    ],
+    "answer": "Tuberculosis"
+  },
+  {
+    "number": 30,
+    "question": "Which gas is released during photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": "Oxygen"
+  },
+  {
+    "number": 31,
+    "question": "Which of the following is a source of renewable energy?",
+    "options": [
+      "Wind",
+      "Coal",
+      "Natural gas",
+      "Petroleum"
+    ],
+    "answer": "Wind"
+  },
+  {
+    "number": 32,
+    "question": "Which of the following is an example of a transparent substance?",
+    "options": [
+      "Glass",
+      "Wood",
+      "Metal",
+      "Concrete"
+    ],
+    "answer": "Glass"
+  },
+  {
+    "number": 33,
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Newton",
+      "Watt",
+      "Ampere",
+      "Volt"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "number": 34,
+    "question": "Which disease is caused by the deficiency of Vitamin D?",
+    "options": [
+      "Rickets",
+      "Scurvy",
+      "Beriberi",
+      "Night blindness"
+    ],
+    "answer": "Rickets"
+  },
+  {
+    "number": 35,
+    "question": "Which of the following is a conductor of heat?",
+    "options": [
+      "Metal",
+      "Wood",
+      "Plastic",
+      "Rubber"
+    ],
+    "answer": "Metal"
+  },
+  {
+    "number": 36,
+    "question": "Which gas is responsible for the color of the leaves?",
+    "options": [
+      "Chlorophyll",
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen"
+    ],
+    "answer": "Chlorophyll"
+  },
+  {
+    "number": 37,
+    "question": "Which of the following is an example of a vertebrate animal?",
+    "options": [
+      "Bird",
+      "Butterfly",
+      "Spider",
+      "Earthworm"
+    ],
+    "answer": "Bird"
+  },
+  {
+    "number": 38,
+    "question": "Which of the following is used to measure temperature?",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Hydrometer",
+      "Spectrometer"
+    ],
+    "answer": "Thermometer"
+  },
+  {
+    "number": 39,
+    "question": "Which of the following is a source of vitamin C?",
+    "options": [
+      "Citrus fruits",
+      "Milk",
+      "Eggs",
+      "Fish"
+    ],
+    "answer": "Citrus fruits"
+  },
+  {
+    "number": 40,
+    "question": "Which of the following is an example of a non-magnetic substance?",
+    "options": [
+      "Wood",
+      "Iron",
+      "Steel",
+      "Aluminum"
+    ],
+    "answer": "Wood"
+  },
+  {
+    "number": 41,
+    "question": "Which of the following is a type of cell division?",
+    "options": [
+      "Mitosis",
+      "Osmosis",
+      "Photosynthesis",
+      "Respiration"
+    ],
+    "answer": "Mitosis"
+  },
+  {
+    "number": 42,
+    "question": "What is the function of the lens in the human eye?",
+    "options": [
+      "To focus light on the retina",
+      "To detect color",
+      "To protect the eye",
+      "To control the amount of light entering the eye"
+    ],
+    "answer": "To focus light on the retina"
+  },
+  {
+    "number": 43,
+    "question": "Which of the following is an example of a communicable disease?",
+    "options": [
+      "Common cold",
+      "Diabetes",
+      "Asthma",
+      "Arthritis"
+    ],
+    "answer": "Common cold"
+  },
+  {
+    "number": 44,
+    "question": "Which of the following is an example of a chemical change?",
+    "options": [
+      "Burning of paper",
+      "Tearing of paper",
+      "Melting of ice",
+      "Cutting of wood"
+    ],
+    "answer": "Burning of paper"
+  },
+  {
+    "number": 45,
+    "question": "Which of the following is a renewable resource?",
+    "options": [
+      "Sunlight",
+      "Natural gas",
+      "Coal",
+      "Petroleum"
+    ],
+    "answer": "Sunlight"
+  },
+  {
+    "number": 46,
+    "question": "Which of the following is an example of a translucent substance?",
+    "options": [
+      "Wax paper",
+      "Glass",
+      "Aluminum foil",
+      "Brick"
+    ],
+    "answer": "Wax paper"
+  },
+  {
+    "number": 47,
+    "question": "What is the SI unit of pressure?",
+    "options": [
+      "Pascal",
+      "Newton",
+      "Watt",
+      "Joule"
+    ],
+    "answer": "Pascal"
+  },
+  {
+    "number": 48,
+    "question": "Which of the following is a disease caused by a virus?",
+    "options": [
+      "HIV/AIDS",
+      "Tuberculosis",
+      "Malaria",
+      "Cholera"
+    ],
+    "answer": "HIV/AIDS"
+  },
+  {
+    "number": 49,
+    "question": "Which of the following is an example of a renewable source of energy?",
+    "options": [
+      "Solar energy",
+      "Coal",
+      "Natural gas",
+      "Petroleum"
+    ],
+    "answer": "Solar energy"
+  },
+  {
+    "number": 50,
+    "question": "Which of the following is a conductor of electricity?",
+    "options": [
+      "Copper",
+      "Rubber",
+      "Plastic",
+      "Glass"
+    ],
+    "answer": "Copper"
+  },
+  {
+    "number": 51,
+    "question": "Which of the following is an example of a non-metal?",
+    "options": [
+      "Oxygen",
+      "Iron",
+      "Gold",
+      "Copper"
+    ],
+    "answer": "Oxygen"
+  },
+  {
+    "number": 52,
+    "question": "Which of the following is a component of the ecosystem?",
+    "options": [
+      "Plants",
+      "Buildings",
+      "Roads",
+      "Vehicles"
+    ],
+    "answer": "Plants"
+  },
+  {
+    "number": 53,
+    "question": "Which of the following is a fossil fuel?",
+    "options": [
+      "Coal",
+      "Wind energy",
+      "Solar energy",
+      "Hydroelectric power"
+    ],
+    "answer": "Coal"
+  },
+  {
+    "number": 54,
+    "question": "Which of the following is an example of a nocturnal animal?",
+    "options": [
+      "Owl",
+      "Peacock",
+      "Sparrow",
+      "Penguin"
+    ],
+    "answer": "Owl"
+  },
+  {
+    "number": 55,
+    "question": "Which of the following is the largest organ in the human body?",
+    "options": [
+      "Skin",
+      "Heart",
+      "Liver",
+      "Lungs"
+    ],
+    "answer": "Skin"
+  },
+  {
+    "number": 56,
+    "question": "Which of the following is a conductor of heat?",
+    "options": [
+      "Metal",
+      "Wood",
+      "Plastic",
+      "Rubber"
+    ],
+    "answer": "Metal"
+  },
+  {
+    "number": 57,
+    "question": "Which of the following is a renewable resource?",
+    "options": [
+      "Solar energy",
+      "Natural gas",
+      "Coal",
+      "Petroleum"
+    ],
+    "answer": "Solar energy"
+  },
+  {
+    "number": 58,
+    "question": "Which of the following is an example of a chemical change?",
+    "options": [
+      "Burning of wood",
+      "Cutting of paper",
+      "Melting of ice",
+      "Boiling of water"
+    ],
+    "answer": "Burning of wood"
+  },
+  {
+    "number": 59,
+    "question": "Which of the following is the universal blood donor?",
+    "options": [
+      "O negative",
+      "A positive",
+      "B negative",
+      "AB positive"
+    ],
+    "answer": "O negative"
+  },
+  {
+    "number": 60,
+    "question": "Which of the following is a renewable source of energy?",
+    "options": [
+      "Wind energy",
+      "Coal",
+      "Natural gas",
+      "Petroleum"
+    ],
+    "answer": "Wind energy"
+  },
+  {
+    "number": 61,
+    "question": "Which of the following is a component of air?",
+    "options": [
+      "Oxygen",
+      "Salt",
+      "Sugar",
+      "Water"
+    ],
+    "answer": "Oxygen"
+  },
+  {
+    "number": 62,
+    "question": "Which of the following is a communicable disease?",
+    "options": [
+      "Influenza",
+      "Diabetes",
+      "Asthma",
+      "Arthritis"
+    ],
+    "answer": "Influenza"
+  },
+  {
+    "number": 63,
+    "question": "Which of the following is an example of a renewable resource?",
+    "options": [
+      "Sunlight",
+      "Natural gas",
+      "Coal",
+      "Petroleum"
+    ],
+    "answer": "Sunlight"
+  },
+  {
+    "number": 64,
+    "question": "Which of the following is an example of a transparent substance?",
+    "options": [
+      "Glass",
+      "Wood",
+      "Metal",
+      "Concrete"
+    ],
+    "answer": "Glass"
+  },
+  {
+    "number": 65,
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Newton",
+      "Watt",
+      "Ampere",
+      "Volt"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "number": 66,
+    "question": "Which of the following is a disease caused by the deficiency of Vitamin D?",
+    "options": [
+      "Rickets",
+      "Scurvy",
+      "Beriberi",
+      "Night blindness"
+    ],
+    "answer": "Rickets"
+  },
+  {
+    "number": 67,
+    "question": "Which of the following is a conductor of heat?",
+    "options": [
+      "Metal",
+      "Wood",
+      "Plastic",
+      "Rubber"
+    ],
+    "answer": "Metal"
+  },
+  {
+    "number": 68,
+    "question": "Which gas is responsible for the color of the leaves?",
+    "options": [
+      "Chlorophyll",
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen"
+    ],
+    "answer": "Chlorophyll"
+  },
+  {
+    "number": 69,
+    "question": "Which of the following is an example of a vertebrate animal?",
+    "options": [
+      "Bird",
+      "Butterfly",
+      "Spider",
+      "Earthworm"
+    ],
+    "answer": "Bird"
+  },
+  {
+    "number": 70,
+    "question": "Which of the following is used to measure temperature?",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Hydrometer",
+      "Spectrometer"
+    ],
+    "answer": "Thermometer"
+  },
+  {
+    "number": 71,
+    "question": "Which of the following is a source of vitamin C?",
+    "options": [
+      "Citrus fruits",
+      "Milk",
+      "Eggs",
+      "Fish"
+    ],
+    "answer": "Citrus fruits"
+  },
+  {
+    "number": 72,
+    "question": "Which of the following is an example of a non-magnetic substance?",
+    "options": [
+      "Wood",
+      "Iron",
+      "Steel",
+      "Aluminum"
+    ],
+    "answer": "Wood"
+  },
+  {
+    "number": 73,
+    "question": "Which of the following is a type of cell division?",
+    "options": [
+      "Mitosis",
+      "Osmosis",
+      "Photosynthesis",
+      "Respiration"
+    ],
+    "answer": "Mitosis"
+  },
+  {
+    "number": 74,
+    "question": "What is the function of the lens in the human eye?",
+    "options": [
+      "To focus light on the retina",
+      "To detect color",
+      "To protect the eye",
+      "To control the amount of light entering the eye"
+    ],
+    "answer": "To focus light on the retina"
+  },
+  {
+    "number": 75,
+    "question": "Which of the following is an example of a communicable disease?",
+    "options": [
+      "Common cold",
+      "Diabetes",
+      "Asthma",
+      "Arthritis"
+    ],
+    "answer": "Common cold"
+  },
+  {
+    "number": 76,
+    "question": "Which of the following is an example of a chemical change?",
+    "options": [
+      "Burning of paper",
+      "Tearing of paper",
+      "Melting of ice",
+      "Cutting of wood"
+    ],
+    "answer": "Burning of paper"
+  },
+  {
+    "number": 77,
+    "question": "Which of the following is a renewable resource?",
+    "options": [
+      "Sunlight",
+      "Natural gas",
+      "Coal",
+      "Petroleum"
+    ],
+    "answer": "Sunlight"
+  },
+  {
+    "number": 78,
+    "question": "Which of the following is an example of a translucent substance?",
+    "options": [
+      "Wax paper",
+      "Glass",
+      "Aluminum foil",
+      "Brick"
+    ],
+    "answer": "Wax paper"
+  },
+  {
+    "number": 79,
+    "question": "What is the SI unit of pressure?",
+    "options": [
+      "Pascal",
+      "Newton",
+      "Watt",
+      "Joule"
+    ],
+    "answer": "Pascal"
+  },
+  {
+    "number": 80,
+    "question": "Which of the following is a disease caused by a virus?",
+    "options": [
+      "HIV/AIDS",
+      "Tuberculosis",
+      "Malaria",
+      "Cholera"
+    ],
+    "answer": "HIV/AIDS"
+  },
+  {
+    "number": 81,
+    "question": "Which of the following is an example of a renewable source of energy?",
+    "options": [
+      "Solar energy",
+      "Coal",
+      "Natural gas",
+      "Petroleum"
+    ],
+    "answer": "Solar energy"
+  },
+  {
+    "number": 82,
+    "question": "Which of the following is a conductor of electricity?",
+    "options": [
+      "Copper",
+      "Rubber",
+      "Plastic",
+      "Glass"
+    ],
+    "answer": "Copper"
+  },
+  {
+    "number": 83,
+    "question": "Which of the following is an example of a non-metal?",
+    "options": [
+      "Oxygen",
+      "Iron",
+      "Gold",
+      "Copper"
+    ],
+    "answer": "Oxygen"
+  },
+  {
+    "number": 84,
+    "question": "Which of the following is a component of the ecosystem?",
+    "options": [
+      "Plants",
+      "Buildings",
+      "Roads",
+      "Vehicles"
+    ],
+    "answer": "Plants"
+  },
+  {
+    "number": 85,
+    "question": "Which of the following is a fossil fuel?",
+    "options": [
+      "Coal",
+      "Wind energy",
+      "Solar energy",
+      "Hydroelectric power"
+    ],
+    "answer": "Coal"
+  },
+  {
+    "number": 86,
+    "question": "Which of the following is an example of a nocturnal animal?",
+    "options": [
+      "Owl",
+      "Peacock",
+      "Sparrow",
+      "Penguin"
+    ],
+    "answer": "Owl"
+  },
+  {
+    "number": 87,
+    "question": "Which of the following is the largest organ in the human body?",
+    "options": [
+      "Skin",
+      "Heart",
+      "Liver",
+      "Lungs"
+    ],
+    "answer": "Skin"
+  },
+  {
+    "number": 88,
+    "question": "Which of the following is a conductor of heat?",
+    "options": [
+      "Metal",
+      "Wood",
+      "Plastic",
+      "Rubber"
+    ],
+    "answer": "Metal"
+  },
+  {
+    "number": 89,
+    "question": "Which of the following is a renewable resource?",
+    "options": [
+      "Solar energy",
+      "Natural gas",
+      "Coal",
+      "Petroleum"
+    ],
+    "answer": "Solar energy"
+  },
+  {
+    "number": 90,
+    "question": "Which of the following is an example of a chemical change?",
+    "options": [
+      "Burning of wood",
+      "Cutting of paper",
+      "Melting of ice",
+      "Boiling of water"
+    ],
+    "answer": "Burning of wood"
+  },
+  {
+    "number": 91,
+    "question": "Which of the following is the universal blood donor?",
+    "options": [
+      "O negative",
+      "A positive",
+      "B negative",
+      "AB positive"
+    ],
+    "answer": "O negative"
+  },
+  {
+    "number": 92,
+    "question": "Which of the following is a renewable source of energy?",
+    "options": [
+      "Wind energy",
+      "Coal",
+      "Natural gas",
+      "Petroleum"
+    ],
+    "answer": "Wind energy"
+  },
+  {
+    "number": 93,
+    "question": "Which of the following is a component of air?",
+    "options": [
+      "Oxygen",
+      "Salt",
+      "Sugar",
+      "Water"
+    ],
+    "answer": "Oxygen"
+  },
+  {
+    "number": 94,
+    "question": "Which of the following is a communicable disease?",
+    "options": [
+      "Influenza",
+      "Diabetes",
+      "Asthma",
+      "Arthritis"
+    ],
+    "answer": "Influenza"
+  },
+  {
+    "number": 95,
+    "question": "Which of the following is an example of a renewable resource?",
+    "options": [
+      "Sunlight",
+      "Natural gas",
+      "Coal",
+      "Petroleum"
+    ],
+    "answer": "Sunlight"
+  },
+  {
+    "number": 96,
+    "question": "Which of the following is an example of a transparent substance?",
+    "options": [
+      "Glass",
+      "Wood",
+      "Metal",
+      "Concrete"
+    ],
+    "answer": "Glass"
+  },
+  {
+    "number": 97,
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Newton",
+      "Watt",
+      "Ampere",
+      "Volt"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "number": 98,
+    "question": "Which of the following is a disease caused by the deficiency of Vitamin D?",
+    "options": [
+      "Rickets",
+      "Scurvy",
+      "Beriberi",
+      "Night blindness"
+    ],
+    "answer": "Rickets"
+  },
+  {
+    "number": 99,
+    "question": "Which of the following is a conductor of heat?",
+    "options": [
+      "Metal",
+      "Wood",
+      "Plastic",
+      "Rubber"
+    ],
+    "answer": "Metal"
+  },
+  {
+    "number": 100,
+    "question": "Which gas is responsible for the color of the leaves?",
+    "options": [
+      "Chlorophyll",
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen"
+    ],
+    "answer": "Chlorophyll"
+  }
+]

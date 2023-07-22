@@ -1,0 +1,1106 @@
+[
+    {
+      "number": 1,
+      "question": "What is the main source of air pollution?",
+      "options": [
+        "Factories",
+        "Cars",
+        "Burning of fossil fuels",
+        "Deforestation"
+      ],
+      "answer": "Burning of fossil fuels"
+    },
+    {
+      "number": 2,
+      "question": "What is the term used to describe the variety of life on Earth?",
+      "options": [
+        "Ecosystem",
+        "Biodiversity",
+        "Pollution",
+        "Renewable energy"
+      ],
+      "answer": "Biodiversity"
+    },
+    {
+      "number": 3,
+      "question": "What is the process of converting waste materials into reusable materials called?",
+      "options": [
+        "Recycling",
+        "Composting",
+        "Incineration",
+        "Landfill"
+      ],
+      "answer": "Recycling"
+    },
+    {
+      "number": 4,
+      "question": "Which gas is responsible for global warming?",
+      "options": [
+        "Carbon dioxide (CO2)",
+        "Oxygen (O2)",
+        "Nitrogen (N2)",
+        "Methane (CH4)"
+      ],
+      "answer": "Carbon dioxide (CO2)"
+    },
+    {
+      "number": 5,
+      "question": "What is the term used to describe the gradual increase in Earth's average temperature?",
+      "options": [
+        "Climate change",
+        "Air pollution",
+        "Deforestation",
+        "Ozone depletion"
+      ],
+      "answer": "Climate change"
+    },
+    {
+      "number": 6,
+      "question": "Which of the following is a renewable source of energy?",
+      "options": [
+        "Coal",
+        "Natural gas",
+        "Solar power",
+        "Nuclear power"
+      ],
+      "answer": "Solar power"
+    },
+    {
+      "number": 7,
+      "question": "What is the term used to describe the cutting down of trees on a large scale?",
+      "options": [
+        "Pollution",
+        "Deforestation",
+        "Conservation",
+        "Urbanization"
+      ],
+      "answer": "Deforestation"
+    },
+    {
+      "number": 8,
+      "question": "What is the process of using organic waste to create nutrient-rich soil called?",
+      "options": [
+        "Composting",
+        "Recycling",
+        "Incineration",
+        "Landfill"
+      ],
+      "answer": "Composting"
+    },
+    {
+      "number": 9,
+      "question": "Which of the following is a non-renewable source of energy?",
+      "options": [
+        "Wind power",
+        "Hydropower",
+        "Natural gas",
+        "Geothermal energy"
+      ],
+      "answer": "Natural gas"
+    },
+    {
+      "number": 10,
+      "question": "What is the term used to describe the process of converting sunlight into electricity?",
+      "options": [
+        "Geothermal energy",
+        "Nuclear power",
+        "Solar power",
+        "Hydropower"
+      ],
+      "answer": "Solar power"
+    },
+    {
+      "number": 11,
+      "question": "Which of the following is a greenhouse gas?",
+      "options": [
+        "Oxygen (O2)",
+        "Nitrogen (N2)",
+        "Carbon dioxide (CO2)",
+        "Water vapor (H2O)"
+      ],
+      "answer": "Carbon dioxide (CO2)"
+    },
+    {
+      "number": 12,
+      "question": "What is the term used to describe the process of reusing materials to reduce waste?",
+      "options": [
+        "Recycling",
+        "Composting",
+        "Incineration",
+        "Landfill"
+      ],
+      "answer": "Recycling"
+    },
+    {
+      "number": 13,
+      "question": "Which of the following is a primary source of water pollution?",
+      "options": [
+        "Factories",
+        "Cars",
+        "Burning of fossil fuels",
+        "Deforestation"
+      ],
+      "answer": "Factories"
+    },
+    {
+      "number": 14,
+      "question": "What is the term used to describe the process of removing salt from seawater to make it drinkable?",
+      "options": [
+        "Desalination",
+        "Purification",
+        "Filtration",
+        "Condensation"
+      ],
+      "answer": "Desalination"
+    },
+    {
+      "number": 15,
+      "question": "Which of the following is a consequence of water pollution?",
+      "options": [
+        "Air pollution",
+        "Soil erosion",
+        "Acid rain",
+        "Contamination of drinking water"
+      ],
+      "answer": "Contamination of drinking water"
+    },
+    {
+      "number": 16,
+      "question": "What is the term used to describe the layer of gases that surrounds the Earth?",
+      "options": [
+        "Atmosphere",
+        "Biosphere",
+        "Lithosphere",
+        "Hydrosphere"
+      ],
+      "answer": "Atmosphere"
+    },
+    {
+      "number": 17,
+      "question": "Which of the following is a renewable source of energy derived from the heat of the Earth's interior?",
+      "options": [
+        "Wind power",
+        "Geothermal energy",
+        "Natural gas",
+        "Coal"
+      ],
+      "answer": "Geothermal energy"
+    },
+    {
+      "number": 18,
+      "question": "What is the term used to describe the process of converting solid waste into gas and ash?",
+      "options": [
+        "Recycling",
+        "Composting",
+        "Incineration",
+        "Landfill"
+      ],
+      "answer": "Incineration"
+    },
+    {
+      "number": 19,
+      "question": "Which of the following is a consequence of deforestation?",
+      "options": [
+        "Air pollution",
+        "Soil erosion",
+        "Acid rain",
+        "Loss of habitat"
+      ],
+      "answer": "Loss of habitat"
+    },
+    {
+      "number": 20,
+      "question": "What is the term used to describe the process of converting organic waste into fertilizer?",
+      "options": [
+        "Composting",
+        "Recycling",
+        "Incineration",
+        "Landfill"
+      ],
+      "answer": "Composting"
+    },
+    {
+      "number": 21,
+      "question": "Which of the following is a non-renewable source of energy derived from the remains of ancient plants and animals?",
+      "options": [
+        "Nuclear power",
+        "Solar power",
+        "Coal",
+        "Wind power"
+      ],
+      "answer": "Coal"
+    },
+    {
+      "number": 22,
+      "question": "What is the term used to describe the process of converting water into steam to generate electricity?",
+      "options": [
+        "Hydropower",
+        "Geothermal energy",
+        "Nuclear power",
+        "Coal"
+      ],
+      "answer": "Hydropower"
+    },
+    {
+      
+      "number": 23,
+      "question": "Which of the following is a consequence of air pollution?",
+      "options": [
+        "Water pollution",
+        "Soil erosion",
+        "Acid rain",
+        "Loss of biodiversity"
+      ],
+      "answer": "Acid rain"
+    },
+    {
+      "number": 24,
+      "question": "What is the term used to describe the process of using natural resources in a way that preserves the environment for future generations?",
+      "options": [
+        "Pollution",
+        "Deforestation",
+        "Conservation",
+        "Urbanization"
+      ],
+      "answer": "Conservation"
+    },
+    {
+      "number": 25,
+      "question": "Which of the following is a renewable source of energy derived from the movement of water?",
+      "options": [
+        "Natural gas",
+        "Wind power",
+        "Solar power",
+        "Hydropower"
+      ],
+      "answer": "Hydropower"
+    },
+    {
+      "number": 26,
+      "question": "What is the term used to describe the process of reducing the amount of waste generated?",
+      "options": [
+        "Recycling",
+        "Composting",
+        "Incineration",
+        "Waste management"
+      ],
+      "answer": "Waste management"
+    },
+    {
+      "number": 27,
+      "question": "Which of the following is a consequence of water scarcity?",
+      "options": [
+        "Air pollution",
+        "Soil erosion",
+        "Acid rain",
+        "Drought"
+      ],
+      "answer": "Drought"
+    },
+    {
+      "number": 28,
+      "question": "What is the term used to describe the process of removing pollutants from air, water, or soil?",
+      "options": [
+        "Pollution",
+        "Contamination",
+        "Decontamination",
+        "Remediation"
+      ],
+      "answer": "Remediation"
+    },
+    {
+      "number": 29,
+      "question": "Which of the following is a renewable source of energy derived from the heat of the sun?",
+      "options": [
+        "Nuclear power",
+        "Geothermal energy",
+        "Solar power",
+        "Coal"
+      ],
+      "answer": "Solar power"
+    },
+    {
+      "number": 30,
+      "question": "What is the term used to describe the process of capturing and storing carbon dioxide to reduce greenhouse gas emissions?",
+      "options": [
+        "Carbon sequestration",
+        "Desalination",
+        "Filtration",
+        "Condensation"
+      ],
+      "answer": "Carbon sequestration"
+    },
+    {
+      "number": 31,
+      "question": "Which of the following is a primary source of soil erosion?",
+      "options": [
+        "Factories",
+        "Cars",
+        "Burning of fossil fuels",
+        "Deforestation"
+      ],
+      "answer": "Deforestation"
+    },
+    {
+      "number": 32,
+      "question": "What is the term used to describe the process of reducing or eliminating waste by reusing materials?",
+      "options": [
+        "Recycling",
+        "Composting",
+        "Incineration",
+        "Landfill"
+      ],
+      "answer": "Recycling"
+    },
+    {
+      "number": 33,
+      "question": "Which of the following is a consequence of soil erosion?",
+      "options": [
+        "Air pollution",
+        "Water pollution",
+        "Acid rain",
+        "Loss of fertile land"
+      ],
+      "answer": "Loss of fertile land"
+    },
+    {
+      "number": 34,
+      "question": "What is the term used to describe the process of using energy from the Earth's internal heat for heating and electricity?",
+      "options": [
+        "Wind power",
+        "Geothermal energy",
+        "Natural gas",
+        "Coal"
+      ],
+      "answer": "Geothermal energy"
+    },
+    {
+      "number": 35,
+      "question": "Which of the following is a renewable source of energy derived from the force of the wind?",
+      "options": [
+        "Natural gas",
+        "Wind power",
+        "Solar power",
+        "Hydropower"
+      ],
+      "answer": "Wind power"
+    },
+    {
+      "number": 36,
+      "question": "What is the term used to describe the process of converting waste materials into energy?",
+      "options": [
+        "Recycling",
+        "Composting",
+        "Incineration",
+        "Landfill"
+      ],
+      "answer": "Incineration"
+    },
+    {
+      "number": 37,
+      "question": "Which of the following is a consequence of pollution?",
+      "options": [
+        "Deforestation",
+        "Loss of biodiversity",
+        "Climate change",
+        "Renewable energy"
+      ],
+      "answer": "Loss of biodiversity"
+    },
+    {
+      "number": 38,
+      "question": "What is the term used to describe the process of converting waste into a form that can be safely disposed of?",
+      "options": [
+        "Recycling",
+        "Composting",
+        "Incineration",
+        "Landfill"
+      ],
+      "answer": "Landfill"
+    },
+    {
+      "number": 39,
+      "question": "Which of the following is a primary source of noise pollution?",
+      "options": [
+        "Factories",
+        "Cars",
+        "Burning of fossil fuels",
+        "Construction sites"
+      ],
+      "answer": "Construction sites"
+    },
+    {
+      "number": 40,
+      "question": "What is the term used to describe the process of converting waste into a nutrient-rich soil conditioner?",
+      "options": [
+        "Composting",
+        "Recycling",
+        "Incineration",
+        "Landfill"
+      ],
+      "answer": "Composting"
+    },
+    {
+      "number": 41,
+      "question": "Which of the following is a consequence of habitat destruction?",
+      "options": [
+        "Air pollution",
+        "Soil erosion",
+        "Loss of biodiversity",
+        "Contamination of drinking water"
+      ],
+      "answer": "Loss of biodiversity"
+    },
+    {
+      "number": 42,
+      "question": "What is the term used to describe the process of converting waste materials into new products?",
+      "options": [
+        "Recycling",
+        "Composting",
+        "Incineration",
+        "Landfill"
+      ],
+      "answer": "Recycling"
+    },
+    {
+      "number": 43,
+      "question": "Which of the following is a renewable source of energy derived from the heat of the Earth's core?",
+      "options": [
+        "Wind power",
+        "Geothermal energy",
+        "Natural gas",
+        "Coal"
+      ],
+      "answer": "Geothermal energy"
+    },
+    {
+      "number": 44,
+      "question": "What is the term used to describe the process of reducing or eliminating the use of paper products?",
+      "options": [
+        "Deforestation",
+        "Paper recycling",
+        "Paperless",
+        "Landfill"
+      ],
+      "answer": "Paperless"
+    },
+
+
+    {
+      "number": 45,
+      "question": "Which of the following is a consequence of plastic pollution?",
+      "options": [
+        "Air pollution",
+        "Water pollution",
+        "Soil erosion",
+        "Loss of habitat"
+      ],
+      "answer": "Water pollution"
+    },
+    {
+      "number": 46,
+      "question": "What is the term used to describe the process of using living organisms to break down organic waste?",
+      "options": [
+        "Recycling",
+        "Composting",
+        "Biodegradation",
+        "Landfill"
+      ],
+      "answer": "Biodegradation"
+    },
+    {
+      "number": 47,
+      "question": "Which of the following is a renewable source of energy derived from organic matter, such as plants and animal waste?",
+      "options": [
+        "Nuclear power",
+        "Solar power",
+        "Bioenergy",
+        "Wind power"
+      ],
+      "answer": "Bioenergy"
+    },
+    {
+      "number": 48,
+      "question": "What is the term used to describe the process of reducing the amount of energy used?",
+      "options": [
+        "Energy conservation",
+        "Energy production",
+        "Energy efficiency",
+        "Energy storage"
+      ],
+      "answer": "Energy conservation"
+    },
+    {
+      "number": 49,
+      "question": "Which of the following is a consequence of water pollution?",
+      "options": [
+        "Air pollution",
+        "Soil erosion",
+        "Acid rain",
+        "Contamination of drinking water"
+      ],
+      "answer": "Contamination of drinking water"
+    },
+    {
+      "number": 50,
+      "question": "What is the term used to describe the process of using less water to accomplish the same tasks?",
+      "options": [
+        "Water pollution",
+        "Water conservation",
+        "Water purification",
+        "Water desalination"
+      ],
+      "answer": "Water conservation"
+    },
+    {
+      "number": 51,
+      "question": "Which of the following is a renewable source of energy derived from the movement of air?",
+      "options": [
+        "Natural gas",
+        "Wind power",
+        "Solar power",
+        "Hydropower"
+      ],
+      "answer": "Wind power"
+    },
+    {
+      "number": 52,
+      "question": "What is the term used to describe the process of using natural resources without depleting them?",
+      "options": [
+        "Pollution",
+        "Sustainability",
+        "Conservation",
+        "Urbanization"
+      ],
+      "answer": "Sustainability"
+    },
+    {
+      "number": 53,
+      "question": "Which of the following is a consequence of deforestation?",
+      "options": [
+        "Air pollution",
+        "Soil erosion",
+        "Loss of habitat",
+        "Water pollution"
+      ],
+      "answer": "Loss of habitat"
+    },
+    {
+      "number": 54,
+      "question": "What is the term used to describe the process of reducing or eliminating the use of fossil fuels?",
+      "options": [
+        "Renewable energy",
+        "Fossil fuel extraction",
+        "Energy efficiency",
+        "Carbon footprint"
+      ],
+      "answer": "Renewable energy"
+    },
+    {
+      "number": 55,
+      "question": "Which of the following is a consequence of noise pollution?",
+      "options": [
+        "Air pollution",
+        "Water pollution",
+        "Loss of biodiversity",
+        "Hearing loss"
+      ],
+      "answer": "Hearing loss"
+    },
+    {
+      "number": 56,
+      "question": "What is the term used to describe the process of using waste heat to generate electricity?",
+      "options": [
+        "Cogeneration",
+        "Geothermal energy",
+        "Nuclear power",
+        "Coal"
+      ],
+      "answer": "Cogeneration"
+    },
+    {
+      "number": 57,
+      "question": "Which of the following is a renewable source of energy derived from the heat of the Earth's crust?",
+      "options": [
+        "Natural gas",
+        "Wind power",
+        "Geothermal energy",
+        "Coal"
+      ],
+      "answer": "Geothermal energy"
+    },
+    {
+      "number": 58,
+      "question": "What is the term used to describe the process of reducing waste by buying and using only what is needed?",
+      "options": [
+        "Recycling",
+        "Composting",
+        "Incineration",
+        "Minimalism"
+      ],
+      "answer": "Minimalism"
+    },
+    {
+      "number": 59,
+      "question": "Which of the following is a consequence of air pollution?",
+      "options": [
+        "Water pollution",
+        "Soil erosion",
+        "Acid rain",
+        "Respiratory problems"
+      ],
+      "answer": "Respiratory problems"
+    },
+    {
+      "number": 60,
+      "question": "What is the term used to describe the process of using waste materials as a substitute for traditional raw materials?",
+      "options": [
+        "Recycling",
+        "Upcycling",
+        "Incineration",
+        "Landfill"
+      ],
+      "answer": "Upcycling"
+    },
+    {
+      "number": 61,
+      "question": "Which of the following is a renewable source of energy derived from the tides and waves of the ocean?",
+      "options": [
+        "Nuclear power",
+        "Solar power",
+        "Tidal energy",
+        "Wind power"
+      ],
+      "answer": "Tidal energy"
+    },
+    {
+      "number": 62,
+      "question": "What is the term used to describe the process of reducing or eliminating the use of single-use plastic items?",
+      "options": [
+        "Plastic recycling",
+        "Plastic pollution",
+        "Plastic reduction",
+        "Plastic ban"
+      ],
+      "answer": "Plastic reduction"
+    },
+    {
+      "number": 63,
+      "question": "Which of the following is a consequence of habitat loss?",
+      "options": [
+        "Air pollution",
+        "Water pollution",
+        "Loss of biodiversity",
+        "Soil erosion"
+      ],
+      "answer": "Loss of biodiversity"
+    },
+    {
+      "number": 64,
+      "question": "What is the term used to describe the process of using waste materials as a source of energy?",
+      "options": [
+        "Recycling",
+        "Composting",
+        "Incineration",
+        "Landfill"
+      ],
+      "answer": "Incineration"
+    },
+    {
+      "number": 65,
+      "question": "Which of the following is a renewable source of energy derived from organic matter that can be replenished in a short period of time?",
+      "options": [
+        "Nuclear power",
+        "Solar power",
+        "Bioenergy",
+        "Wind power"
+      ],
+      "answer": "Bioenergy"
+    },
+    {
+      "number": 66,
+      "question": "What is the term used to describe the process of reducing the generation of waste?",
+      "options": [
+        "Recycling",
+        "Composting",
+        "Waste minimization",
+      "Landfill",
+      "Waste management"
+    ],
+    "answer": "Waste minimization"
+  },
+  {
+    "number": 67,
+    "question": "Which of the following is a consequence of water scarcity?",
+    "options": [
+      "Air pollution",
+      "Soil erosion",
+      "Drought",
+      "Contamination of drinking water"
+    ],
+    "answer": "Drought"
+  },
+  {
+    "number": 68,
+    "question": "What is the term used to describe the process of reducing the emission of greenhouse gases?",
+    "options": [
+      "Carbon footprint",
+      "Deforestation",
+      "Carbon sequestration",
+      "Urbanization"
+    ],
+    "answer": "Carbon footprint"
+  },
+  {
+    "number": 69,
+    "question": "Which of the following is a renewable source of energy derived from the heat of the Earth's interior?",
+    "options": [
+      "Natural gas",
+      "Wind power",
+      "Geothermal energy",
+      "Coal"
+    ],
+    "answer": "Geothermal energy"
+  },
+  {
+    "number": 70,
+    "question": "What is the term used to describe the process of reducing the use of non-renewable resources?",
+    "options": [
+      "Renewable energy",
+      "Resource conservation",
+      "Energy efficiency",
+      "Sustainable development"
+    ],
+    "answer": "Resource conservation"
+  },
+  {
+    "number": 71,
+    "question": "Which of the following is a consequence of air pollution?",
+    "options": [
+      "Water pollution",
+      "Soil erosion",
+      "Respiratory problems",
+      "Loss of biodiversity"
+    ],
+    "answer": "Respiratory problems"
+  },
+  {
+    "number": 72,
+    "question": "What is the term used to describe the process of reducing the use of paper by utilizing electronic alternatives?",
+    "options": [
+      "Deforestation",
+      "Paper recycling",
+      "Paperless",
+      "Landfill"
+    ],
+    "answer": "Paperless"
+  },
+  {
+    "number": 73,
+    "question": "Which of the following is a renewable source of energy derived from the movement of water?",
+    "options": [
+      "Natural gas",
+      "Wind power",
+      "Hydropower",
+      "Geothermal energy"
+    ],
+    "answer": "Hydropower"
+  },
+  {
+    "number": 74,
+    "question": "What is the term used to describe the process of reducing waste generation and maximizing resource recovery?",
+    "options": [
+      "Recycling",
+      "Composting",
+      "Waste reduction",
+      "Landfill"
+    ],
+    "answer": "Waste reduction"
+  },
+  {
+    "number": 75,
+    "question": "Which of the following is a consequence of water pollution?",
+    "options": [
+      "Air pollution",
+      "Soil erosion",
+      "Contamination of drinking water",
+      "Loss of biodiversity"
+    ],
+    "answer": "Contamination of drinking water"
+  },
+  {
+    "number": 76,
+    "question": "What is the term used to describe the layer of gases that surrounds the Earth?",
+    "options": [
+      "Atmosphere",
+      "Biosphere",
+      "Lithosphere",
+      "Hydrosphere"
+    ],
+    "answer": "Atmosphere"
+  },
+  {
+    "number": 77,
+    "question": "Which of the following is a renewable source of energy derived from the heat of the sun?",
+    "options": [
+      "Nuclear power",
+      "Geothermal energy",
+      "Solar power",
+      "Coal"
+    ],
+    "answer": "Solar power"
+  },
+  {
+    "number": 78,
+    "question": "What is the term used to describe the process of reducing waste by reusing materials?",
+    "options": [
+      "Recycling",
+      "Composting",
+      "Reuse",
+      "Landfill"
+    ],
+    "answer": "Reuse"
+  },
+  {
+    "number": 79,
+    "question": "Which of the following is a consequence of noise pollution?",
+    "options": [
+      "Air pollution",
+      "Water pollution",
+      "Hearing loss",
+      "Loss of biodiversity"
+    ],
+    "answer": "Hearing loss"
+  },
+  {
+    "number": 80,
+    "question": "What is the term used to describe the process of using waste materials as a source of energy?",
+    "options": [
+      "Recycling",
+      "Composting",
+      "Incineration",
+      "Waste-to-energy"
+    ],
+    "answer": "Waste-to-energy"
+  },
+  {
+    "number": 81,
+    "question": "Which of the following is a renewable source of energy derived from organic matter, such as plants and animal waste?",
+    "options": [
+      "Nuclear power",
+      "Solar power",
+      "Bioenergy",
+      "Wind power"
+    ],
+    "answer": "Bioenergy"
+  },
+  {
+    "number": 82,
+    "question": "What is the term used to describe the process of reducing the use of energy while maintaining the same level of output?",
+    "options": [
+      "Energy conservation",
+      "Energy production",
+      "Energy efficiency",
+      "Energy storage"
+    ],
+    "answer": "Energy efficiency"
+  },
+  {
+    "number": 83,
+    "question": "Which of the following is a consequence of water scarcity?",
+    "options": [
+      "Air pollution",
+      "Soil erosion",
+      "Drought",
+      "Contamination of drinking water"
+    ],
+    "answer": "Drought"
+  },
+  {
+    "number": 84,
+    "question": "What is the term used to describe the process of reducing the emission of greenhouse gases?",
+    "options": [
+      "Carbon footprint",
+      "Deforestation",
+      "Carbon sequestration",
+      "Urbanization"
+    ],
+    "answer": "Carbon footprint"
+  },
+  {
+    "number": 85,
+    "question": "Which of the following is a renewable source of energy derived from the heat of the Earth's interior?",
+    "options": [
+      "Natural gas",
+      "Wind power",
+      "Geothermal energy",
+      "Coal"
+    ],
+    "answer": "Geothermal energy"
+  },
+  {
+    "number": 86,
+    "question": "What is the term used to describe the process of reducing the use of non-renewable resources?",
+    "options": [
+      "Renewable energy",
+      "Resource conservation",
+      "Energy efficiency",
+      "Sustainable development"
+    ],
+    "answer": "Resource conservation"
+  },
+  {
+    "number": 87,
+    "question": "Which of the following is a consequence of air pollution?",
+    "options": [
+      "Water pollution",
+      "Soil erosion",
+      "Respiratory problems",
+      "Loss of biodiversity"
+    ],
+    "answer": "Respiratory problems"
+  },
+  {
+    "number": 88,
+    "question": "What is the term used to describe the process of reducing the use of paper by utilizing electronic alternatives?",
+    "options": [
+      "Deforestation",
+      "Paper recycling",
+      "Paperless",
+      "Landfill"
+    ],
+    "answer": "Paperless"
+  },
+  {
+    "number": 89,
+    "question": "Which of the following is a renewable source of energy derived from the movement of water?",
+    "options": [
+      "Natural gas",
+      "Wind power",
+      "Hydropower",
+      "Geothermal energy"
+    ],
+    "answer": "Hydropower"
+  },
+  {
+    "number": 90,
+    "question": "What is the term used to describe the process of reducing waste generation and maximizing resource recovery?",
+    "options": [
+      "Recycling",
+      "Composting",
+      "Waste reduction",
+      "Landfill"
+    ],
+    "answer": "Waste reduction"
+  },
+  {
+    "number": 91,
+    "question": "Which of the following is a consequence of water pollution?",
+    "options": [
+      "Air pollution",
+      "Soil erosion",
+      "Contamination of drinking water",
+      "Loss of biodiversity"
+    ],
+    "answer": "Contamination of drinking water"
+  },
+  {
+    "number": 92,
+    "question": "What is the term used to describe the layer of gases that surrounds the Earth?",
+    "options": [
+      "Atmosphere",
+      "Biosphere",
+      "Lithosphere",
+      "Hydrosphere"
+    ],
+    "answer": "Atmosphere"
+  },
+  {
+    "number": 93,
+    "question": "Which of the following is a renewable source of energy derived from the heat of the sun?",
+    "options": [
+      "Nuclear power",
+      "Geothermal energy",
+      "Solar power",
+      "Coal"
+    ],
+    "answer": "Solar power"
+  },
+  {
+    "number": 94,
+    "question": "What is the term used to describe the process of reducing waste by reusing materials?",
+    "options": [
+      "Recycling",
+      "Composting",
+      "Reuse",
+      "Landfill"
+    ],
+    "answer": "Reuse"
+  },
+  {
+    "number": 95,
+    "question": "Which of the following is a consequence of noise pollution?",
+    "options": [
+      "Air pollution",
+      "Water pollution",
+      "Hearing loss",
+      "Loss of biodiversity"
+    ],
+    "answer": "Hearing loss"
+  },
+  {
+    "number": 96,
+    "question": "What is the term used to describe the process of using waste materials as a source of energy?",
+    "options": [
+      "Recycling",
+      "Composting",
+      "Incineration",
+      "Waste-to-energy"
+    ],
+    "answer": "Waste-to-energy"
+  },
+  {
+    "number": 97,
+    "question": "Which of the following is a renewable source of energy derived from organic matter, such as plants and animal waste?",
+    "options": [
+      "Nuclear power",
+      "Solar power",
+      "Bioenergy",
+      "Wind power"
+    ],
+    "answer": "Bioenergy"
+  },
+  {
+    "number": 98,
+    "question": "What is the term used to describe the process of reducing the use of energy while maintaining the same level of output?",
+    "options": [
+      "Energy conservation",
+      "Energy production",
+      "Energy efficiency",
+      "Energy storage"
+    ],
+    "answer": "Energy efficiency"
+  },
+  {
+    "number": 99,
+    "question": "Which of the following is a consequence of water scarcity?",
+    "options": [
+      "Air pollution",
+      "Soil erosion",
+      "Drought",
+      "Contamination of drinking water"
+    ],
+    "answer": "Drought"
+  },
+  {
+    "number": 100,
+    "question": "What is the term used to describe the process of reducing the emission of greenhouse gases?",
+    "options": [
+      "Carbon footprint",
+      "Deforestation",
+      "Carbon sequestration",
+      "Urbanization"
+    ],
+    "answer": "Carbon footprint"
+  }
+]

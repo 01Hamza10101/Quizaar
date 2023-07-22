@@ -1,0 +1,1106 @@
+[
+    {
+      "number": 1,
+      "question": "Who proposed the periodic law?",
+      "options": [
+        "Dmitri Mendeleev",
+        "Marie Curie",
+        "Albert Einstein",
+        "Isaac Newton"
+      ],
+      "answer": "Dmitri Mendeleev"
+    },
+    {
+      "number": 2,
+      "question": "What is the atomic number of carbon?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "answer": "6"
+    },
+    {
+      "number": 3,
+      "question": "What is the period number of an element in the periodic table?",
+      "options": [
+        "Row number",
+        "Column number",
+        "Group number",
+        "Atomic number"
+      ],
+      "answer": "Row number"
+    },
+    {
+      "number": 4,
+      "question": "Which element is placed first in the periodic table?",
+      "options": [
+        "Hydrogen",
+        "Oxygen",
+        "Helium",
+        "Lithium"
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "number": 5,
+      "question": "What is the modern periodic law?",
+      "options": [
+        "The properties of elements are periodic functions of their atomic numbers.",
+        "The properties of elements are periodic functions of their atomic masses.",
+        "The properties of elements are periodic functions of their boiling points.",
+        "The properties of elements are periodic functions of their melting points."
+      ],
+      "answer": "The properties of elements are periodic functions of their atomic numbers."
+    },
+    {
+      "number": 6,
+      "question": "What is the valency of an element in group 1?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "1"
+    },
+    {
+      "number": 7,
+      "question": "What is the symbol for potassium?",
+      "options": [
+        "K",
+        "P",
+        "Kr",
+        "Pt"
+      ],
+      "answer": "K"
+    },
+    {
+      "number": 8,
+      "question": "Which element belongs to Group 17 of the periodic table?",
+      "options": [
+        "Fluorine",
+        "Sodium",
+        "Calcium",
+        "Copper"
+      ],
+      "answer": "Fluorine"
+    },
+    {
+      "number": 9,
+      "question": "Which is the most reactive non-metal?",
+      "options": [
+        "Fluorine",
+        "Oxygen",
+        "Nitrogen",
+        "Carbon"
+      ],
+      "answer": "Fluorine"
+    },
+    {
+      "number": 10,
+      "question": "What is the formula for calculating the number of neutrons in an atom?",
+      "options": [
+        "Number of neutrons = Atomic number - Atomic mass",
+        "Number of neutrons = Atomic mass - Atomic number",
+        "Number of neutrons = Atomic number + Atomic mass",
+        "Number of neutrons = Atomic mass / Atomic number"
+      ],
+      "answer": "Number of neutrons = Atomic mass - Atomic number"
+    },
+    {
+      "number": 11,
+      "question": "Which element is a noble gas?",
+      "options": [
+        "Argon",
+        "Chlorine",
+        "Potassium",
+        "Sodium"
+      ],
+      "answer": "Argon"
+    },
+    {
+      "number": 12,
+      "question": "What is the general trend of atomic size across a period?",
+      "options": [
+        "Atomic size decreases",
+        "Atomic size increases",
+        "Atomic size remains constant",
+        "Atomic size fluctuates"
+      ],
+      "answer": "Atomic size decreases"
+    },
+    {
+      "number": 13,
+      "question": "Which group of elements is known as alkali metals?",
+      "options": [
+        "Group 1",
+        "Group 2",
+        "Group 7",
+        "Group 17"
+      ],
+      "answer": "Group 1"
+    },
+    {
+      "number": 14,
+      "question": "What is the symbol for iron?",
+      "options": [
+        "Fe",
+        "I",
+        "In",
+        "Ir"
+      ],
+      "answer": "Fe"
+    },
+    {
+      "number": 15,
+      "question": "Which element is a transition metal?",
+      "options": [
+        "Copper",
+        "Sulfur",
+        "Phosphorus",
+        "Silicon"
+      ],
+      "answer": "Copper"
+    },
+    {
+      "number": 16,
+      "question": "What is the valency of an element in Group 18?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "0"
+    },
+    {
+      "number": 17,
+      "question": "Which element is a halogen?",
+      "options": [
+        "Chlorine",
+        "Calcium",
+        "Carbon",
+        "Copper"
+      ],
+      "answer": "Chlorine"
+    },
+    {
+      "number": 18,
+      "question": "What is the atomic number of oxygen?",
+      "options": [
+        "8",
+        "6",
+        "10",
+        "12"
+      ],
+      "answer": "8"
+    },
+    {
+      "number": 19,
+      "question": "What is the period number of an element in Group 16?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "2"
+    },
+    {
+      "number": 20,
+      "question": "Which element is a metalloid?",
+      "options": [
+        "Silicon",
+        "Potassium",
+        "Phosphorus",
+        "Sodium"
+      ],
+      "answer": "Silicon"
+    },
+    {
+      "number": 21,
+      "question": "What is the trend of electronegativity across a period?",
+      "options": [
+        "Electronegativity decreases",
+        "Electronegativity increases",
+        "Electronegativity remains constant",
+        "Electronegativity fluctuates"
+      ],
+      "answer": "Electronegativity increases"
+    },
+    {
+      "number": 22,
+      "question": "Which element is an alkaline earth metal?",
+      "options": [
+        "Calcium",
+        "Fluorine",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "answer": "Calcium"
+    },
+    {
+      "number": 23,
+      "question": "What is the symbol for sodium?",
+      "options": [
+        "Na",
+        "Si",
+        "Sn",
+        "Ni"
+      ],
+      "answer": "Na"
+    },
+    {
+      "number": 24,
+      "question": "Which element has the highest atomic number?",
+      "options": [
+        "Oganesson",
+        "Roentgenium",
+        "Copernicium",
+        "Livermorium"
+      ],
+      "answer": "Oganesson"
+    },
+    {
+      "number": 25,
+      "question": "What is the trend of ionization energy across a period?",
+      "options": [
+        "Ionization energy decreases",
+        "Ionization energy increases",
+        "Ionization energy remains constant",
+        "Ionization energy fluctuates"
+      ],
+      "answer": "Ionization energy increases"
+    },
+    {
+      "number": 26,
+      "question": "Which element is a non-metal?",
+      "options": [
+        "Oxygen",
+        "Calcium",
+        "Iron",
+        "Sodium"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "number": 27,
+      "question": "What is the valency of an element in Group 17?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "7"
+      ],
+      "answer": "1"
+    },
+    {
+      "number": 28,
+      "question": "Which element is a representative element?",
+      "options": [
+        "Boron",
+        "Iodine",
+        "Mercury",
+        "Gold"
+      ],
+      "answer": "Boron"
+    },
+    {
+      "number": 29,
+      "question": "What is the atomic number of hydrogen?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "1"
+    },
+    {
+      "number": 30,
+      "question": "Which element is a lanthanide?",
+      "options": [
+        "Cerium",
+        "Chromium",
+        "Cobalt",
+        "Cesium"
+      ],
+      "answer": "Cerium"
+    },
+    {
+      "number": 31,
+      "question": "What is the period number of an element in Group 15?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "3"
+    },
+    {
+      "number": 32,
+      "question": "Which element is a noble gas with atomic number 10?",
+      "options": [
+        "Neon",
+        "Fluorine",
+        "Sodium",
+        "Potassium"
+      ],
+      "answer": "Neon"
+    },
+    {
+      "number": 33,
+      "question": "What is the trend of metallic character across a period?",
+      "options": [
+        "Metallic character decreases",
+        "Metallic character increases",
+        "Metallic character remains constant",
+        "Metallic character fluctuates"
+      ],
+      "answer": "Metallic character decreases"
+    },
+    {
+      "number": 34,
+      "question": "Which group of elements is known as halogens?",
+      "options": [
+        "Group 17",
+        "Group 1",
+        "Group 2",
+        "Group 18"
+      ],
+      "answer": "Group 17"
+    },
+    {
+      "number": 35,
+      "question": "What is the symbol for helium?",
+      "options": [
+        "He",
+        "H",
+        "Ne",
+        "Li"
+      ],
+      "answer": "He"
+    },
+    {
+      "number": 36,
+      "question": "Which element is a metal?",
+      "options": [
+        "Copper",
+        "Sulfur",
+        "Chlorine",
+        "Phosphorus"
+      ],
+      "answer": "Copper"
+    },
+    {
+      "number": 37,
+      "question": "What is the valency of an element in Group 2?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2"
+    },
+    {
+      "number": 38,
+      "question": "Which element is a transition metal with atomic number 26?",
+      "options": [
+        "Iron",
+        "Zinc",
+        "Copper",
+        "Silver"
+      ],
+      "answer": "Iron"
+    },
+    {
+      "number": 39,
+      "question": "What is the atomic number of nitrogen?",
+      "options": [
+        "7",
+        "6",
+        "8",
+        "10"
+      ],
+      "answer": "7"
+    },
+    {
+      "number": 40,
+      "question": "Which is the most abundant element in the Earth's crust?",
+      "options": [
+        "Oxygen",
+        "Carbon",
+        "Silicon",
+        "Calcium"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "number": 41,
+      "question": "What is the period number of an element in Group 13?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "3"
+    },
+    {
+      "number": 42,
+      "question": "Which element is an actinide?",
+      "options": [
+        "Uranium",
+        "Lithium",
+        "Beryllium",
+        "Boron"
+      ],
+      "answer": "Uranium"
+    },
+    {
+      "number": 43,
+      "question": "What is the trend of atomic size down a group?",
+      "options": [
+        "Atomic size decreases",
+        "Atomic size increases",
+        "Atomic size remains constant",
+        "Atomic size fluctuates"
+      ],
+      "answer": "Atomic size increases"
+    },
+    {
+      "number": 44,
+      "question": "Which group of elements is known as alkaline earth metals?",
+      "options": [
+        "Group 2",
+        "Group 1",
+        "Group 17",
+        "Group 18"
+      ],
+      "answer": "Group 2"
+    },
+    {
+      "number": 45,
+      "question": "What is the symbol for mercury?",
+      "options": [
+        "Hg",
+        "Mg",
+        "Ag",
+        "Pb"
+      ],
+      "answer": "Hg"
+    },
+    {
+      "number": 46,
+      "question": "Which element has the highest electronegativity?",
+      "options": [
+        "Fluorine",
+        "Oxygen",
+        "Nitrogen",
+        "Carbon"
+      ],
+      "answer": "Fluorine"
+    },
+    {
+      "number": 47,
+      "question": "What is the valency of an element in Group 16?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "answer": "2"
+    },
+    {
+      "number": 48,
+      "question": "Which element is a transition metal with atomic number 29?",
+      "options": [
+        "Copper",
+        "Iron",
+        "Zinc",
+        "Silver"
+      ],
+      "answer": "Copper"
+    },
+    {
+      "number": 49,
+      "question": "What is the atomic number of helium?",
+      "options": [
+
+
+"2",
+        "6",
+        "8",
+        "10"
+      ],
+      "answer": "2"
+    },
+    {
+      "number": 50,
+      "question": "Which element is a metalloid with atomic number 14?",
+      "options": [
+        "Silicon",
+        "Boron",
+        "Arsenic",
+        "Antimony"
+      ],
+      "answer": "Silicon"
+    },
+    {
+      "number": 51,
+      "question": "What is the trend of ionization energy down a group?",
+      "options": [
+        "Ionization energy decreases",
+        "Ionization energy increases",
+        "Ionization energy remains constant",
+        "Ionization energy fluctuates"
+      ],
+      "answer": "Ionization energy decreases"
+    },
+    {
+      "number": 52,
+      "question": "Which group of elements is known as non-metals?",
+      "options": [
+        "Group 14",
+        "Group 15",
+        "Group 16",
+        "Group 17"
+      ],
+      "answer": "Group 17"
+    },
+    {
+      "number": 53,
+      "question": "What is the symbol for nitrogen?",
+      "options": [
+        "N",
+        "Ni",
+        "Na",
+        "Ne"
+      ],
+      "answer": "N"
+    },
+    {
+      "number": 54,
+      "question": "Which element is a metal with atomic number 26?",
+      "options": [
+        "Iron",
+        "Zinc",
+        "Copper",
+        "Silver"
+      ],
+      "answer": "Iron"
+    },
+    {
+      "number": 55,
+      "question": "What is the atomic number of carbon?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "answer": "6"
+    },
+    {
+      "number": 56,
+      "question": "Which is the most reactive metal?",
+      "options": [
+        "Potassium",
+        "Sodium",
+        "Calcium",
+        "Iron"
+      ],
+      "answer": "Potassium"
+    },
+    {
+      "number": 57,
+      "question": "What is the valency of an element in Group 18?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "8"
+      ],
+      "answer": "0"
+    },
+    {
+      "number": 58,
+      "question": "Which element is a halogen with atomic number 17?",
+      "options": [
+        "Chlorine",
+        "Fluorine",
+        "Bromine",
+        "Iodine"
+      ],
+      "answer": "Chlorine"
+    },
+    {
+      "number": 59,
+      "question": "What is the period number of an element in Group 14?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "2"
+    },
+    {
+      "number": 60,
+      "question": "Which element is a metalloid with atomic number 5?",
+      "options": [
+        "Boron",
+        "Silicon",
+        "Arsenic",
+        "Antimony"
+      ],
+      "answer": "Boron"
+    },
+    {
+      "number": 61,
+      "question": "What is the trend of electronegativity down a group?",
+      "options": [
+        "Electronegativity decreases",
+        "Electronegativity increases",
+        "Electronegativity remains constant",
+        "Electronegativity fluctuates"
+      ],
+      "answer": "Electronegativity decreases"
+    },
+    {
+      "number": 62,
+      "question": "Which group of elements is known as alkali metals?",
+      "options": [
+        "Group 1",
+        "Group 2",
+        "Group 17",
+        "Group 18"
+      ],
+      "answer": "Group 1"
+    },
+    {
+      "number": 63,
+      "question": "What is the symbol for potassium?",
+      "options": [
+        "K",
+        "P",
+        "Kr",
+        "Pt"
+      ],
+      "answer": "K"
+    },
+    {
+      "number": 64,
+      "question": "Which element is a metal with atomic number 29?",
+      "options": [
+        "Copper",
+        "Iron",
+        "Zinc",
+        "Silver"
+      ],
+      "answer": "Copper"
+    },
+    {
+      "number": 65,
+      "question": "What is the atomic number of oxygen?",
+      "options": [
+        "8",
+        "6",
+        "10",
+        "12"
+      ],
+      "answer": "8"
+    },
+    {
+      "number": 66,
+      "question": "Which is the lightest element?",
+      "options": [
+        "Hydrogen",
+        "Oxygen",
+        "Helium",
+        "Lithium"
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "number": 67,
+      "question": "What is the valency of an element in Group 2?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": "2"
+    },
+    {
+      "number": 68,
+      "question": "Which element is a non-metal with atomic number 8?",
+      "options": [
+        "Oxygen",
+        "Calcium",
+        "Iron",
+        "Sodium"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "number": 69,
+      "question": "What is the period number of an element in Group 16?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "2"
+    },
+    {
+      "number": 70,
+      "question": "Which element is a transition metal with atomic number 26?",
+      "options": [
+        "Iron",
+        "Zinc",
+        "Copper",
+        "Silver"
+      ],
+      "answer": "Iron"
+    },
+    {
+      "number": 71,
+      "question": "What is the atomic number of hydrogen?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "1"
+    },
+    {
+      "number": 72,
+      "question": "Which is the most abundant element in the universe?",
+      "options": [
+        "Hydrogen",
+        "Oxygen",
+        "Helium",
+        "Carbon"
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "number": 73,
+      "question": "What is the trend of metallic character down a group?",
+      "options": [
+        "Metallic character decreases",
+        "Metallic character increases",
+        "Metallic character remains constant",
+        "Metallic character fluctuates"
+      ],
+      "answer": "Metallic character increases"
+    },
+    {
+      "number": 74,
+      "question": "Which group of elements is known as halogens",
+       "options": [
+        "Group 17",
+        "Group 1",
+        "Group 2",
+        "Group 18"
+      ],
+      "answer": "Group 17"
+    },
+    {
+      "number": 75,
+      "question": "What is the symbol for helium?",
+      "options": [
+        "He",
+        "H",
+        "Ne",
+        "Li"
+      ],
+      "answer": "He"
+    },
+    {
+      "number": 76,
+      "question": "Which element is a metal with atomic number 29?",
+      "options": [
+        "Copper",
+        "Iron",
+        "Zinc",
+        "Silver"
+      ],
+      "answer": "Copper"
+    },
+    {
+      "number": 77,
+      "question": "What is the atomic number of nitrogen?",
+      "options": [
+        "7",
+        "6",
+        "8",
+        "10"
+      ],
+      "answer": "7"
+    },
+    {
+      "number": 78,
+      "question": "Which is the most abundant element in the Earth's crust?",
+      "options": [
+        "Oxygen",
+        "Carbon",
+        "Silicon",
+        "Calcium"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "number": 79,
+      "question": "What is the period number of an element in Group 13?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "3"
+    },
+    {
+      "number": 80,
+      "question": "Which element is an actinide?",
+      "options": [
+        "Uranium",
+        "Lithium",
+        "Beryllium",
+        "Boron"
+      ],
+      "answer": "Uranium"
+    },
+    {
+      "number": 81,
+      "question": "What is the trend of atomic size down a group?",
+      "options": [
+        "Atomic size decreases",
+        "Atomic size increases",
+        "Atomic size remains constant",
+        "Atomic size fluctuates"
+      ],
+      "answer": "Atomic size increases"
+    },
+    {
+      "number": 82,
+      "question": "Which group of elements is known as alkaline earth metals?",
+      "options": [
+        "Group 2",
+        "Group 1",
+        "Group 17",
+        "Group 18"
+      ],
+      "answer": "Group 2"
+    },
+    {
+      "number": 83,
+      "question": "What is the symbol for mercury?",
+      "options": [
+        "Hg",
+        "Mg",
+        "Ag",
+        "Pb"
+      ],
+      "answer": "Hg"
+    },
+    {
+      "number": 84,
+      "question": "Which element has the highest electronegativity?",
+      "options": [
+        "Fluorine",
+        "Oxygen",
+        "Nitrogen",
+        "Carbon"
+      ],
+      "answer": "Fluorine"
+    },
+    {
+      "number": 85,
+      "question": "What is the valency of an element in Group 16?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "answer": "2"
+    },
+    {
+      "number": 86,
+      "question": "Which element is a transition metal with atomic number 29?",
+      "options": [
+        "Copper",
+        "Iron",
+        "Zinc",
+        "Silver"
+      ],
+      "answer": "Copper"
+    },
+    {
+      "number": 87,
+      "question": "What is the atomic number of helium?",
+      "options": [
+        "2",
+        "6",
+        "8",
+        "10"
+      ],
+      "answer": "2"
+    },
+    {
+      "number": 88,
+      "question": "Which element is a metalloid with atomic number 14?",
+      "options": [
+        "Silicon",
+        "Boron",
+        "Arsenic",
+        "Antimony"
+      ],
+      "answer": "Silicon"
+    },
+    {
+      "number": 89,
+      "question": "What is the trend of ionization energy down a group?",
+      "options": [
+        "Ionization energy decreases",
+        "Ionization energy increases",
+        "Ionization energy remains constant",
+        "Ionization energy fluctuates"
+      ],
+      "answer": "Ionization energy decreases"
+    },
+    {
+      "number": 90,
+      "question": "Which group of elements is known as non-metals?",
+      "options": [
+        "Group 14",
+        "Group 15",
+        "Group 16",
+        "Group 17"
+      ],
+      "answer": "Group 17"
+    },
+    {
+      "number": 91,
+      "question": "What is the symbol for nitrogen?",
+      "options": [
+        "N",
+        "Ni",
+        "Na",
+        "Ne"
+      ],
+      "answer": "N"
+    },
+    {
+      "number": 92,
+      "question": "Which element is a metal with atomic number 26?",
+      "options": [
+        "Iron",
+        "Zinc",
+        "Copper",
+        "Silver"
+      ],
+      "answer": "Iron"
+    },
+    {
+      "number": 93,
+      "question": "What is the atomic number of oxygen?",
+      "options": [
+        "8",
+        "6",
+        "10",
+        "12"
+      ],
+      "answer": "8"
+    },
+    {
+      "number": 94,
+      "question": "Which is the lightest element?",
+      "options": [
+        "Hydrogen",
+        "Oxygen",
+        "Helium",
+        "Lithium"
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "number": 95,
+      "question": "What is the valency of an element in Group 2?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": "2"
+    },
+    {
+      "number": 96,
+      "question": "Which element is a non-metal with atomic number 8?",
+      "options": [
+        "Oxygen",
+        "Calcium",
+        "Iron",
+        "Sodium"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "number": 97,
+      "question": "What is the period number of an element in Group 16?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "2"
+    },
+    {
+      "number": 98,
+      "question": "Which element is a transition metal with atomic number 26?",
+      "options": [
+        "Iron",
+        "Zinc",
+        "Copper",
+        "Silver"
+      ],
+      "answer": "Iron"
+    },
+    {
+      "number": 99,
+      "question": "What is the atomic number of hydrogen?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+
+
+      ],
+      "answer": "1"
+    },
+    {
+      "number": 100,
+      "question": "Which is the most reactive non-metal?",
+      "options": [
+        "Fluorine",
+        "Oxygen",
+        "Nitrogen",
+        "Carbon"
+      ],
+      "answer": "Fluorine"
+    }
+  ]

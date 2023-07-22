@@ -1,0 +1,552 @@
+[
+    {
+      "number": 1,
+      "question": "Which of the following is a greenhouse gas?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "number": 2,
+      "question": "What is the process by which green plants use sunlight to synthesize food?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Digestion"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "number": 3,
+      "question": "Which of the following is the main component of Earth's atmosphere?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Argon"
+      ],
+      "answer": "Nitrogen"
+    },
+    {
+      "number": 4,
+      "question": "What is the process by which an organism takes in oxygen and releases carbon dioxide?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Digestion"
+      ],
+      "answer": "Respiration"
+    },
+    {
+      "number": 5,
+      "question": "Which of the following is the process by which new individuals of the same species are produced?",
+      "options": [
+        "Reproduction",
+        "Growth",
+        "Adaptation",
+        "Metabolism"
+      ],
+      "answer": "Reproduction"
+    },
+    {
+      "number": 6,
+      "question": "What is the process by which an organism breaks down food to release energy?",
+      "options": [
+        "Digestion",
+        "Photosynthesis",
+        "Respiration",
+        "Metabolism"
+      ],
+      "answer": "Respiration"
+    },
+    {
+      "number": 7,
+      "question": "Which of the following is the main source of energy for wind power?",
+      "options": [
+        "Wind",
+        "Sun",
+        "Water",
+        "Coal"
+      ],
+      "answer": "Wind"
+    },
+    {
+      "number": 8,
+      "question": "What is the process by which liquid water changes into water vapor?",
+      "options": [
+        "Evaporation",
+        "Condensation",
+        "Melting",
+        "Sublimation"
+      ],
+      "answer": "Evaporation"
+    },
+    {
+      "number": 9,
+      "question": "Which of the following is the process by which energy is transferred from one object to another without the need for a medium?",
+      "options": [
+        "Radiation",
+        "Conduction",
+        "Convection",
+        "Evaporation"
+      ],
+      "answer": "Radiation"
+    },
+    {
+      "number": 10,
+      "question": "Which of the following is a material that does not conduct electricity?",
+      "options": [
+        "Rubber",
+        "Copper",
+        "Glass",
+        "Aluminum"
+      ],
+      "answer": "Rubber"
+    },
+    {
+      "number": 11,
+      "question": "What is the process by which sediment settles out of water or wind?",
+      "options": [
+        "Deposition",
+        "Erosion",
+        "Weathering",
+        "Melting"
+      ],
+      "answer": "Deposition"
+    },
+    {
+      "number": 12,
+      "question": "Which of the following is the process by which plants release water vapor into the atmosphere?",
+      "options": [
+        "Transpiration",
+        "Respiration",
+        "Photosynthesis",
+        "Digestion"
+      ],
+      "answer": "Transpiration"
+    },
+    {
+      "number": 13,
+      "question": "What is the process by which an organism grows and develops over time?",
+      "options": [
+        "Growth",
+        "Reproduction",
+        "Adaptation",
+        "Metabolism"
+      ],
+      "answer": "Growth"
+    },
+    {
+      "number": 14,
+      "question": "Which of the following is the process by which an organism adjusts to its environment?",
+      "options": [
+        "Adaptation",
+        "Reproduction",
+        "Growth",
+        "Metabolism"
+      ],
+      "answer": "Adaptation"
+    },
+    {
+      "number": 15,
+      "question": "What is the SI unit of electric current?",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Ohm",
+        "Watt"
+      ],
+      "answer": "Ampere"
+    },
+    {
+      "number": 16,
+      "question": "Which of the following is the process by which electric current is carried through a conductor by the movement of electrons?",
+      "options": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "Evaporation"
+      ],
+      "answer": "Conduction"
+    },
+    {
+      "number": 17,
+      "question": "What is the process by which energy is transferred from one object to another through the movement of fluid?",
+      "options": [
+        "Convection",
+        "Conduction",
+        "Radiation",
+        "Evaporation"
+      ],
+      "answer": "Convection"
+    },
+    {
+      "number": 18,
+      "question": "Which of the following is the process by which liquid water changes into ice?",
+      "options": [
+        "Freezing",
+        "Melting",
+        "Condensation",
+        "Evaporation"
+      ],
+      "answer": "Freezing"
+    },
+    {
+      "number": 19,
+      "question": "What is the process by which light waves bounce off a surface?",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Diffraction",
+        "Interference"
+      ],
+      "answer": "Reflection"
+    },
+    {
+      "number": 20,
+      "question": "Which of the following is the process by which light waves change direction as they pass from one medium to another?",
+      "options": [
+        "Refraction",
+        "Reflection",
+        "Diffraction",
+        "Interference"
+      ],
+      "answer": "Refraction"
+    },
+    {
+      "number": 21,
+      "question": "What is the process by which sound waves bend around obstacles?",
+      "options": [
+        "Diffraction",
+        "Reflection",
+        "Refraction",
+        "Interference"
+      ],
+      "answer": "Diffraction"
+    },
+    {
+      "number": 22,
+      "question": "Which of the following is the process by which two or more waves combine to form a new wave?",
+      "options": [
+        "Interference",
+        "Reflection",
+        "Refraction",
+        "Diffraction"
+      ],
+      "answer": "Interference"
+    },
+    {
+      "number": 23,
+      "question": "What is the process by which energy is transferred as electromagnetic waves?",
+      "options": [
+        "Radiation",
+        "Conduction",
+        "Convection",
+        "Evaporation"
+      ],
+      "answer": "Radiation"
+    },
+    {
+      "number": 24,
+      "question": "Which of the following is a device that converts electrical energy into mechanical energy?",
+      "options": [
+        "Electric motor",
+        "Generator",
+        "Transformer",
+        "Battery"
+      ],
+      "answer": "Electric motor"
+    },
+    {
+      "number": 25,
+      "question": "What is the process by which an electric current is produced by moving a loop of wire in a magnetic field?",
+      "options": [
+        "Electromagnetic induction",
+        "Electric motor",
+        "Transformer",
+        "Generator"
+      ],
+      "answer": "Electromagnetic induction"
+    },
+    {
+      "number": 26,
+      "question": "Which of the following is the SI unit of force?",
+      "options": [
+        "Newton",
+        "Kilogram",
+        "Meter",
+        "Joule"
+      ],
+      "answer": "Newton"
+    },
+    {
+      "number": 27,
+      "question": "What is the process by which a substance changes from a solid to a gas without passing through the liquid state?",
+      "options": [
+        "Sublimation",
+        "Evaporation",
+        "Condensation",
+        "Melting"
+      ],
+      "answer": "Sublimation"
+    },
+    {
+      "number": 28,
+      "question": "Which of the following is the process by which a gas changes into a liquid?",
+      "options": [
+        "Condensation",
+        "Evaporation",
+        "Sublimation",
+        "Melting"
+      ],
+      "answer": "Condensation"
+    },
+    {
+      "number": 29,
+      "question": "What is the process by which a liquid changes into a solid?",
+      "options": [
+        "Freezing",
+        "Melting",
+        "Condensation",
+        "Evaporation"
+      ],
+      "answer": "Freezing"
+    },
+    {
+      "number": 30,
+      "question": "Which of the following is the process by which a gas changes directly into a solid?",
+      "options": [
+        "Deposition",
+        "Erosion",
+        "Weathering",
+        "Melting"
+      ],
+      "answer": "Deposition"
+    },
+    {
+      "number": 31,
+      "question": "What is the process by which rocks and minerals are broken down into smaller pieces?",
+      "options": [
+        "Weathering",
+        "Erosion",
+        "Deposition",
+        "Melting"
+      ],
+      "answer": "Weathering"
+    },
+    {
+      "number": 32,
+      "question": "Which of the following is the process by which weathered material is carried away by water, wind, or ice?",
+      "options": [
+        "Erosion",
+        "Weathering",
+        "Deposition",
+        "Melting"
+      ],
+      "answer": "Erosion"
+    },
+    {
+      "number": 33,
+      "question": "What is the process by which sediment settles out of water or wind?",
+      "options": [
+        "Deposition",
+        "Erosion",
+        "Weathering",
+        "Melting"
+      ],
+      "answer": "Deposition"
+    },
+    {
+      "number": 34,
+      "question": "Which of the following is a type of rock formed from cooling magma or lava?",
+      "options": [
+        "Igneous rock",
+        "Sedimentary rock",
+        "Metamorphic rock",
+        "None of the above"
+      ],
+      "answer": "Igneous rock"
+    },
+    {
+      "number": 35,
+      "question": "What is the process by which sedimentary rocks are formed from compacted and cemented sediment?",
+      "options": [
+        "Lithification",
+        "Melting",
+        "Metamorphism",
+        "None of the above"
+      ],
+      "answer": "Lithification"
+    },
+    {
+      "number": 36,
+      "question": "Which of the following is a type of rock formed from the heat and pressure of existing rocks?",
+      "options": [
+        "Metamorphic rock",
+        "Igneous rock",
+        "Sedimentary rock",
+        "None of the above"
+      ],
+      "answer": "Metamorphic rock"
+    },
+    {
+      "number": 37,
+      "question": "What is the process by which rocks change form due to heat and pressure?",
+      "options": [
+        "Metamorphism",
+        "Melting",
+        "Lithification",
+        "None of the above"
+      ],
+      "answer": "Metamorphism"
+    },
+    {
+      "number": 38,
+      "question": "Which of the following is a type of rock formed from the accumulation of sediment?",
+      "options": [
+        "Sedimentary rock",
+        "Metamorphic rock",
+        "Igneous rock",
+        "None of the above"
+      ],
+      "answer": "Sedimentary rock"
+    },
+    {
+      "number": 39,
+      "question": "What is the process by which rocks are broken down into smaller pieces?",
+      "options": [
+        "Weathering",
+        "Erosion",
+        "Deposition",
+        "Melting"
+      ],
+      "answer": "Weathering"
+    },
+    {
+      "number": 40,
+      "question": "Which of the following is a type of rock that is formed by the deposition and compaction of organic materials?",
+      "options": [
+        "Organic rock",
+        "Metamorphic rock",
+        "Igneous rock",
+        "Sedimentary rock"
+      ],
+      "answer": "Sedimentary rock"
+    },
+    {
+      "number": 41,
+      "question": "What is the process by which fossil fuels are formed from the remains of ancient plants and animals?",
+      "options": [
+        "Carbonization",
+        "Decomposition",
+        "Photosynthesis",
+        "Respiration"
+      ],
+      "answer": "Carbonization"
+    },
+    {
+      "number": 42,
+      "question": "Which of the following is a non-renewable source of energy?",
+      "options": [
+        "Coal",
+        "Solar power",
+        "Wind power",
+        "Hydropower"
+      ],
+      "answer": "Coal"
+    },
+    {
+      "number": 43,
+      "question": "What is the process by which water vapor cools and changes back into liquid form?",
+      "options": [
+        "Condensation",
+        "Evaporation",
+        "Sublimation",
+        "Melting"
+      ],
+      "answer": "Condensation"
+    },
+    {
+      "number": 44,
+      "question": "Which of the following is a renewable source of energy?",
+      "options": [
+        "Solar power",
+        "Coal",
+        "Natural gas",
+        "Petroleum"
+      ],
+      "answer": "Solar power"
+    },
+    {
+      "number": 45,
+      "question": "What is the process by which plants convert sunlight into chemical energy?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Digestion"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "number": 46,
+      "question": "Which of the following is the study of heredity and the variation of inherited characteristics?",
+      "options": [
+        "Genetics",
+        "Evolution",
+        "Ecology",
+        "Physiology"
+      ],
+      "answer": "Genetics"
+    },
+    {
+      "number": 47,
+      "question": "What is the process by which new traits or characteristics arise in a species over time?",
+      "options": [
+        "Evolution",
+        "Genetics",
+        "Ecology",
+        "Physiology"
+      ],
+      "answer": "Evolution"
+    },
+    {
+      "number": 48,
+      "question": "Which of the following is the study of how organisms interact with their environment?",
+      "options": [
+        "Ecology",
+        "Genetics",
+        "Evolution",
+        "Physiology"
+      ],
+      "answer": "Ecology"
+    },
+    {
+      "number": 49,
+      "question": "What is the study of how living organisms function?",
+      "options": [
+        "Physiology",
+        "Genetics",
+        "Evolution",
+        "Ecology"
+      ],
+      "answer": "Physiology"
+    },
+    {
+      "number": 50,
+      "question": "Which of the following is the process by which an organism maintains a stable internal environment?",
+      "options": [
+        "Homeostasis",
+        "Genetics",
+        "Evolution",
+        "Ecology"
+      ],
+      "answer": "Homeostasis"
+    }
+  ]

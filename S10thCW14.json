@@ -1,0 +1,1087 @@
+[
+  {
+    "number": 1,
+    "question": "What is reproduction?",
+    "options": [
+      "Growth of an organism",
+      "Formation of gametes",
+      "Exchange of genetic material",
+      "Birth of offspring"
+    ],
+    "answer": "Birth of offspring"
+  },
+  {
+    "number": 2,
+    "question": "What is asexual reproduction?",
+    "options": [
+      "Reproduction involving two parents",
+      "Reproduction without the involvement of gametes",
+      "Reproduction with the exchange of genetic material",
+      "Reproduction in plants only"
+    ],
+    "answer": "Reproduction without the involvement of gametes"
+  },
+  {
+    "number": 3,
+    "question": "What is sexual reproduction?",
+    "options": [
+      "Reproduction involving two parents",
+      "Reproduction without the involvement of gametes",
+      "Reproduction with the exchange of genetic material",
+      "Reproduction in plants only"
+    ],
+    "answer": "Reproduction involving two parents"
+  },
+  {
+    "number": 4,
+    "question": "What are gametes?",
+    "options": [
+      "Specialized cells involved in sexual reproduction",
+      "Unicellular organisms",
+      "Plants capable of asexual reproduction",
+      "Embryonic cells"
+    ],
+    "answer": "Specialized cells involved in sexual reproduction"
+  },
+  {
+    "number": 5,
+    "question": "What is fertilization?",
+    "options": [
+      "Union of male and female gametes",
+      "Formation of zygote",
+      "Growth and development of offspring",
+      "Process of asexual reproduction"
+    ],
+    "answer": "Union of male and female gametes"
+  },
+  {
+    "number": 6,
+    "question": "What is a zygote?",
+    "options": [
+      "Specialized cells involved in sexual reproduction",
+      "Unicellular organisms",
+      "Embryonic cells",
+      "Fertilized egg cell"
+    ],
+    "answer": "Fertilized egg cell"
+  },
+  {
+    "number": 7,
+    "question": "What is the process of growth and development of offspring called?",
+    "options": [
+      "Fertilization",
+      "Reproduction",
+      "Mitosis",
+      "Embryogenesis"
+    ],
+    "answer": "Embryogenesis"
+  },
+  {
+    "number": 8,
+    "question": "What is mitosis?",
+    "options": [
+      "Process of cell division in sexual reproduction",
+      "Process of cell division in asexual reproduction",
+      "Formation of gametes",
+      "Fertilization"
+    ],
+    "answer": "Process of cell division in asexual reproduction"
+  },
+  {
+    "number": 9,
+    "question": "What is meiosis?",
+    "options": [
+      "Process of cell division in sexual reproduction",
+      "Process of cell division in asexual reproduction",
+      "Formation of gametes",
+      "Fertilization"
+    ],
+    "answer": "Process of cell division in sexual reproduction"
+  },
+  {
+    "number": 10,
+    "question": "What is regeneration?",
+    "options": [
+      "Asexual reproduction in animals",
+      "Asexual reproduction in plants",
+      "Regrowth of lost body parts",
+      "Reproduction without gametes"
+    ],
+    "answer": "Regrowth of lost body parts"
+  },
+  {
+    "number": 11,
+    "question": "What is binary fission?",
+    "options": [
+      "Asexual reproduction in animals",
+      "Asexual reproduction in plants",
+      "Cell division in bacteria",
+      "Process of fertilization"
+    ],
+    "answer": "Cell division in bacteria"
+  },
+  {
+    "number": 12,
+    "question": "What is spore formation?",
+    "options": [
+      "Asexual reproduction in animals",
+      "Asexual reproduction in plants",
+      "Release of specialized cells for reproduction",
+      "Cell division in bacteria"
+    ],
+    "answer": "Release of specialized cells for reproduction"
+  },
+  {
+    "number": 13,
+    "question": "What is vegetative propagation?",
+    "options": [
+      "Asexual reproduction in animals",
+      "Asexual reproduction in plants",
+      "Cell division in bacteria",
+      "Process of fertilization"
+    ],
+    "answer": "Asexual reproduction in plants"
+  },
+  {
+    "number": 14,
+    "question": "What is a runner?",
+    "options": [
+      "Specialized cell involved in asexual reproduction",
+      "Long stem that grows horizontally above the ground",
+      "Male gamete",
+      "Female gamete"
+    ],
+    "answer": "Long stem that grows horizontally above the ground"
+  },
+  {
+    "number": 15,
+    "question": "What is grafting?",
+    "options": [
+      "Asexual reproduction in animals",
+      "Asexual reproduction in plants",
+      "Joining of two different plant parts to grow as one",
+      "Process of fertilization"
+    ],
+    "answer": "Joining of two different plant parts to grow as one"
+  },
+  {
+    "number": 16,
+    "question": "What is the advantage of asexual reproduction?",
+    "options": [
+      "Genetic variation",
+      "Production of large number of offspring",
+      "Requires less energy",
+      "Ability to adapt to changing environment"
+    ],
+    "answer": "Production of large number of offspring"
+  },
+  {
+    "number": 17,
+    "question": "What is the advantage of sexual reproduction?",
+    "options": [
+      "Genetic variation",
+      "Production of large number of offspring",
+      "Requires less energy",
+      "Ability to adapt to changing environment"
+    ],
+    "answer": "Genetic variation"
+  },
+  {
+    "number": 18,
+    "question": "What is hermaphroditism?",
+    "options": [
+      "Reproduction in plants only",
+      "Reproduction involving two parents",
+      "Ability of an organism to possess both male and female reproductive organs",
+      "Reproduction without gametes"
+    ],
+    "answer": "Ability of an organism to possess both male and female reproductive organs"
+  },
+  {
+    "number": 19,
+    "question": "What is pollination?",
+    "options": [
+      "Transfer of pollen from anther to stigma",
+      "Formation of seeds",
+      "Development of embryo",
+      "Release of spores"
+    ],
+    "answer": "Transfer of pollen from anther to stigma"
+  },
+  {
+    "number": 20,
+    "question": "What is cross-pollination?",
+    "options": [
+      "Pollination between flowers of the same plant",
+      "Pollination between flowers of different plants",
+      "Self-pollination",
+      "Asexual reproduction"
+    ],
+    "answer": "Pollination between flowers of different plants"
+  },
+  {
+    "number": 21,
+    "question": "What is self-pollination?",
+    "options": [
+      "Pollination between flowers of the same plant",
+      "Pollination between flowers of different plants",
+     
+
+"Cross-pollination",
+      "Asexual reproduction"
+    ],
+    "answer": "Pollination between flowers of the same plant"
+  },
+  {
+    "number": 22,
+    "question": "What is seed dispersal?",
+    "options": [
+      "Transfer of pollen from anther to stigma",
+      "Formation of seeds",
+      "Development of embryo",
+      "Scattering of seeds away from the parent plant"
+    ],
+    "answer": "Scattering of seeds away from the parent plant"
+  },
+  {
+    "number": 23,
+    "question": "What is germination?",
+    "options": [
+      "Transfer of pollen from anther to stigma",
+      "Formation of seeds",
+      "Development of embryo",
+      "Process of growth of a new plant from a seed"
+    ],
+    "answer": "Process of growth of a new plant from a seed"
+  },
+  {
+    "number": 24,
+    "question": "What is the function of flowers in sexual reproduction?",
+    "options": [
+      "To attract pollinators",
+      "To produce seeds",
+      "To release spores",
+      "To produce gametes"
+    ],
+    "answer": "To attract pollinators"
+  },
+  {
+    "number": 25,
+    "question": "What is the function of the ovary in sexual reproduction?",
+    "options": [
+      "To attract pollinators",
+      "To produce seeds",
+      "To release spores",
+      "To produce gametes"
+    ],
+    "answer": "To produce seeds"
+  },
+  {
+    "number": 26,
+    "question": "What is the function of the stamen in sexual reproduction?",
+    "options": [
+      "To attract pollinators",
+      "To produce seeds",
+      "To release spores",
+      "To produce gametes"
+    ],
+    "answer": "To produce pollen grains"
+  },
+  {
+    "number": 27,
+    "question": "What is the function of the stigma in sexual reproduction?",
+    "options": [
+      "To attract pollinators",
+      "To produce seeds",
+      "To receive pollen grains",
+      "To produce gametes"
+    ],
+    "answer": "To receive pollen grains"
+  },
+  {
+    "number": 28,
+    "question": "What is the function of the style in sexual reproduction?",
+    "options": [
+      "To attract pollinators",
+      "To produce seeds",
+      "To receive pollen grains",
+      "To produce gametes"
+    ],
+    "answer": "To connect the stigma and the ovary"
+  },
+  {
+    "number": 29,
+    "question": "What is the function of the anther in sexual reproduction?",
+    "options": [
+      "To attract pollinators",
+      "To produce seeds",
+      "To release spores",
+      "To produce pollen grains"
+    ],
+    "answer": "To produce pollen grains"
+  },
+  {
+    "number": 30,
+    "question": "What is the function of the filament in sexual reproduction?",
+    "options": [
+      "To attract pollinators",
+      "To produce seeds",
+      "To release spores",
+      "To support the anther"
+    ],
+    "answer": "To support the anther"
+  },
+  {
+   "number": 100,
+    "question": "What is the term used to describe the asexual reproduction in animals where a small bud grows and eventually detaches to become a new organism?",
+    "options": [
+          "Budding",
+          "Regeneration",
+          "Fission",
+          "Grafting"
+        ],
+    "answer": "Budding"
+  },
+  {
+    "number": 32,
+    "question": "What is the female reproductive organ in a flower called?",
+    "options": [
+      "Stamen",
+      "Pistil",
+      "Petals",
+      "Sepals"
+    ],
+    "answer": "Pistil"
+  },
+  {
+    "number": 33,
+    "question": "What is the term used to describe the transfer of pollen from the anther to the stigma?",
+    "options": [
+      "Pollination",
+      "Fertilization",
+      "Germination",
+      "Dispersal"
+    ],
+    "answer": "Pollination"
+  },
+  {
+    "number": 34,
+    "question": "What is the term used to describe the fusion of male and female gametes?",
+    "options": [
+      "Pollination",
+      "Fertilization",
+      "Germination",
+      "Dispersal"
+    ],
+    "answer": "Fertilization"
+  },
+  {
+    "number": 35,
+    "question": "What is the term used to describe the growth of a new plant from a seed?",
+    "options": [
+      "Pollination",
+      "Fertilization",
+      "Germination",
+      "Dispersal"
+    ],
+    "answer": "Germination"
+  },
+  {
+    "number": 36,
+    "question": "What is the term used to describe the scattering of seeds away from the parent plant?",
+    "options": [
+      "Pollination",
+      "Fertilization",
+      "Germination",
+      "Dispersal"
+    ],
+    "answer": "Dispersal"
+  },
+  {
+    "number": 37,
+    "question": "What is the term used to describe the production of offspring without the involvement of gametes?",
+    "options": [
+      "Asexual reproduction",
+      "Sexual reproduction",
+      "Fertilization",
+      "Germination"
+    ],
+    "answer": "Asexual reproduction"
+  },
+  {
+    "number": 38,
+    "question": "What is the term used to describe the production of offspring by the fusion of male and female gametes?",
+    "options": [
+      "Asexual reproduction",
+      "Sexual reproduction",
+      "Fertilization",
+      "Germination"
+    ],
+    "answer": "Sexual reproduction"
+  },
+  {
+    "number": 39,
+    "question": "What is the term used to describe the process of growth and development of an organism from a fertilized egg?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Embryogenesis",
+      "Pollination"
+    ],
+    "answer": "Embryogenesis"
+  },
+  {
+    "number": 40,
+    "question": "What is the term used to describe the process of cell division in asexual reproduction?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Embryogenesis",
+      "Pollination"
+    ],
+    "answer": "Mitosis"
+  },
+  {
+    "number": 41,
+    "question": "What is the term used to describe the process of cell division in sexual reproduction?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Embryogenesis",
+      "Pollination"
+    ],
+    "answer": "Meiosis"
+  },
+  {
+    "number": 42,
+    "question": "What is the term used to describe the process of growth and development of a new plant from a seed?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Embryogenesis",
+      "Germination"
+    ],
+    "answer": "Germination"
+  },
+  {
+    "number": 43,
+    "question": "What is the term used to describe the transfer of pollen from the anther to the stigma of the same flower?",
+    "options": [
+      "Self-pollination",
+      "Cross-pollination",
+      "Asexual reproduction",
+      "Vegetative propagation"
+    ],
+    "answer": "Self-pollination"
+  },
+  {
+    "number": 44,
+    "question": "What is the term used to describe the transfer of pollen from the anther to the stigma of a different flower or plant?",
+    "options": [
+      "Self-pollination",
+      "Cross-pollination",
+      "Asexual reproduction",
+      "Vegetative propagation"
+    ],
+    "answer": "Cross-pollination"
+  },
+  {
+    "number": 45,
+    "question": "What is the term used to describe the ability of an organism to possess both male and female reproductive organs?",
+    "options": [
+      "Hermaphroditism",
+      "Vegetative propagation",
+      "Binary fission",
+      "Spore formation"
+    ],
+    "answer": "Hermaphroditism"
+  },
+  {
+    "number": 46,
+    "question": "What is the term used to describe the release of specialized cells for reproduction?",
+    "options": [
+      "Hermaphroditism",
+      "Vegetative propagation",
+      "Binary fission",
+      "Spore formation"
+    ],
+    "answer": "Spore formation"
+  },
+  {
+    "number": 47,
+    "question": "What is the term used to describe the asexual reproduction in animals where a part of the body regenerates into a new organism?",
+    "options": [
+      "Binary fission",
+      "Budding",
+      "Regeneration",
+      "Grafting"
+    ],
+    "answer": "Regeneration"
+  },
+  {
+    "number": 48,
+    "question": "What is the term used to describe the asexual reproduction in animals where a small bud grows and eventually detaches to become a new organism?",
+    "options": [
+      "Binary fission",
+      "Budding",
+      "Regeneration",
+      "Grafting"
+    ],
+    "answer": "Budding"
+  },
+  {
+    "number": 49,
+    "question": "What is the term used to describe the asexual reproduction in plants where a new plant is formed from a portion of an existing plant?",
+    "options": [
+      "Binary fission",
+      "Budding",
+      "Regeneration",
+      "Vegetative propagation"
+    ],
+    "answer": "Vegetative propagation"
+  },
+  {
+    "number": 50,
+    "question": "What is the term used to describe the asexual reproduction in bacteria where the cell divides into two equal parts?",
+    "options": [
+      "Binary fission",
+      "Budding",
+      "Regeneration",
+      "Vegetative propagation"
+    ],
+    "answer": "Binary fission"
+  },
+  {
+    "number": 51,
+    "question": "What is the process of joining of two different plant parts to grow as one plant?",
+    "options": [
+      "Regeneration",
+      "Grafting",
+      "Pollination",
+      "Dispersal"
+    ],
+    "answer": "Grafting"
+  },
+  {
+    "number": 52,
+   
+
+"question": "What is the process of cell division in asexual reproduction in which the parent cell divides into two identical daughter cells?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Regeneration"
+    ],
+    "answer": "Mitosis"
+  },
+  {
+    "number": 53,
+    "question": "What is the process of cell division in sexual reproduction in which the parent cell divides twice to form four non-identical daughter cells?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Regeneration"
+    ],
+    "answer": "Meiosis"
+  },
+  {
+    "number": 54,
+    "question": "What is the process of reproduction in which a new organism develops from a small outgrowth or bud on the parent organism?",
+    "options": [
+      "Budding",
+      "Fertilization",
+      "Germination",
+      "Vegetative propagation"
+    ],
+    "answer": "Budding"
+  },
+  {
+    "number": 55,
+    "question": "What is the process of reproduction in which a new organism develops from a specialized structure called a spore?",
+    "options": [
+      "Spore formation",
+      "Fertilization",
+      "Germination",
+      "Vegetative propagation"
+    ],
+    "answer": "Spore formation"
+  },
+  {
+    "number": 56,
+    "question": "What is the process of reproduction in which a new plant is produced from a part of an existing plant?",
+    "options": [
+      "Vegetative propagation",
+      "Fertilization",
+      "Germination",
+      "Budding"
+    ],
+    "answer": "Vegetative propagation"
+  },
+  {
+    "number": 57,
+    "question": "What is the process of reproduction in which a new plant grows from a seed or a spore?",
+    "options": [
+      "Germination",
+      "Fertilization",
+      "Budding",
+      "Vegetative propagation"
+    ],
+    "answer": "Germination"
+  },
+  {
+    "number": 58,
+    "question": "What is the process of transferring pollen grains from the anther to the stigma of a flower?",
+    "options": [
+      "Pollination",
+      "Fertilization",
+      "Germination",
+      "Dispersal"
+    ],
+    "answer": "Pollination"
+  },
+  {
+    "number": 59,
+    "question": "What is the process of fusion of male and female gametes to form a zygote?",
+    "options": [
+      "Fertilization",
+      "Pollination",
+      "Germination",
+      "Dispersal"
+    ],
+    "answer": "Fertilization"
+  },
+  {
+    "number": 60,
+    "question": "What is the process of scattering or spreading of seeds away from the parent plant?",
+    "options": [
+      "Seed dispersal",
+      "Fertilization",
+      "Pollination",
+      "Germination"
+    ],
+    "answer": "Seed dispersal"
+  },
+  {
+    "number": 61,
+    "question": "What is the process of growth and development of a new plant from a seed?",
+    "options": [
+      "Germination",
+      "Fertilization",
+      "Pollination",
+      "Seed dispersal"
+    ],
+    "answer": "Germination"
+  },
+  {
+    "number": 62,
+    "question": "What is the term used to describe the reproductive organ of a flower that contains the female reproductive parts?",
+    "options": [
+      "Pistil",
+      "Stamen",
+      "Anther",
+      "Filament"
+    ],
+    "answer": "Pistil"
+  },
+  {
+    "number": 63,
+    "question": "What is the term used to describe the reproductive organ of a flower that contains the male reproductive parts?",
+    "options": [
+      "Stamen",
+      "Pistil",
+      "Anther",
+      "Filament"
+    ],
+    "answer": "Stamen"
+  },
+  {
+    "number": 64,
+    "question": "What is the term used to describe the swollen base of the pistil that contains the ovules?",
+    "options": [
+      "Ovary",
+      "Style",
+      "Stigma",
+      "Anther"
+    ],
+    "answer": "Ovary"
+  },
+  {
+    "number": 65,
+    "question": "What is the term used to describe the long tube-like structure that connects the stigma and the ovary?",
+    "options": [
+      "Style",
+      "Ovary",
+      "Stigma",
+      "Anther"
+    ],
+    "answer": "Style"
+  },
+  {
+    "number": 66,
+    "question": "What is the term used to describe the sticky structure at the top of the pistil that receives pollen grains?",
+    "options": [
+      "Stigma",
+      "Style",
+      "Ovary",
+      "Anther"
+    ],
+    "answer": "Stigma"
+  },
+  {
+    "number": 67,
+    "question": "What is the term used to describe the part of the stamen that produces pollen grains?",
+    "options": [
+      "Anther",
+      "Filament",
+      "Ovary",
+      "Stigma"
+    ],
+    "answer": "Anther"
+  },
+  {
+    "number": 68,
+    "question": "What is the term used to describe the thin, elongated stalk-like structure that supports the anther?",
+    "options": [
+      "Filament",
+      "Anther",
+      "Ovary",
+      "Stigma"
+    ],
+    "answer": "Filament"
+  },
+  {
+    "number": 69,
+    "question": "What is the process of transferring pollen grains from the anther of a flower to the stigma of the same flower?",
+    "options": [
+      "Self-pollination",
+      "Cross-pollination",
+      "Asexual reproduction",
+      "Vegetative propagation"
+    ],
+    "answer": "Self-pollination"
+  },
+  {
+    "number": 70,
+    "question": "What is the process of transferring pollen grains from the anther of a flower to the stigma of a different flower or plant?",
+    "options": [
+      "Cross-pollination",
+      "Self-pollination",
+      "Asexual reproduction",
+      "Vegetative propagation"
+    ],
+    "answer": "Cross-pollination"
+  },
+  {
+    "number": 71,
+    "question": "What is the term used to describe the ability of an organism to possess both male and female reproductive organs?",
+    "options": [
+      "Hermaphroditism",
+      "Vegetative propagation",
+      "Binary fission",
+      "Spore formation"
+    ],
+    "answer": "Hermaphroditism"
+  },
+  {
+    "number": 72,
+    "question": "What is the term used to describe the process of releasing specialized cells or structures for reproduction?",
+    "options": [
+      "Spore formation",
+      "Vegetative",
+      "propagation",
+      "Binary fission",
+      "Regeneration"
+    ],
+    "answer": "Spore formation"
+  },
+  {
+    "number": 73,
+    "question": "What is the term used to describe the asexual reproduction in animals where a part of the body regenerates into a new organism?",
+    "options": [
+      "Regeneration",
+      "Budding",
+      "Fission",
+      "Grafting"
+    ],
+    "answer": "Regeneration"
+  },
+  {
+    "number": 74,
+    "question": "What is the term used to describe the asexual reproduction in animals where a small bud grows and eventually detaches to become a new organism?",
+    "options": [
+      "Budding",
+      "Regeneration",
+      "Fission",
+      "Grafting"
+    ],
+    "answer": "Budding"
+  },
+  {
+    "number": 75,
+    "question": "What is the term used to describe the asexual reproduction in plants where a new plant is formed from a portion of an existing plant?",
+    "options": [
+      "Vegetative propagation",
+      "Regeneration",
+      "Fission",
+      "Budding"
+    ],
+    "answer": "Vegetative propagation"
+  },
+  {
+    "number": 76,
+    "question": "What is the term used to describe the asexual reproduction in bacteria where the cell divides into two equal parts?",
+    "options": [
+      "Binary fission",
+      "Budding",
+      "Regeneration",
+      "Vegetative propagation"
+    ],
+    "answer": "Binary fission"
+  },
+  {
+    "number": 77,
+    "question": "What is the process of joining of two different plant parts to grow as one plant?",
+    "options": [
+      "Grafting",
+      "Regeneration",
+      "Fertilization",
+      "Pollination"
+    ],
+    "answer": "Grafting"
+  },
+  {
+    "number": 78,
+    "question": "What is the term used to describe the process of cell division in asexual reproduction in which the parent cell divides into two identical daughter cells?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Fertilization",
+      "Budding"
+    ],
+    "answer": "Mitosis"
+  },
+  {
+    "number": 79,
+    "question": "What is the term used to describe the process of cell division in sexual reproduction in which the parent cell divides twice to form four non-identical daughter cells?",
+    "options": [
+      "Meiosis",
+      "Mitosis",
+      "Fertilization",
+      "Budding"
+    ],
+    "answer": "Meiosis"
+  },
+  {
+    "number": 80,
+    "question": "What is the term used to describe the process of reproduction in which a new organism develops from a small outgrowth or bud on the parent organism?",
+    "options": [
+      "Budding",
+      "Fertilization",
+      "Germination",
+      "Regeneration"
+    ],
+    "answer": "Budding"
+  },
+  {
+    "number": 81,
+    "question": "What is the term used to describe the process of reproduction in which a new organism develops from a specialized structure called a spore?",
+    "options": [
+      "Spore formation",
+      "Fertilization",
+      "Germination",
+      "Regeneration"
+    ],
+    "answer": "Spore formation"
+  },
+  {
+    "number": 82,
+    "question": "What is the term used to describe the process of reproduction in which a new plant is produced from a part of an existing plant?",
+    "options": [
+      "Vegetative propagation",
+      "Fertilization",
+      "Germination",
+      "Budding"
+    ],
+    "answer": "Vegetative propagation"
+  },
+  {
+    "number": 83,
+    "question": "What is the term used to describe the process of reproduction in which a new plant grows from a seed or a spore?",
+    "options": [
+      "Germination",
+      "Fertilization",
+      "Budding",
+      "Vegetative propagation"
+    ],
+    "answer": "Germination"
+  },
+  {
+    "number": 84,
+    "question": "What is the term used to describe the process of transferring pollen grains from the anther to the stigma?",
+    "options": [
+      "Pollination",
+      "Fertilization",
+      "Germination",
+      "Regeneration"
+    ],
+    "answer": "Pollination"
+  },
+  {
+    "number": 85,
+    "question": "What is the term used to describe the process of fusion of male and female gametes to form a zygote?",
+    "options": [
+      "Fertilization",
+      "Pollination",
+      "Germination",
+      "Regeneration"
+    ],
+    "answer": "Fertilization"
+  },
+  {
+    "number": 86,
+    "question": "What is the term used to describe the process of scattering or spreading of seeds away from the parent plant?",
+    "options": [
+      "Seed dispersal",
+      "Fertilization",
+      "Pollination",
+      "Germination"
+    ],
+    "answer": "Seed dispersal"
+  },
+  {
+    "number": 87,
+    "question": "What is the term used to describe the process of growth and development of a new plant from a seed?",
+    "options": [
+      "Germination",
+      "Fertilization",
+      "Pollination",
+      "Seed dispersal"
+    ],
+    "answer": "Germination"
+  },
+  {
+    "number": 88,
+    "question": "What is the term used to describe the reproductive organ of a flower that contains the female reproductive parts?",
+    "options": [
+      "Pistil",
+      "Stamen",
+      "Anther",
+      "Filament"
+    ],
+    "answer": "Pistil"
+  },
+  {
+    "number": 89,
+    "question": "What is the term used to describe the reproductive organ of a flower that contains the male reproductive parts?",
+    "options": [
+      "Stamen",
+      "Pistil",
+      "Anther",
+      "Filament"
+    ],
+    "answer": "Stamen"
+  },
+  {
+    "number": 90,
+    "question": "What is the term used to describe the swollen base of the pistil that contains the ovules?",
+    "options": [
+      "Ovary",
+      "Style",
+      "Stigma",
+      "Anther"
+    ],
+    "answer": "Ovary"
+  },
+  {
+    "number": 91,
+    "question": "What is the term used to describe the long tube-like structure that connects the stigma and the ovary?",
+    "options": [
+      "Style",
+      "Ovary",
+      "Stigma",
+      "Anther"
+    ],
+    "answer": "Style"
+  },
+
+  {
+    "number": 93,
+    "question": "What is the term used to describe the part of the stamen that produces pollen grains?",
+    "options": [
+      "Anther",
+      "Filament",
+      "Ovary",
+      "Stigma"
+    ],
+    "answer": "Anther"
+  },
+  {
+    "number": 94,
+    "question": "What is the term used to describe the thin, elongated stalk-like structure that supports the anther?",
+    "options": [
+      "Filament",
+      "Anther",
+      "Ovary",
+      "Stigma"
+    ],
+    "answer": "Filament"
+  },
+  {
+    "number": 95,
+    "question": "What is the term used to describe the process of transferring pollen grains from the anther of a flower to the stigma of the same flower?",
+    "options": [
+      "Self-pollination",
+      "Cross-pollination",
+      "Asexual reproduction",
+      "Vegetative propagation"
+    ],
+    "answer": "Self-pollination"
+  },
+  {
+    "number": 96,
+    "question": "What is the term used to describe the process of transferring pollen grains from the anther of a flower to the stigma of a different flower or plant?",
+    "options": [
+      "Cross-pollination",
+      "Self-pollination",
+      "Asexual reproduction",
+      "Vegetative propagation"
+    ],
+    "answer": "Cross-pollination"
+  },
+  {
+    "number": 97,
+    "question": "What is the term used to describe the ability of an organism to possess both male and female reproductive organs?",
+    "options": [
+      "Hermaphroditism",
+      "Vegetative propagation",
+      "Binary fission",
+      "Spore formation"
+    ],
+    "answer": "Hermaphroditism"
+  },
+  {
+    "number": 98,
+    "question": "What is the term used to describe the process of releasing specialized cells or structures for reproduction?",
+    "options": [
+      "Spore formation",
+      "Vegetative propagation",
+      "Binary fission",
+      "Regeneration"
+    ],
+    "answer": "Spore formation"
+  },
+  {
+    "number": 99,
+    "question": "What is the term used to describe the asexual reproduction in animals where a part of the body regenerates into a new organism?",
+    "options": [
+      "Regeneration",
+      "Budding",
+      "Fission",
+      "Grafting"
+    ],
+    "answer": "Regeneration"
+  }
+  
+]

@@ -1,0 +1,1106 @@
+[
+    {
+      "number": 1,
+      "question": "What are metals and non-metals?",
+      "options": [
+        "Elements with high electrical conductivity",
+        "Elements with low electrical conductivity",
+        "Elements with high melting point",
+        "Elements with low melting point"
+      ],
+      "answer": "Elements with high electrical conductivity"
+    },
+    {
+      "number": 2,
+      "question": "Which property of metals makes them good conductors of electricity?",
+      "options": [
+        "High electrical resistance",
+        "Low electrical resistance",
+        "High magnetic properties",
+        "Low magnetic properties"
+      ],
+      "answer": "Low electrical resistance"
+    },
+    {
+      "number": 3,
+      "question": "Which of the following is a physical property of metals?",
+      "options": [
+        "Brittleness",
+        "Malleability",
+        "Non-conductivity",
+        "Low boiling point"
+      ],
+      "answer": "Malleability"
+    },
+    {
+      "number": 4,
+      "question": "Which metal is the best conductor of electricity?",
+      "options": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Aluminum"
+      ],
+      "answer": "Silver"
+    },
+    {
+      "number": 5,
+      "question": "What is the common state of non-metals at room temperature?",
+      "options": [
+        "Solid",
+        "Liquid",
+        "Gas",
+        "Plasma"
+      ],
+      "answer": "Gas"
+    },
+    {
+      "number": 6,
+      "question": "Which of the following is a non-metal?",
+      "options": [
+        "Iron",
+        "Copper",
+        "Oxygen",
+        "Aluminum"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "number": 7,
+      "question": "Which of the following is a metalloid?",
+      "options": [
+        "Carbon",
+        "Potassium",
+        "Bromine",
+        "Silicon"
+      ],
+      "answer": "Silicon"
+    },
+    {
+      "number": 8,
+      "question": "Which group of elements on the periodic table consists of metals?",
+      "options": [
+        "Group 1",
+        "Group 14",
+        "Group 17",
+        "Group 18"
+      ],
+      "answer": "Group 1"
+    },
+    {
+      "number": 9,
+      "question": "Which of the following is a property of non-metals?",
+      "options": [
+        "High thermal conductivity",
+        "Ductility",
+        "Malleability",
+        "Brittleness"
+      ],
+      "answer": "Brittleness"
+    },
+    {
+      "number": 10,
+      "question": "What happens to the electrical conductivity of a metal as its temperature increases?",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Remains constant",
+        "Becomes zero"
+      ],
+      "answer": "Increases"
+    },
+    {
+      "number": 11,
+      "question": "Which of the following elements is a metal?",
+      "options": [
+        "Sulfur",
+        "Calcium",
+        "Phosphorus",
+        "Chlorine"
+      ],
+      "answer": "Calcium"
+    },
+    {
+      "number": 12,
+      "question": "Which metal is commonly used for making electric wires?",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Iron",
+        "Lead"
+      ],
+      "answer": "Copper"
+    },
+    {
+      "number": 13,
+      "question": "Which of the following is a non-metallic mineral?",
+      "options": [
+        "Bauxite",
+        "Magnetite",
+        "Gypsum",
+        "Graphite"
+      ],
+      "answer": "Graphite"
+    },
+    {
+      "number": 14,
+      "question": "Which of the following is a metal used for galvanization?",
+      "options": [
+        "Aluminum",
+        "Tin",
+        "Zinc",
+        "Nickel"
+      ],
+      "answer": "Zinc"
+    },
+    {
+      "number": 15,
+      "question": "What is the main constituent of the alloy bronze?",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Tin",
+        "Lead"
+      ],
+      "answer": "Copper"
+    },
+    {
+      "number": 16,
+      "question": "Which of the following is a property of metals?",
+      "options": [
+        "Low density",
+        "Low melting point",
+        "Low conductivity",
+        "Low reactivity"
+      ],
+      "answer": "Low reactivity"
+    },
+    {
+      "number": 17,
+      "question": "Which non-metal is essential for combustion?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon",
+        "Hydrogen"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "number": 18,
+      "question": "Which of the following metals is the least reactive?",
+      "options": [
+        "Sodium",
+        "Iron",
+        "Aluminum",
+        "Gold"
+      ],
+      "answer": "Gold"
+    },
+    {
+      "number": 19,
+      "question": "Which non-metal is a good conductor of electricity?",
+      "options": [
+        "Carbon",
+        "Phosphorus",
+        "Sulfur",
+        "Chlorine"
+      ],
+      "answer": "Carbon"
+    },
+    {
+      "number": 20,
+      "question": "Which of the following is a property of non-metals?",
+      "options": [
+        "Malleability",
+        "Ductility",
+        "Low boiling point",
+        "High conductivity"
+      ],
+      "answer": "Low boiling point"
+    },
+    {
+      "number": 21,
+      "question": "Which metal is used for making aircraft bodies?",
+      "options": [
+        "Aluminum",
+        "Copper",
+        "Iron",
+        "Silver"
+      ],
+      "answer": "Aluminum"
+    },
+    {
+      "number": 22,
+      "question": "Which of the following non-metals is used in the manufacture of fertilizers?",
+      "options": [
+        "Oxygen",
+        "Carbon",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": "Nitrogen"
+    },
+    {
+      "number": 23,
+      "question": "Which metal is used for making cooking utensils?",
+      "options": [
+        "Copper",
+        "Iron",
+        "Aluminum",
+        "Silver"
+      ],
+      "answer": "Aluminum"
+    },
+    {
+      "number": 24,
+      "question": "Which of the following is a property of metals?",
+      "options": [
+        "Transparency",
+        "Dullness",
+        "Bending easily",
+        "Brittleness"
+      ],
+      "answer": "Bending easily"
+    },
+    {
+      "number": 25
+
+,
+      "question": "Which non-metal is a major constituent of the Earth's atmosphere?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon",
+        "Hydrogen"
+      ],
+      "answer": "Nitrogen"
+    },
+    {
+      "number": 26,
+      "question": "Which metal is used for making electric bulbs?",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Tungsten",
+        "Lead"
+      ],
+      "answer": "Tungsten"
+    },
+    {
+      "number": 27,
+      "question": "Which of the following is a property of non-metals?",
+      "options": [
+        "High density",
+        "High ductility",
+        "High conductivity",
+        "High brittleness"
+      ],
+      "answer": "High brittleness"
+    },
+    {
+      "number": 28,
+      "question": "Which non-metal is essential for respiration?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon",
+        "Hydrogen"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "number": 29,
+      "question": "Which metal is used for making coins?",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Iron",
+        "Silver"
+      ],
+      "answer": "Copper"
+    },
+    {
+      "number": 30,
+      "question": "Which of the following is a physical property of non-metals?",
+      "options": [
+        "Malleability",
+        "Conductivity",
+        "Ductility",
+        "Brittleness"
+      ],
+      "answer": "Brittleness"
+    },
+    {
+      "number": 31,
+      "question": "Which non-metal is used as a disinfectant in water?",
+      "options": [
+        "Oxygen",
+        "Chlorine",
+        "Nitrogen",
+        "Carbon"
+      ],
+      "answer": "Chlorine"
+    },
+    {
+      "number": 32,
+      "question": "Which metal is used for making car batteries?",
+      "options": [
+        "Copper",
+        "Lead",
+        "Aluminum",
+        "Iron"
+      ],
+      "answer": "Lead"
+    },
+    {
+      "number": 33,
+      "question": "Which of the following is a non-metal?",
+      "options": [
+        "Iron",
+        "Copper",
+        "Sulfur",
+        "Silver"
+      ],
+      "answer": "Sulfur"
+    },
+    {
+      "number": 34,
+      "question": "Which metal is used for making electrical wires?",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Iron",
+        "Lead"
+      ],
+      "answer": "Copper"
+    },
+    {
+      "number": 35,
+      "question": "Which non-metal is used for making pencil leads?",
+      "options": [
+        "Oxygen",
+        "Carbon",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": "Carbon"
+    },
+    {
+      "number": 36,
+      "question": "Which of the following is a property of metals?",
+      "options": [
+        "Low malleability",
+        "Low reactivity",
+        "Low electrical conductivity",
+        "Low density"
+      ],
+      "answer": "Low density"
+    },
+    {
+      "number": 37,
+      "question": "Which metal is used for making jewelry?",
+      "options": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Iron"
+      ],
+      "answer": "Gold"
+    },
+    {
+      "number": 38,
+      "question": "Which non-metal is used in the production of glass?",
+      "options": [
+        "Oxygen",
+        "Carbon",
+        "Nitrogen",
+        "Silicon"
+      ],
+      "answer": "Silicon"
+    },
+    {
+      "number": 39,
+      "question": "Which metal is used for making stainless steel?",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Iron",
+        "Chromium"
+      ],
+      "answer": "Chromium"
+    },
+    {
+      "number": 40,
+      "question": "Which of the following is a physical property of non-metals?",
+      "options": [
+        "Malleability",
+        "Ductility",
+        "Transparency",
+        "Conductivity"
+      ],
+      "answer": "Transparency"
+    },
+    {
+      "number": 41,
+      "question": "Which non-metal is used for making matches?",
+      "options": [
+        "Oxygen",
+        "Chlorine",
+        "Nitrogen",
+        "Phosphorus"
+      ],
+      "answer": "Phosphorus"
+    },
+    {
+      "number": 42,
+      "question": "Which metal is used for making electrical contacts?",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Iron",
+        "Aluminum"
+      ],
+      "answer": "Copper"
+    },
+    {
+      "number": 43,
+      "question": "Which of the following is a property of metals?",
+      "options": [
+        "High ductility",
+        "High reactivity",
+        "High boiling point",
+        "High brittleness"
+      ],
+      "answer": "High ductility"
+    },
+    {
+      "number": 44,
+      "question": "Which non-metal is used as a refrigerant?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon",
+        "Hydrogen"
+      ],
+      "answer": "Nitrogen"
+    },
+    {
+      "number": 45,
+      "question": "Which metal is used for making coins in many countries?",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Iron",
+        "Nickel"
+      ],
+      "answer": "Nickel"
+    },
+    {
+      "number": 46,
+      "question": "Which of the following is a non-metal?",
+      "options": [
+        "Sodium",
+        "Calcium",
+        "Phosphorus",
+        "Potassium"
+      ],
+      "answer": "Phosphorus"
+    },
+    {
+      "number": 47,
+      "question": "Which metal is used for making steel?",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Iron",
+        "Aluminum"
+      ],
+      "answer": "Iron"
+    },
+    {
+      "number": 48,
+      "question": "Which non-metal is used in the production of fertilizers?",
+      "options": [
+        "Oxygen",
+        "Carbon",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": "Nitrogen"
+    },
+    {
+      "number": 49,
+      "question": "Which metal is used for making electrical resistors?",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Iron",
+        "Nichrome"
+      ],
+      "answer": "Nichrome"
+    },
+    {
+
+
+    "number": 50,
+    "question": "Which of the following is a property of non-metals?",
+    "options": [
+      "High melting point",
+      "High electrical conductivity",
+      "High ductility",
+      "High malleability"
+    ],
+    "answer": "High melting point"
+  },
+  {
+    "number": 51,
+    "question": "Which non-metal is used as a fire extinguisher?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": "Carbon"
+  },
+  {
+    "number": 52,
+    "question": "Which metal is used for making magnets?",
+    "options": [
+      "Copper",
+      "Zinc",
+      "Iron",
+      "Nickel"
+    ],
+    "answer": "Iron"
+  },
+  {
+    "number": 53,
+    "question": "Which of the following is a non-metal?",
+    "options": [
+      "Mercury",
+      "Calcium",
+      "Phosphorus",
+      "Sodium"
+    ],
+    "answer": "Phosphorus"
+  },
+  {
+    "number": 54,
+    "question": "Which metal is used for making electric switches?",
+    "options": [
+      "Copper",
+      "Zinc",
+      "Iron",
+      "Aluminum"
+    ],
+    "answer": "Aluminum"
+  },
+  {
+    "number": 55,
+    "question": "Which non-metal is used for making glass fibers?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Nitrogen",
+      "Silicon"
+    ],
+    "answer": "Silicon"
+  },
+  {
+    "number": 56,
+    "question": "Which of the following is a property of metals?",
+    "options": [
+      "Low boiling point",
+      "Low electrical conductivity",
+      "Low reactivity",
+      "Low density"
+    ],
+    "answer": "Low reactivity"
+  },
+  {
+    "number": 57,
+    "question": "Which non-metal is used in the production of soap?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": "Carbon"
+  },
+  {
+    "number": 58,
+    "question": "Which metal is used for making airplane parts?",
+    "options": [
+      "Copper",
+      "Steel",
+      "Aluminum",
+      "Silver"
+    ],
+    "answer": "Aluminum"
+  },
+  {
+    "number": 59,
+    "question": "Which of the following is a non-metal?",
+    "options": [
+      "Potassium",
+      "Calcium",
+      "Phosphorus",
+      "Iron"
+    ],
+    "answer": "Phosphorus"
+  },
+  {
+    "number": 60,
+    "question": "Which metal is used for making car engines?",
+    "options": [
+      "Copper",
+      "Zinc",
+      "Iron",
+      "Aluminum"
+    ],
+    "answer": "Iron"
+  },
+  {
+    "number": 61,
+    "question": "Which non-metal is used as a refrigerant in refrigerators?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon",
+      "Hydrogen"
+    ],
+    "answer": "Hydrogen"
+  },
+  {
+    "number": 62,
+    "question": "Which metal is used for making electrical contacts in batteries?",
+    "options": [
+      "Copper",
+      "Zinc",
+      "Iron",
+      "Lead"
+    ],
+    "answer": "Lead"
+  },
+  {
+    "number": 63,
+    "question": "Which of the following is a property of metals?",
+    "options": [
+      "High brittleness",
+      "High boiling point",
+      "High ductility",
+      "High transparency"
+    ],
+    "answer": "High ductility"
+  },
+  {
+    "number": 64,
+    "question": "Which non-metal is used for making fertilizer bombs?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Nitrogen",
+      "Phosphorus"
+    ],
+    "answer": "Nitrogen"
+  },
+  {
+    "number": 65,
+    "question": "Which metal is used for making musical instruments?",
+    "options": [
+      "Copper",
+      "Zinc",
+      "Iron",
+      "Brass"
+    ],
+    "answer": "Brass"
+  },
+  {
+    "number": 66,
+    "question": "Which of the following is a non-metal?",
+    "options": [
+      "Sodium",
+      "Calcium",
+      "Phosphorus",
+      "Potassium"
+    ],
+    "answer": "Phosphorus"
+  },
+  {
+    "number": 67,
+    "question": "Which metal is used for making electrical transformers?",
+    "options": [
+      "Copper",
+      "Zinc",
+      "Iron",
+      "Aluminum"
+    ],
+    "answer": "Copper"
+  },
+  {
+    "number": 68,
+    "question": "Which non-metal is used as a coolant in nuclear reactors?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Nitrogen",
+      "Helium"
+    ],
+    "answer": "Helium"
+  },
+  {
+    "number": 69,
+    "question": "Which metal is used for making jewelry that does not tarnish?",
+    "options": [
+      "Copper",
+      "Gold",
+      "Silver",
+      "Platinum"
+    ],
+    "answer": "Gold"
+  },
+  {
+    "number": 70,
+    "question": "Which of the following is a property of non-metals?",
+    "options": [
+      "High boiling point",
+      "High electrical conductivity",
+      "High ductility",
+      "High malleability"
+    ],
+    "answer": "High boiling point"
+  },
+  {
+    "number": 71,
+    "question": "Which non-metal is used as a pesticide?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Nitrogen",
+      "Phosphorus"
+    ],
+    "answer": "Phosphorus"
+  },
+  {
+    "number": 72,
+    "question": "Which metal is used for making coins in the United States?",
+    "options": [
+      "Copper",
+      "Zinc",
+      "Iron",
+      "Nickel"
+    ],
+    "answer": "Nickel"
+  },
+  {
+    "number": 73,
+    "question": "Which of the following is a non-metal?",
+    "options": [
+      "Mercury",
+      "Calcium",
+      "Phosphorus",
+      "Sodium"
+    ],
+    "answer": "Phosphorus"
+  },
+  {
+    "number": 74,
+    "question": "Which metal is used for making electrical wires in buildings?",
+    "options": [
+      "Copper",
+      "Zinc",
+      "Iron",
+      "Aluminum"
+    ],
+    "answer": "Copper"
+  },
+  {
+    "number": 75,
+    "question": "Which non-metal is used in the production of computer chips?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Nitrogen",
+      "Silicon"
+    ],
+    "answer": "Silicon"
+  },
+  {
+    "number": 76,
+    "question": "Which metal is used for making car bodies?",
+    "options": [
+      "Copper",
+      "Steel",
+      "Aluminum",
+      "Iron"
+    ],
+    "answer": "Steel"
+  },
+  {
+    "number": 77,
+    "question": "Which of the following is a property of metals?",
+    "options": [
+      "Low melting point",
+      "Low electrical conductivity",
+      "Low reactivity",
+      "Low density"
+    ],
+    "answer": "Low density"
+  },
+  {
+    "number": 78,
+    "question": "Which non-metal is used in the production of plastic?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": "Carbon"
+  },
+  {
+    "number": 79,
+    "question": "Which metal is used for making jewelry that resembles silver?",
+    "options": [
+      "Copper",
+      "Zinc",
+      "Iron",
+      "Nickel"
+    ],
+    "answer": "Nickel"
+  },
+  {
+    "number": 80,
+    "question": "Which of the following is a non-metal?",
+    "options": [
+      "Potassium",
+      "Calcium",
+      "Phosphorus",
+      "Iron"
+    ],
+    "answer": "Phosphorus"
+  },
+  {
+    "number": 81,
+    "question": "Which metal is used for making surgical instruments?",
+    "options": [
+      "Copper",
+      "Zinc",
+      "Iron",
+      "Stainless Steel"
+    ],
+    "answer": "Stainless Steel"
+  },
+  {
+    "number": 82,
+    "question": "Which non-metal is used as a fuel in lighters?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Nitrogen",
+      "Butane"
+    ],
+    "answer": "Butane"
+  },
+  {
+    "number": 83,
+    "question": "Which metal is used for making electrical contacts in switches?",
+    "options": [
+      "Copper",
+      "Zinc",
+      "Iron",
+      "Silver"
+    ],
+    "answer": "Silver"
+  },
+  {
+    "number": 84,
+    "question": "Which of the following is a property of metals?",
+    "options": [
+      "High brittleness",
+      "High boiling point",
+      "High ductility",
+      "High transparency"
+    ],
+    "answer": "High ductility"
+  },
+  {
+    "number": 85,
+    "question": "Which non-metal is used in the production of rubber?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Nitrogen",
+      "Sulfur"
+    ],
+    "answer": "Sulfur"
+  },
+  {
+    "number": 86,
+    "question": "Which metal is used for making electrical contacts in switches?",
+    "options": [
+      "Copper",
+      "Zinc",
+      "Iron",
+      "Gold"
+    ],
+    "answer": "Gold"
+  },
+  {
+    "number": 87,
+    "question": "Which of the following is a non-metal?",
+    "options": [
+      "Sodium",
+      "Calcium",
+      "Phosphorus",
+      "Potassium"
+    ],
+    "answer": "Phosphorus"
+  },
+  {
+    "number": 88,
+    "question": "Which metal is used for making coins in Canada?",
+    "options": [
+      "Copper",
+      "Zinc",
+      "Iron",
+      "Nickel"
+    ],
+    "answer": "Nickel"
+  },
+  {
+    "number": 89,
+    "question": "Which non-metal is used as a bleaching agent?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Nitrogen",
+      "Chlorine"
+    ],
+    "answer": "Chlorine"
+  },
+  {
+    "number": 90,
+    "question": "Which metal is used for making electrical wires in power transmission?",
+    "options": [
+      "Copper",
+      "Zinc",
+      "Iron",
+      "Aluminum"
+    ],
+    "answer": "Aluminum"
+  },
+  {
+    "number": 91,
+    "question": "Which of the following is a property of metals?",
+    "options": [
+      "Low boiling point",
+      "Low electrical conductivity",
+      "Low reactivity",
+      "Low density"
+    ],
+    "answer": "Low reactivity"
+  },
+  {
+    "number": 92,
+    "question": "Which non-metal is used in the production of fireworks?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Nitrogen",
+      "Sulfur"
+    ],
+    "answer": "Sulfur"
+  },
+  {
+    "number": 93,
+    "question": "Which metal is used for making cooking pots?",
+    "options": [
+      "Copper",
+      "Zinc",
+      "Iron",
+      "Aluminum"
+    ],
+    "answer": "Aluminum"
+  },
+  {
+    "number": 94,
+    "question": "Which of the following is a non-metal?",
+    "options": [
+      "Mercury",
+      "Calcium",
+      "Phosphorus",
+      "Sodium"
+    ],
+    "answer": "Phosphorus"
+  },
+  {
+    "number": 95,
+    "question": "Which metal is used for making electrical contacts in switches?",
+    "options": [
+      "Copper",
+      "Zinc",
+      "Iron",
+      "Silver"
+    ],
+    "answer": "Silver"
+  },
+  {
+    "number": 96,
+    "question": "Which non-metal is used as a refrigerant in air conditioners?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Nitrogen",
+      "Freon"
+    ],
+    "answer": "Freon"
+  },
+  {
+    "number": 97,
+    "question": "Which metal is used for making jewelry that resembles silver?",
+    "options": [
+      "Copper",
+      "Zinc",
+      "Iron",
+      "Nickel"
+    ],
+    "answer": "Nickel"
+  },
+  {
+    "number": 98,
+    "question": "Which of the following is a non-metal?",
+    "options": [
+      "Potassium",
+      "Calcium",
+      "Phosphorus",
+      "Iron"
+    ],
+    "answer": "Phosphorus"
+  },
+  {
+    "number": 99,
+    "question": "Which metal is used for making electrical contacts in switches?",
+    "options": [
+      "Copper",
+      "Zinc",
+      "Iron",
+      "Gold"
+    ],
+    "answer": "Gold"
+  },
+  {
+    "number": 100,
+    "question": "Which non-metal is used in the production of matches?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Nitrogen",
+      "Phosphorus"
+    ],
+    "answer": "Phosphorus"
+  }
+  ]

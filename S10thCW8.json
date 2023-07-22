@@ -1,0 +1,1104 @@
+[
+    {
+      "number": 1,
+      "question": "What is the chemical symbol for carbon?",
+      "options": [
+        "Ca",
+        "Co",
+        "C",
+        "Cr"
+      ],
+      "answer": "C"
+    },
+    {
+      "number": 2,
+      "question": "What is the atomic number of carbon?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "answer": "6"
+    },
+    {
+      "number": 3,
+      "question": "What is the valency of carbon?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "4"
+    },
+    {
+      "number": 4,
+      "question": "Which allotrope of carbon is the hardest natural substance?",
+      "options": [
+        "Graphite",
+        "Diamond",
+        "Fullerene",
+        "Charcoal"
+      ],
+      "answer": "Diamond"
+    },
+    {
+      "number": 5,
+      "question": "Which allotrope of carbon is used as a lubricant?",
+      "options": [
+        "Graphite",
+        "Diamond",
+        "Fullerene",
+        "Charcoal"
+      ],
+      "answer": "Graphite"
+    },
+    {
+      "number": 6,
+      "question": "What is the process of converting vegetable oils into solid fats called?",
+      "options": [
+        "Hydrogenation",
+        "Saponification",
+        "Esterification",
+        "Polymerization"
+      ],
+      "answer": "Hydrogenation"
+    },
+    {
+      "number": 7,
+      "question": "What is the general formula for alkenes?",
+      "options": [
+        "CnH2n",
+        "CnH2n+2",
+        "CnHn",
+        "CnHn+2"
+      ],
+      "answer": "CnH2n"
+    },
+    {
+      "number": 8,
+      "question": "What is the process of converting alkenes into alkanes called?",
+      "options": [
+        "Oxidation",
+        "Hydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydration"
+    },
+    {
+      "number": 9,
+      "question": "Which gas is produced when ethanol reacts with sodium?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "number": 10,
+      "question": "What is the process of converting fats and oils into soap called?",
+      "options": [
+        "Saponification",
+        "Hydrolysis",
+        "Esterification",
+        "Polymerization"
+      ],
+      "answer": "Saponification"
+    },
+    {
+      "number": 11,
+      "question": "Which functional group is present in aldehydes?",
+      "options": [
+        "-OH",
+        "-COOH",
+        "-CHO",
+        "-NH2"
+      ],
+      "answer": "-CHO"
+    },
+    {
+      "number": 12,
+      "question": "What is the process of converting alcohol into carboxylic acid called?",
+      "options": [
+        "Dehydration",
+        "Oxidation",
+        "Esterification",
+        "Polymerization"
+      ],
+      "answer": "Oxidation"
+    },
+    {
+      "number": 13,
+      "question": "Which compound is responsible for the characteristic smell of vinegar?",
+      "options": [
+        "Ethanoic acid",
+        "Methanoic acid",
+        "Propanoic acid",
+        "Butanoic acid"
+      ],
+      "answer": "Ethanoic acid"
+    },
+    {
+      "number": 14,
+      "question": "Which organic compound is used as a preservative for fruits and pickles?",
+      "options": [
+        "Citric acid",
+        "Lactic acid",
+        "Acetic acid",
+        "Tartaric acid"
+      ],
+      "answer": "Acetic acid"
+    },
+    {
+      "number": 15,
+      "question": "What is the process of converting alcohol into alkene called?",
+      "options": [
+        "Dehydration",
+        "Oxidation",
+        "Esterification",
+        "Polymerization"
+      ],
+      "answer": "Dehydration"
+    },
+    {
+      "number": 16,
+      "question": "Which gas is produced when ethanol reacts with concentrated sulphuric acid?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon dioxide",
+        "Ethene"
+      ],
+      "answer": "Ethene"
+    },
+    {
+      "number": 17,
+      "question": "What is the process of converting alcohol into ester called?",
+      "options": [
+        "Dehydration",
+        "Oxidation",
+        "Esterification",
+        "Polymerization"
+      ],
+      "answer": "Esterification"
+    },
+    {
+      "number": 18,
+      "question": "What is the general formula for alkynes?",
+      "options": [
+        "CnH2n",
+        "CnH2n+2",
+        "CnHn",
+        "CnHn+2"
+      ],
+      "answer": "CnHn"
+    },
+    {
+      "number": 19,
+      "question": "Which compound is responsible for the fruity smell of pineapples?",
+      "options": [
+        "Ethyl ethanoate",
+        "Methyl ethanoate",
+        "Ethyl propanoate",
+        "Methyl propanoate"
+      ],
+      "answer": "Ethyl ethanoate"
+    },
+    {
+      "number": 20,
+      "question": "What is the process of combining monomers to form a polymer called?",
+      "options": [
+        "Polymerization",
+        "Condensation",
+        "Hydrolysis",
+        "Saponification"
+      ],
+      "answer": "Polymerization"
+    },
+    {
+      "number": 21,
+      "question": "Which compound is used as a refrigerant in air conditioners and refrigerators?",
+      "options": [
+        "Chloroform",
+        "Freon",
+        "Acetone",
+        "Benzene"
+      ],
+      "answer": "Freon"
+    },
+    {
+      "number": 22,
+      "question": "What is the process of converting alkene into alcohol called?",
+      "options": [
+        "Hydration",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydration"
+    },
+    {
+      "number": 23,
+      "question": "Which compound is responsible for the pungent smell of garlic?",
+      "options": [
+        "Ethyl sulphide",
+        "Methyl sulphide",
+        "Propyl sulphide",
+        "Butyl sulphide"
+      ],
+      "answer": "Methyl sulphide"
+    },
+    {
+      "number": 24,
+      "question": "What is the process of converting alcohol into alkane called?",
+      "options": [
+        "Dehydration",
+        "Oxidation",
+        "Esterification",
+        "Hydrogenation"
+      ],
+      "answer": "Hydrogenation"
+    },
+    {
+      "number": 25,
+      "question": "Which compound is commonly used as a solvent in paint removers?",
+      "options": [
+        "Methanol",
+        "Ethanol",
+        "Acetone",
+        "Butanol"
+      ],
+      "answer": "Acetone"
+    },
+    {
+      "number": 26,
+      "question": "What is the process of converting an alkane into an alkene called?",
+      "options": [
+        "Dehydration",
+        "Oxidation",
+        "Esterification",
+        "Hydration"
+      ],
+      "answer": "Dehydration"
+    },
+    {
+      "number": 27,
+      "question": "Which compound is responsible for the sweet smell of ripe bananas?",
+      "options": [
+        "Butanoic acid",
+        "Pentanoic acid",
+        "Hexanoic acid",
+        "Heptanoic acid"
+      ],
+      "answer": "Hexanoic acid"
+    },
+    {
+      "number": 28,
+      "question": "What is the process of converting an alkene into an alcohol called?",
+      "options": [
+        "Hydration",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydration"
+    },
+    {
+      "number": 29,
+      "question": "Which compound is commonly used as a disinfectant in households?",
+      "options": [
+        "Ethanol",
+        "Phenol",
+        "Glycerol",
+        "Benzene"
+      ],
+      "answer": "Phenol"
+    },
+    {
+      "number": 30,
+      "question": "What is the process of converting an alkene into an alkane called?",
+      "options": [
+        "Hydrogenation",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydrogenation"
+    },
+    {
+      "number": 31,
+      "question": "Which compound is responsible for the smell of rotten eggs?",
+      "options": [
+        "Hydrogen sulphide",
+        "Sulphur dioxide",
+        "Sulphur trioxide",
+        "Sulphuric acid"
+      ],
+      "answer": "Hydrogen sulphide"
+    },
+    {
+      "number": 32,
+      "question": "What is the process of converting an alkene into an alkane called?",
+      "options": [
+        "Hydration",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydration"
+    },
+    {
+      "number": 33,
+      "question": "Which compound is commonly used as a fuel in alcohol lamps and spirit burners?",
+      "options": [
+        "Methanol",
+        "Ethanol",
+        "Propanol",
+        "Butanol"
+      ],
+      "answer": "Ethanol"
+    },
+    {
+      "number": 34,
+      "question": "What is the process of converting an alkane into an alkene called?",
+      "options": [
+        "Dehydration",
+        "Oxidation",
+        "Esterification",
+        "Hydrogenation"
+      ],
+      "answer": "Dehydration"
+    },
+    {
+      "number": 35,
+      "question": "Which compound is responsible for the pungent smell of onions?",
+      "options": [
+        "Ethyl sulphide",
+        "Methyl sulphide",
+        "Propyl sulphide",
+        "Butyl sulphide"
+      ],
+      "answer": "Propyl sulphide"
+    },
+    {
+      "number": 36,
+      "question": "What is the process of converting an alkene into an alcohol called?",
+      "options": [
+        "Hydration",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydration"
+    },
+    {
+      "number": 37,
+      "question": "Which compound is commonly used as a solvent in dry cleaning?",
+      "options": [
+        "Methanol",
+        "Ethanol",
+        "Acetone",
+        "Butanol"
+      ],
+      "answer": "Acetone"
+    },
+    {
+      "number": 38,
+      "question": "What is the process of converting an alkene into an alkane called?",
+      "options": [
+        "Hydrogenation",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydrogenation"
+    },
+    {
+      "number": 39,
+      "question": "Which compound is responsible for the characteristic smell of lemons?",
+      "options": [
+        "Citric acid",
+        "Lactic acid",
+        "Acetic acid",
+        "Tartaric acid"
+      ],
+      "answer": "Citric acid"
+    },
+    {
+      "number": 40,
+      "question": "What is the process of converting an alkane into an alkene called?",
+      "options": [
+        "Dehydration",
+        "Oxidation",
+        "Esterification",
+        "Hydrogenation"
+      ],
+      "answer": "Dehydration"
+    },
+    {
+      "number": 41,
+      "question": "Which compound is commonly used as a disinfectant in households?",
+      "options": [
+        "Ethanol",
+        "Phenol",
+        "Glycerol",
+        "Benzene"
+      ],
+      "answer": "Phenol"
+    },
+    {
+      "number": 42,
+      "question": "What is the process of converting an alkene into an alcohol called?",
+      "options": [
+        "Hydration",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydration"
+    },
+    {
+      "number": 43,
+      "question": "Which compound is commonly used as a solvent in nail polish removers?",
+      "options": [
+        "Methanol",
+        "Ethanol",
+        "Acetone",
+        "Butanol"
+      ],
+      "answer": "Acetone"
+    },
+    {
+      "number": 44,
+      "question": "What is the process of converting an alkene into an alkane called?",
+      "options": [
+        "Hydrogenation",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydrogenation"
+    },
+    {
+      "number": 45,
+      "question": "Which compound is commonly used as a fuel in alcohol lamps and spirit burners?",
+      "options": [
+        "Methanol",
+
+
+        "Ethanol",
+        "Propanol",
+        "Butanol"
+      ],
+      "answer": "Ethanol"
+    },
+    {
+      "number": 46,
+      "question": "What is the process of converting an alkane into an alkene called?",
+      "options": [
+        "Dehydration",
+        "Oxidation",
+        "Esterification",
+        "Hydrogenation"
+      ],
+      "answer": "Dehydration"
+    },
+    {
+      "number": 47,
+      "question": "Which compound is responsible for the pungent smell of onions?",
+      "options": [
+        "Ethyl sulphide",
+        "Methyl sulphide",
+        "Propyl sulphide",
+        "Butyl sulphide"
+      ],
+      "answer": "Propyl sulphide"
+    },
+    {
+      "number": 48,
+      "question": "What is the process of converting an alkene into an alcohol called?",
+      "options": [
+        "Hydration",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydration"
+    },
+    {
+      "number": 49,
+      "question": "Which compound is commonly used as a solvent in dry cleaning?",
+      "options": [
+        "Methanol",
+        "Ethanol",
+        "Acetone",
+        "Butanol"
+      ],
+      "answer": "Acetone"
+    },
+    {
+      "number": 50,
+      "question": "What is the process of converting an alkene into an alkane called?",
+      "options": [
+        "Hydrogenation",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydrogenation"
+    },
+    {
+      "number": 51,
+      "question": "Which compound is responsible for the characteristic smell of lemons?",
+      "options": [
+        "Citric acid",
+        "Lactic acid",
+        "Acetic acid",
+        "Tartaric acid"
+      ],
+      "answer": "Citric acid"
+    },
+    {
+      "number": 52,
+      "question": "What is the process of converting an alkane into an alkene called?",
+      "options": [
+        "Dehydration",
+        "Oxidation",
+        "Esterification",
+        "Hydrogenation"
+      ],
+      "answer": "Dehydration"
+    },
+    {
+      "number": 53,
+      "question": "Which compound is commonly used as a disinfectant in households?",
+      "options": [
+        "Ethanol",
+        "Phenol",
+        "Glycerol",
+        "Benzene"
+      ],
+      "answer": "Phenol"
+    },
+    {
+      "number": 54,
+      "question": "What is the process of converting an alkene into an alcohol called?",
+      "options": [
+        "Hydration",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydration"
+    },
+    {
+      "number": 55,
+      "question": "Which compound is commonly used as a solvent in nail polish removers?",
+      "options": [
+        "Methanol",
+        "Ethanol",
+        "Acetone",
+        "Butanol"
+      ],
+      "answer": "Acetone"
+    },
+    {
+      "number": 56,
+      "question": "What is the process of converting an alkene into an alkane called?",
+      "options": [
+        "Hydrogenation",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydrogenation"
+    },
+    {
+      "number": 57,
+      "question": "Which compound is commonly used as a fuel in alcohol lamps and spirit burners?",
+      "options": [
+        "Methanol",
+        "Ethanol",
+        "Propanol",
+        "Butanol"
+      ],
+      "answer": "Ethanol"
+    },
+    {
+      "number": 58,
+      "question": "What is the process of converting an alkane into an alkene called?",
+      "options": [
+        "Dehydration",
+        "Oxidation",
+        "Esterification",
+        "Hydrogenation"
+      ],
+      "answer": "Dehydration"
+    },
+    {
+      "number": 59,
+      "question": "Which compound is responsible for the pungent smell of onions?",
+      "options": [
+        "Ethyl sulphide",
+        "Methyl sulphide",
+        "Propyl sulphide",
+        "Butyl sulphide"
+      ],
+      "answer": "Propyl sulphide"
+    },
+    {
+      "number": 60,
+      "question": "What is the process of converting an alkene into an alcohol called?",
+      "options": [
+        "Hydration",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydration"
+    },
+    {
+      "number": 61,
+      "question": "Which compound is commonly used as a solvent in dry cleaning?",
+      "options": [
+        "Methanol",
+        "Ethanol",
+        "Acetone",
+        "Butanol"
+      ],
+      "answer": "Acetone"
+    },
+    {
+      "number": 62,
+      "question": "What is the process of converting an alkene into an alkane called?",
+      "options": [
+        "Hydrogenation",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydrogenation"
+    },
+    {
+      "number": 63,
+      "question": "Which compound is responsible for the characteristic smell of lemons?",
+      "options": [
+        "Citric acid",
+        "Lactic acid",
+        "Acetic acid",
+        "Tartaric acid"
+      ],
+      "answer": "Citric acid"
+    },
+    {
+      "number": 64,
+      "question": "What is the process of converting an alkane into an alkene called?",
+      "options": [
+        "Dehydration",
+        "Oxidation",
+        "Esterification",
+        "Hydrogenation"
+      ],
+      "answer": "Dehydration"
+    },
+    {
+      "number": 65,
+      "question": "Which compound is commonly used as a disinfectant in households?",
+      "options": [
+        "Ethanol",
+        "Phenol",
+        "Glycerol",
+        "Benzene"
+      ],
+      "answer": "Phenol"
+    },
+    {
+      "number": 66,
+      "question": "What is the process of converting an alkene into an alcohol called?",
+      "options": [
+        "Hydration",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydration"
+    },
+    {
+      "number": 67,
+      "question": "Which compound is commonly used as a solvent in nail polish removers?",
+      "options": [
+        "Methanol",
+        "Ethanol",
+        "Acetone",
+        "Butanol"
+      ],
+      "answer": "Acetone"
+    },
+    {
+      "number": 68,
+      "question": "What is the process of converting an alkene into an alkane called?",
+      "options": [
+        "Hydrogenation",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydrogenation"
+    },
+    {
+      "number": 69,
+      "question": "Which compound is commonly used as a fuel in alcohol lamps and spirit burners?",
+      "options": [
+        "Methanol",
+        "Ethanol",
+        "Propanol",
+        "Butanol"
+      ],
+      "answer": "Ethanol"
+    },
+    {
+      "number": 70,
+      "question": "What is the process of converting an alkane into an alkene called?",
+      "options": [
+        "Dehydration",
+        "Oxidation",
+        "Esterification",
+        "Hydrogenation"
+      ],
+      "answer": "Dehydration"
+    },
+    {
+      "number": 71,
+      "question": "Which compound is responsible for the pungent smell of onions?",
+      "options": [
+        "Ethyl sulphide",
+        "Methyl sulphide",
+        "Propyl sulphide",
+        "Butyl sulphide"
+      ],
+      "answer": "Propyl sulphide"
+    },
+    {
+      "number": 72,
+      "question": "What is the process of converting an alkene into an alcohol called?",
+      "options": [
+        "Hydration",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydration"
+    },
+    {
+      "number": 73,
+      "question": "Which compound is commonly used as a solvent in dry cleaning?",
+      "options": [
+        "Methanol",
+        "Ethanol",
+        "Acetone",
+        "Butanol"
+      ],
+      "answer": "Acetone"
+    },
+    {
+      "number": 74,
+      "question": "What is the process of converting an alkene into an alkane called?",
+      "options": [
+        "Hydrogenation",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydrogenation"
+    },
+    {
+      "number": 75,
+      "question": "Which compound is responsible for the characteristic smell of lemons?",
+      "options": [
+        "Citric acid",
+        "Lactic acid",
+        "Acetic acid",
+        "Tartaric acid"
+      ],
+      "answer": "Citric acid"
+    },
+    {
+      "number": 76,
+      "question": "What is the process of converting an alkane into an alkene called?",
+      "options": [
+        "Dehydration",
+        "Oxidation",
+        "Esterification",
+        "Hydrogenation"
+      ],
+      "answer": "Dehydration"
+    },
+    {
+      "number": 77,
+      "question": "Which compound is commonly used as a disinfectant in households?",
+      "options": [
+        "Ethanol",
+        "Phenol",
+        "Glycerol",
+        "Benzene"
+      ],
+      "answer": "Phenol"
+    },
+    {
+      "number": 78,
+      "question": "What is the process of converting an alkene into an alcohol called?",
+      "options": [
+        "Hydration",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydration"
+    },
+    {
+      "number": 79,
+      "question": "Which compound is commonly used as a solvent in nail polish removers?",
+      "options": [
+        "Methanol",
+        "Ethanol",
+        "Acetone",
+        "Butanol"
+      ],
+      "answer": "Acetone"
+    },
+    {
+      "number": 80,
+      "question": "What is the process of converting an alkene into an alkane called?",
+      "options": [
+        "Hydrogenation",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydrogenation"
+    },
+    {
+      "number": 81,
+      "question": "Which compound is commonly used as a fuel in alcohol lamps and spirit burners?",
+      "options": [
+        "Methanol",
+        "Ethanol",
+        "Propanol",
+        "Butanol"
+      ],
+      "answer": "Ethanol"
+    },
+    {
+      "number": 82,
+      "question": "What is the process of converting an alkane into an alkene called?",
+      "options": [
+        "Dehydration",
+        "Oxidation",
+        "Esterification",
+        "Hydrogenation"
+      ],
+      "answer": "Dehydration"
+    },
+    {
+      "number": 83,
+      "question": "Which compound is responsible for the pungent smell of onions?",
+      "options": [
+        "Ethyl sulphide",
+        "Methyl sulphide",
+        "Propyl sulphide",
+        "Butyl sulphide"
+      ],
+      "answer": "Propyl sulphide"
+    },
+    {
+      "number": 84,
+      "question": "What is the process of converting an alkene into an alcohol called?",
+      "options": [
+        "Hydration",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydration"
+    },
+    {
+      "number": 85,
+      "question": "Which compound is commonly used as a solvent in dry cleaning?",
+      "options": [
+        "Methanol",
+        "Ethanol",
+        "Acetone",
+        "Butanol"
+      ],
+      "answer": "Acetone"
+    },
+    {
+      "number": 86,
+      "question": "What is the process of converting an alkene into an alkane called?",
+      "options": [
+        "Hydrogenation",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydrogenation"
+    },
+    {
+      "number": 87,
+      "question": "Which compound is responsible for the characteristic smell of lemons?",
+      "options": [
+        "Citric acid",
+        "Lactic acid",
+        "Acetic acid",
+        "Tartaric acid"
+      ],
+      "answer": "Citric acid"
+    },
+    {
+      "number": 88,
+      "question": "What is the process of converting an alkane into an alkene called?",
+      "options": [
+        "Dehydration",
+        "Oxidation",
+        "Esterification",
+        "Hydrogenation"
+      ],
+      "answer": "Dehydration"
+    },
+    {
+      "number": 89,
+      "question": "Which compound is commonly used as a disinfectant in households?",
+      "options": [
+        "Ethanol",
+        "Phenol",
+        "Glycerol",
+        "Benzene"
+      ],
+      "answer": "Phenol"
+    },
+    {
+      "number": 90,
+      "question": "What is the process of converting an alkene into an alcohol called?",
+      "options": [
+        "Hydration",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydration"
+    },
+    {
+      "number": 91,
+      "question": "Which compound is commonly used as a solvent in nail polish removers?",
+      "options": [
+        "Methanol",
+        "Ethanol",
+        "Acetone",
+        "Butanol"
+      ],
+      "answer": "Acetone"
+    },
+    {
+      "number": 92,
+      "question": "What is the process of converting an alkene into an alkane called?",
+      "options": [
+        "Hydrogenation",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydrogenation"
+    },
+    {
+      "number": 93,
+      "question": "Which compound is commonly used as a fuel in alcohol lamps and spirit burners?",
+      "options": [
+        "Methanol",
+        "Ethanol",
+        "Propanol",
+        "Butanol"
+      ],
+      "answer": "Ethanol"
+    },
+    {
+      "number": 94,
+      "question": "What is the process of converting an alkane into an alkene called?",
+      "options": [
+        "Dehydration",
+        "Oxidation",
+        "Esterification",
+        "Hydrogenation"
+      ],
+      "answer": "Dehydration"
+    },
+    {
+      "number": 95,
+      "question": "Which compound is responsible for the pungent smell of onions?",
+      "options": [
+        "Ethyl sulphide",
+        "Methyl sulphide",
+        "Propyl sulphide",
+        "Butyl sulphide"
+      ],
+      "answer": "Propyl sulphide"
+    },
+    {
+      "number": 96,
+      "question": "What is the process of converting an alkene into an alcohol called?",
+      "options": [
+        "Hydration",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydration"
+    },
+    {
+      "number": 97,
+      "question": "Which compound is commonly used as a solvent in dry cleaning?",
+      "options": [
+        "Methanol",
+        "Ethanol",
+        "Acetone",
+        "Butanol"
+      ],
+      "answer": "Acetone"
+    },
+    {
+      "number": 98,
+      "question": "What is the process of converting an alkene into an alkane called?",
+      "options": [
+        "Hydrogenation",
+        "Dehydration",
+        "Halogenation",
+        "Combustion"
+      ],
+      "answer": "Hydrogenation"
+    },
+    {
+      "number": 99,
+      "question": "Which compound is responsible for the characteristic smell of lemons?",
+      "options": [
+        "Citric acid",
+        "Lactic acid",
+        "Acetic acid",
+        "Tartaric acid"
+      ],
+      "answer": "Citric acid"
+    },
+    {
+      "number": 100,
+      "question": "What is the process of converting an alkane into an alkene called?",
+      "options": [
+        "Dehydration",
+        "Oxidation",
+        "Esterification",
+        "Hydrogenation"
+      ],
+      "answer": "Dehydration"
+    }
+  ]

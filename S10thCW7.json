@@ -1,0 +1,1104 @@
+[
+    {
+      "number": 1,
+      "question": "What is the chemical formula for hydrochloric acid?",
+      "options": [
+        "HCl",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "HCl"
+    },
+    {
+      "number": 2,
+      "question": "What is the pH value of a neutral substance?",
+      "options": [
+        "1",
+        "7",
+        "14",
+        "0"
+      ],
+      "answer": "7"
+    },
+    {
+      "number": 3,
+      "question": "What is the color of litmus paper in the presence of an acid?",
+      "options": [
+        "Blue",
+        "Red",
+        "Yellow",
+        "Green"
+      ],
+      "answer": "Red"
+    },
+    {
+      "number": 4,
+      "question": "What gas is produced when an acid reacts with a metal?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "number": 5,
+      "question": "What is the formula for sulfuric acid?",
+      "options": [
+        "HCl",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "H2SO4"
+    },
+    {
+      "number": 6,
+      "question": "What is the formula for sodium hydroxide?",
+      "options": [
+        "NaCl",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "NaOH"
+    },
+    {
+      "number": 7,
+      "question": "Which acid is present in curd?",
+      "options": [
+        "Lactic acid",
+        "Acetic acid",
+        "Citric acid",
+        "Sulfuric acid"
+      ],
+      "answer": "Lactic acid"
+    },
+    {
+      "number": 8,
+      "question": "What is the common name for calcium carbonate?",
+      "options": [
+        "Baking soda",
+        "Washing soda",
+        "Bleaching powder",
+        "Lime"
+      ],
+      "answer": "Lime"
+    },
+    {
+      "number": 9,
+      "question": "Which of the following is a strong acid?",
+      "options": [
+        "Citric acid",
+        "Acetic acid",
+        "Hydrochloric acid",
+        "Lactic acid"
+      ],
+      "answer": "Hydrochloric acid"
+    },
+    {
+      "number": 10,
+      "question": "What is the formula for nitric acid?",
+      "options": [
+        "HCl",
+        "H2O",
+        "HNO3",
+        "NaOH"
+      ],
+      "answer": "HNO3"
+    },
+    {
+      "number": 11,
+      "question": "Which base is present in antacid tablets?",
+      "options": [
+        "Sodium hydroxide",
+        "Calcium carbonate",
+        "Ammonium hydroxide",
+        "Potassium hydroxide"
+      ],
+      "answer": "Calcium carbonate"
+    },
+    {
+      "number": 12,
+      "question": "What is the formula for hydrobromic acid?",
+      "options": [
+        "HBr",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "HBr"
+    },
+    {
+      "number": 13,
+      "question": "What is the pH value of a basic solution?",
+      "options": [
+        "1",
+        "7",
+        "14",
+        "0"
+      ],
+      "answer": "14"
+    },
+    {
+      "number": 14,
+      "question": "What is the color of litmus paper in the presence of a base?",
+      "options": [
+        "Blue",
+        "Red",
+        "Yellow",
+        "Green"
+      ],
+      "answer": "Blue"
+    },
+    {
+      "number": 15,
+      "question": "What gas is produced when a base reacts with a metal?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "number": 16,
+      "question": "What is the formula for acetic acid?",
+      "options": [
+        "HCl",
+        "H2O",
+        "CH3COOH",
+        "NaOH"
+      ],
+      "answer": "CH3COOH"
+    },
+    {
+      "number": 17,
+      "question": "What is the formula for sulfuric acid?",
+      "options": [
+        "HCl",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "H2SO4"
+    },
+    {
+      "number": 18,
+      "question": "Which acid is present in lemon?",
+      "options": [
+        "Lactic acid",
+        "Acetic acid",
+        "Citric acid",
+        "Sulfuric acid"
+      ],
+      "answer": "Citric acid"
+    },
+    {
+      "number": 19,
+      "question": "What is the common name for sodium bicarbonate?",
+      "options": [
+        "Baking soda",
+        "Washing soda",
+        "Bleaching powder",
+        "Lime"
+      ],
+      "answer": "Baking soda"
+    },
+    {
+      "number": 20,
+      "question": "Which of the following is a weak acid?",
+      "options": [
+        "Citric acid",
+        "Acetic acid",
+        "Hydrochloric acid",
+        "Lactic acid"
+      ],
+      "answer": "Acetic acid"
+    },
+    {
+      "number": 21,
+      "question": "What is the formula for hydroiodic acid?",
+      "options": [
+        "HI",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "HI"
+    },
+    {
+      "number": 22,
+      "question": "What is the pH value of a strongly acidic solution?",
+      "options": [
+        "1",
+        "7",
+        "14",
+        "0"
+      ],
+      "answer": "1"
+    },
+    {
+      "number": 23,
+      "question": "What is the color of phenolphthalein in the presence of a base?",
+      "options": [
+        "Colorless",
+        "Pink",
+        "Yellow",
+        "Orange"
+      ],
+      "answer": "Pink"
+    },
+    {
+      "number": 24,
+      "question": "What gas is produced when an acid reacts with a carbonate compound?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "number": 25,
+      "question": "What is the formula for hydrofluoric acid?",
+      "options": [
+        "HF",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "HF"
+    },
+    {
+      "number": 26,
+      "question": "What is the pH value of a basic substance?",
+      "options": [
+        "1",
+        "7",
+        "14",
+        "0"
+      ],
+      "answer": "14"
+    },
+    {
+      "number": 27,
+      "question": "What is the color of litmus paper in the presence of a neutral substance?",
+      "options": [
+        "Blue",
+        "Red",
+        "Yellow",
+        "Green"
+      ],
+      "answer": "Blue"
+    },
+    {
+      "number": 28,
+      "question": "What gas is produced when a base reacts with an ammonium compound?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Ammonia"
+      ],
+      "answer": "Ammonia"
+    },
+    {
+      "number": 29,
+      "question": "What is the formula for hydrochloric acid?",
+      "options": [
+        "HCl",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "HCl"
+    },
+    {
+      "number": 30,
+      "question": "What is the formula for potassium hydroxide?",
+      "options": [
+        "NaCl",
+        "H2O",
+        "H2SO4",
+        "KOH"
+      ],
+      "answer": "KOH"
+    },
+    {
+      "number": 31,
+      "question": "Which acid is present in vinegar?",
+      "options": [
+        "Lactic acid",
+        "Acetic acid",
+        "Citric acid",
+        "Sulfuric acid"
+      ],
+      "answer": "Acetic acid"
+    },
+    {
+      "number": 32,
+      "question": "What is the common name for sodium carbonate?",
+      "options": [
+        "Baking soda",
+        "Washing soda",
+        "Bleaching powder",
+        "Lime"
+      ],
+      "answer": "Washing soda"
+    },
+    {
+      "number": 33,
+      "question": "Which of the following is a strong base?",
+      "options": [
+        "Sodium hydroxide",
+        "Ammonium hydroxide",
+        "Potassium hydroxide",
+        "Calcium hydroxide"
+      ],
+      "answer": "Sodium hydroxide"
+    },
+    {
+      "number": 34,
+      "question": "What is the formula for phosphoric acid?",
+      "options": [
+        "HCl",
+        "H2O",
+        "H3PO4",
+        "NaOH"
+      ],
+      "answer": "H3PO4"
+    },
+    {
+      "number": 35,
+      "question": "Which base is present in household ammonia?",
+      "options": [
+        "Sodium hydroxide",
+        "Calcium carbonate",
+        "Ammonium hydroxide",
+        "Potassium hydroxide"
+      ],
+      "answer": "Ammonium hydroxide"
+    },
+    {
+      "number": 36,
+      "question": "What is the formula for hydrocyanic acid?",
+      "options": [
+        "HCN",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "HCN"
+    },
+    {
+      "number": 37,
+      "question": "What is the pH value of a weakly acidic solution?",
+      "options": [
+        "1",
+        "7",
+        "14",
+        "0"
+      ],
+      "answer": "1"
+    },
+    {
+      "number": 38,
+      "question": "What is the color of phenolphthalein in the presence of an acid?",
+      "options": [
+        "Colorless",
+        "Pink",
+        "Yellow",
+        "Orange"
+      ],
+      "answer": "Colorless"
+    },
+    {
+      "number": 39,
+      "question": "What gas is produced when an acid reacts with a bicarbonate compound?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "number": 40,
+      "question": "What is the formula for hydrochloric acid?",
+      "options": [
+        "HCl",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "HCl"
+    },
+    {
+      "number": 41,
+      "question": "What is the formula for magnesium hydroxide?",
+      "options": [
+        "NaCl",
+        "H2O",
+        "H2SO4",
+        "Mg(OH)2"
+      ],
+      "answer": "Mg(OH)2"
+    },
+    {
+      "number": 42,
+      "question": "Which acid is present in oranges?",
+      "options": [
+        "Lactic acid",
+        "Acetic acid",
+        "Citric acid",
+        "Sulfuric acid"
+      ],
+      "answer": "Citric acid"
+    },
+    {
+      "number": 43,
+      "question": "What is the common name for calcium oxide?",
+      "options": [
+        "Baking soda",
+        "Washing soda",
+        "Bleaching powder",
+        "Quicklime"
+      ],
+      "answer": "Quicklime"
+    },
+    {
+      "number": 44,
+      "question": "Which of the following is a weak base?",
+      "options": [
+        "Sodium hydroxide",
+        "Ammonium hydroxide",
+        "Potassium hydroxide",
+        "Calcium hydroxide"
+      ],
+      "answer": "Ammonium hydroxide"
+    },
+    {
+      "number": 45,
+      "question": "What is the formula for hydrofluoric acid?",
+      "options": [
+        "HF",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "HF"
+    },
+    {
+      "number": 46,
+      "question": "What is the pH value of a weakly basic solution?",
+      "options": [
+        "1",
+        "7",
+        "14",
+        "0"
+      ],
+      "answer": "14"
+    },
+    {
+      "number": 47,
+      "question": "What is the color of methyl orange in the presence of an acid?",
+      "options": [
+        "Red",
+        "Yellow",
+        "Blue",
+        "Green"
+      ],
+      "answer": "Red"
+    },
+    {
+      "number": 48,
+      "question": "What gas is produced when a base reacts with a nitrate compound?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "number": 49,
+      "question": "What is the formula for hydrobromic acid?",
+      "options": [
+        "HBr",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "HBr"
+    },
+    {
+      "number": 50,
+      "question": "What is the pH value of a strongly basic solution?",
+      "options": [
+        "1",
+        "7",
+        "14",
+        "0"
+      ],
+      "answer": "14"
+    },
+    {
+      "number": 51,
+      "question": "What is the color of bromothymol blue in the presence of a base?",
+      "options": [
+        "Yellow",
+        "Blue",
+        "Red",
+        "Green"
+      ],
+      "answer": "Blue"
+    },
+    {
+      "number": 52,
+      "question": "What gas is produced when an acid reacts with a sulfite compound?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Sulfur dioxide"
+      ],
+      "answer": "Sulfur dioxide"
+    },
+    {
+      "number": 53,
+      "question": "What is the formula for acetic acid?",
+      "options": [
+        "HCl",
+        "H2O",
+        "CH3COOH",
+        "NaOH"
+      ],
+      "answer": "CH3COOH"
+    },
+    {
+      "number": 54,
+      "question": "What is the formula for hydrochloric acid?",
+      "options": [
+        "HCl",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "HCl"
+    },
+    {
+      "number": 55,
+      "question": "Which acid is present in grapes?",
+      "options": [
+        "Lactic acid",
+        "Acetic acid",
+        "Citric acid",
+        "Tartaric acid"
+      ],
+      "answer": "Tartaric acid"
+    },
+    {
+      "number": 56,
+      "question": "What is the common name for sodium chloride?",
+      "options": [
+        "Baking soda",
+        "Washing soda",
+        "Table salt",
+        "Lime"
+      ],
+      "answer": "Table salt"
+    },
+    {
+      "number": 57,
+      "question": "Which of the following is a weak acid?",
+      "options": [
+        "Citric acid",
+        "Acetic acid",
+        "Hydrochloric acid",
+        "Lactic acid"
+      ],
+      "answer": "Acetic acid"
+    },
+    {
+      "number": 58,
+      "question": "What is the formula for hydrocyanic acid?",
+      "options": [
+        "HCN",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "HCN"
+    },
+    {
+      "number": 59,
+      "question": "What is the pH value of a weakly basic substance?",
+      "options": [
+        "1",
+        "7",
+        "14",
+        "0"
+      ],
+      "answer": "7"
+    },
+    {
+      "number": 60,
+      "question": "What is the color of bromothymol blue in the presence of a neutral substance?",
+      "options": [
+        "Yellow",
+        "Blue",
+        "Red",
+        "Green"
+      ],
+      "answer": "Green"
+    },
+    {
+      "number": 61,
+      "question": "What gas is produced when a base reacts with a sulfide compound?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Sulfur dioxide"
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "number": 62,
+      "question": "What is the formula for hydroiodic acid?",
+      "options": [
+        "HI",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "HI"
+    },
+    {
+      "number": 63,
+      "question": "What is the pH value of a strongly acidic substance?",
+      "options": [
+        "1",
+        "7",
+        "14",
+        "0"
+      ],
+      "answer": "1"
+    },
+    {
+      "number": 64,
+      "question": "What is the color of phenolphthalein in the presence of a neutral substance?",
+      "options": [
+        "Colorless",
+        "Pink",
+        "Yellow",
+        "Orange"
+      ],
+      "answer": "Colorless"
+    },
+    {
+      "number": 65,
+      "question": "What gas is produced when an acid reacts with a sulfide compound?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Sulfur dioxide"
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "number": 66,
+      "question": "What is the formula for nitric acid?",
+      "options": [
+        "HCl",
+        "H2O",
+        "HNO3",
+        "NaOH"
+      ],
+      "answer": "HNO3"
+    },
+    {
+      "number": 67,
+      "question": "Which base is present in milk of magnesia?",
+      "options": [
+        "Sodium hydroxide",
+        "Calcium carbonate",
+        "Ammonium hydroxide",
+        "Magnesium hydroxide"
+      ],
+      "answer": "Magnesium hydroxide"
+    },
+    {
+      "number": 68,
+      "question": "What is the formula for hydrochloric acid?",
+      "options": [
+        "HCl",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "HCl"
+    },
+    {
+      "number": 69,
+      "question": "What is the formula for calcium hydroxide?",
+      "options": [
+        "NaCl",
+        "H2O",
+        "H2SO4",
+        "Ca(OH)2"
+      ],
+      "answer": "Ca(OH)2"
+    },
+    {
+      "number": 70,
+      "question": "Which acid is present in apples?",
+      "options": [
+        "Lactic acid",
+        "Acetic acid",
+        "Citric acid",
+        "Malic acid"
+      ],
+      "answer": "Malic acid"
+    },
+    {
+      "number": 71,
+      "question": "What is the common name for calcium hypochlorite?",
+      "options": [
+        "Baking soda",
+        "Washing soda",
+        "Bleaching powder",
+        "Lime"
+      ],
+      "answer": "Bleaching powder"
+    },
+    {
+      "number": 72,
+      "question":
+
+"What is the formula for hydrofluoric acid?",
+      "options": [
+        "HF",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "HF"
+    },
+    {
+      "number": 73,
+      "question": "What is the pH value of a basic solution?",
+      "options": [
+        "1",
+        "7",
+        "14",
+        "0"
+      ],
+      "answer": "14"
+    },
+    {
+      "number": 74,
+      "question": "What is the color of phenolphthalein in the presence of a base?",
+      "options": [
+        "Colorless",
+        "Pink",
+        "Yellow",
+        "Orange"
+      ],
+      "answer": "Pink"
+    },
+    {
+      "number": 75,
+      "question": "What gas is produced when a base reacts with a nitrate compound?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Nitrogen dioxide"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "number": 76,
+      "question": "What is the formula for acetic acid?",
+      "options": [
+        "HCl",
+        "H2O",
+        "CH3COOH",
+        "NaOH"
+      ],
+      "answer": "CH3COOH"
+    },
+    {
+      "number": 77,
+      "question": "What is the formula for sulfuric acid?",
+      "options": [
+        "HCl",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "H2SO4"
+    },
+    {
+      "number": 78,
+      "question": "Which acid is present in tomatoes?",
+      "options": [
+        "Lactic acid",
+        "Acetic acid",
+        "Citric acid",
+        "Malic acid"
+      ],
+      "answer": "Citric acid"
+    },
+    {
+      "number": 79,
+      "question": "What is the common name for sodium hydrogen carbonate?",
+      "options": [
+        "Baking soda",
+        "Washing soda",
+        "Bleaching powder",
+        "Lime"
+      ],
+      "answer": "Baking soda"
+    },
+    {
+      "number": 80,
+      "question": "Which of the following is a weak acid?",
+      "options": [
+        "Citric acid",
+        "Acetic acid",
+        "Hydrochloric acid",
+        "Lactic acid"
+      ],
+      "answer": "Acetic acid"
+    },
+    {
+      "number": 81,
+      "question": "What is the formula for hydrochloric acid?",
+      "options": [
+        "HCl",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "HCl"
+    },
+    {
+      "number": 82,
+      "question": "What is the formula for magnesium hydroxide?",
+      "options": [
+        "NaCl",
+        "H2O",
+        "H2SO4",
+        "Mg(OH)2"
+      ],
+      "answer": "Mg(OH)2"
+    },
+    {
+      "number": 83,
+      "question": "Which acid is present in strawberries?",
+      "options": [
+        "Lactic acid",
+        "Acetic acid",
+        "Citric acid",
+        "Malic acid"
+      ],
+      "answer": "Malic acid"
+    },
+    {
+      "number": 84,
+      "question": "What is the common name for calcium oxide?",
+      "options": [
+        "Baking soda",
+        "Washing soda",
+        "Bleaching powder",
+        "Quicklime"
+      ],
+      "answer": "Quicklime"
+    },
+    {
+      "number": 85,
+      "question": "Which of the following is a weak base?",
+      "options": [
+        "Sodium hydroxide",
+        "Ammonium hydroxide",
+        "Potassium hydroxide",
+        "Calcium hydroxide"
+      ],
+      "answer": "Ammonium hydroxide"
+    },
+    {
+      "number": 86,
+      "question": "What is the formula for hydrocyanic acid?",
+      "options": [
+        "HCN",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "HCN"
+    },
+    {
+      "number": 87,
+      "question": "What is the pH value of a weakly basic substance?",
+      "options": [
+        "1",
+        "7",
+        "14",
+        "0"
+      ],
+      "answer": "7"
+    },
+    {
+      "number": 88,
+      "question": "What is the color of bromothymol blue in the presence of a neutral substance?",
+      "options": [
+        "Yellow",
+        "Blue",
+        "Red",
+        "Green"
+      ],
+      "answer": "Green"
+    },
+    {
+      "number": 89,
+      "question": "What gas is produced when a base reacts with a sulfide compound?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Sulfur dioxide"
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "number": 90,
+      "question": "What is the formula for hydroiodic acid?",
+      "options": [
+        "HI",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "HI"
+    },
+    {
+      "number": 91,
+      "question": "What is the pH value of a strongly acidic substance?",
+      "options": [
+        "1",
+        "7",
+        "14",
+        "0"
+      ],
+      "answer": "1"
+    },
+    {
+      "number": 92,
+      "question": "What is the color of phenolphthalein in the presence of a neutral substance?",
+      "options": [
+        "Colorless",
+        "Pink",
+        "Yellow",
+        "Orange"
+      ],
+      "answer": "Colorless"
+    },
+    {
+      "number": 93,
+      "question": "What gas is produced when an acid reacts with a sulfite compound?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Sulfur dioxide"
+      ],
+      "answer": "Sulfur dioxide"
+    },
+    {
+      "number": 94,
+      "question": "What is the formula for acetic acid?",
+      "options": [
+        "HCl",
+        "H2O",
+        "CH3COOH",
+        "NaOH"
+      ],
+      "answer": "CH3COOH"
+    },
+    {
+      "number": 95,
+      "question": "What is the formula for hydrochloric acid?",
+      "options": [
+        "HCl",
+        "H2O",
+        "H2SO4",
+        "NaOH"
+      ],
+      "answer": "HCl"
+    },
+    {
+      "number": 96,
+      "question": "Which acid is present in citrus fruits?",
+      "options": [
+        "Lactic acid",
+        "Acetic acid",
+        "Citric acid",
+        "Malic acid"
+      ],
+      "answer": "Citric acid"
+    },
+    {
+      "number": 97,
+      "question": "What is the common name for sodium carbonate?",
+      "options": [
+        "Baking soda",
+        "Washing soda",
+        "Bleaching powder",
+        "Lime"
+      ],
+      "answer": "Washing soda"
+    },
+    {
+      "number": 98,
+      "question": "Which of the following is a strong base?",
+      "options": [
+        "Sodium hydroxide",
+        "Ammonium hydroxide",
+        "Potassium hydroxide",
+        "Calcium hydroxide"
+      ],
+      "answer": "Sodium hydroxide"
+    },
+    {
+      "number": 99,
+      "question": "What is the formula for phosphoric acid?",
+      "options": [
+        "HCl",
+        "H2O",
+        "H3PO4",
+        "NaOH"
+      ],
+      "answer": "H3PO4"
+    },
+    {
+      "number": 100,
+      "question": "Which base is present in household ammonia?",
+      "options": [
+        "Sodium hydroxide",
+        "Calcium carbonate",
+        "Ammonium hydroxide",
+        "Potassium hydroxide"
+      ],
+      "answer": "Ammonium hydroxide"
+    }
+  ]

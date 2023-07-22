@@ -1,0 +1,552 @@
+[
+    {
+      "number": 1,
+      "question": "What is the SI unit of force?",
+      "options": [
+        "Newton",
+        "Watt",
+        "Joule",
+        "Pascal"
+      ],
+      "answer": "Newton"
+    },
+    {
+      "number": 2,
+      "question": "Which of the following is an example of a non-renewable resource?",
+      "options": [
+        "Coal",
+        "Solar power",
+        "Wind energy",
+        "Biomass"
+      ],
+      "answer": "Coal"
+    },
+    {
+      "number": 3,
+      "question": "What is the process by which plants make their own food?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Digestion"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "number": 4,
+      "question": "Which of the following is a source of renewable energy?",
+      "options": [
+        "Solar power",
+        "Natural gas",
+        "Nuclear energy",
+        "Petroleum"
+      ],
+      "answer": "Solar power"
+    },
+    {
+      "number": 5,
+      "question": "What is the SI unit of electric current?",
+      "options": [
+        "Ampere",
+        "Watt",
+        "Ohm",
+        "Volt"
+      ],
+      "answer": "Ampere"
+    },
+    {
+      "number": 6,
+      "question": "Which of the following is an example of a chemical change?",
+      "options": [
+        "Burning wood",
+        "Melting ice",
+        "Breaking a glass",
+        "Bending a wire"
+      ],
+      "answer": "Burning wood"
+    },
+    {
+      "number": 7,
+      "question": "What is the process by which liquid water changes into water vapor?",
+      "options": [
+        "Evaporation",
+        "Condensation",
+        "Freezing",
+        "Sublimation"
+      ],
+      "answer": "Evaporation"
+    },
+    {
+      "number": 8,
+      "question": "Which of the following is a greenhouse gas?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "number": 9,
+      "question": "What is the process by which an organism produces offspring of its own kind?",
+      "options": [
+        "Reproduction",
+        "Respiration",
+        "Digestion",
+        "Circulation"
+      ],
+      "answer": "Reproduction"
+    },
+    {
+      "number": 10,
+      "question": "Which of the following is the hardest substance on Earth?",
+      "options": [
+        "Diamond",
+        "Gold",
+        "Iron",
+        "Copper"
+      ],
+      "answer": "Diamond"
+    },
+    {
+      "number": 11,
+      "question": "What is the process by which plants absorb water from the soil?",
+      "options": [
+        "Root absorption",
+        "Capillary action",
+        "Osmosis",
+        "Transpiration"
+      ],
+      "answer": "Root absorption"
+    },
+    {
+      "number": 12,
+      "question": "Which of the following is a source of renewable energy?",
+      "options": [
+        "Wind energy",
+        "Natural gas",
+        "Coal",
+        "Nuclear energy"
+      ],
+      "answer": "Wind energy"
+    },
+    {
+      "number": 13,
+      "question": "What is the process by which plants respond to the presence of light?",
+      "options": [
+        "Phototropism",
+        "Geotropism",
+        "Thigmotropism",
+        "Hydrotropism"
+      ],
+      "answer": "Phototropism"
+    },
+    {
+      "number": 14,
+      "question": "Which of the following is a form of potential energy?",
+      "options": [
+        "Chemical energy",
+        "Kinetic energy",
+        "Thermal energy",
+        "Electrical energy"
+      ],
+      "answer": "Chemical energy"
+    },
+    {
+      "number": 15,
+      "question": "What is the process by which a solid changes directly into a gas without passing through the liquid state?",
+      "options": [
+        "Sublimation",
+        "Evaporation",
+        "Condensation",
+        "Melting"
+      ],
+      "answer": "Sublimation"
+    },
+    {
+      "number": 16,
+      "question": "Which of the following is a non-metal?",
+      "options": [
+        "Oxygen",
+        "Copper",
+        "Gold",
+        "Iron"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "number": 17,
+      "question": "What is the process by which rocks are broken down into smaller pieces?",
+      "options": [
+        "Weathering",
+        "Erosion",
+        "Deposition",
+        "Melting"
+      ],
+      "answer": "Weathering"
+    },
+    {
+      "number": 18,
+      "question": "Which of the following is the process of the exchange of gases between the respiratory system and the blood?",
+      "options": [
+        "External respiration",
+        "Internal respiration",
+        "Cellular respiration",
+        "Aerobic respiration"
+      ],
+      "answer": "External respiration"
+    },
+    {
+      "number": 19,
+      "question": "What is the process by which plants convert light energy into chemical energy?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Digestion"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "number": 20,
+      "question": "Which of the following is a conductor of electricity?",
+      "options": [
+        "Copper",
+        "Rubber",
+        "Glass",
+        "Wood"
+      ],
+      "answer": "Copper"
+    },
+    {
+      "number": 21,
+      "question": "What is the process by which plants release oxygen into the atmosphere?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Fermentation"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "number": 22,
+      "question": "Which of the following is a source of non-renewable energy?",
+      "options": [
+        "Natural gas",
+        "Solar power",
+        "Wind energy",
+        "Biomass"
+      ],
+      "answer": "Natural gas"
+    },
+    {
+      "number": 23,
+      "question": "What is the SI unit of power?",
+      "options": [
+        "Watt",
+        "Newton",
+        "Joule",
+        "Pascal"
+      ],
+      "answer": "Watt"
+    },
+    {
+      "number": 24,
+      "question": "Which of the following is an example of a physical change?",
+      "options": [
+        "Melting ice",
+        "Burning wood",
+        "Breaking a glass",
+        "Bending a wire"
+      ],
+      "answer": "Melting ice"
+    },
+    {
+      "number": 25,
+      "question": "What is the process by which water vapor changes into liquid water?",
+      "options": [
+        "Condensation",
+        "Evaporation",
+        "Freezing",
+        "Sublimation"
+      ],
+      "answer": "Condensation"
+    },
+    {
+      "number": 26,
+      "question": "Which of the following is a primary air pollutant?",
+      "options": [
+        "Sulfur dioxide",
+        "Ozone",
+        "Carbon monoxide",
+        "Particulate matter"
+      ],
+      "answer": "Sulfur dioxide"
+    },
+    {
+      "number": 27,
+      "question": "What is the process by which an organism takes in oxygen and releases carbon dioxide?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Digestion"
+      ],
+      "answer": "Respiration"
+    },
+    {
+      "number": 28,
+      "question": "Which of the following is a form of energy associated with motion?",
+      "options": [
+        "Kinetic energy",
+        "Potential energy",
+        "Thermal energy",
+        "Electrical energy"
+      ],
+      "answer": "Kinetic energy"
+    },
+    {
+      "number": 29,
+      "question": "What is the process by which a gas changes into a liquid?",
+      "options": [
+        "Condensation",
+        "Evaporation",
+        "Sublimation",
+        "Melting"
+      ],
+      "answer": "Condensation"
+    },
+    {
+      "number": 30,
+      "question": "Which of the following is a metal?",
+      "options": [
+        "Copper",
+        "Oxygen",
+        "Gold",
+        "Nitrogen"
+      ],
+      "answer": "Copper"
+    },
+    {
+      "number": 31,
+      "question": "What is the process by which soil and rock particles are moved from one place to another?",
+      "options": [
+        "Erosion",
+        "Weathering",
+        "Deposition",
+        "Melting"
+      ],
+      "answer": "Erosion"
+    },
+    {
+      "number": 32,
+      "question": "Which of the following is the process of the exchange of gases between the blood and the body cells?",
+      "options": [
+        "Internal respiration",
+        "External respiration",
+        "Cellular respiration",
+        "Aerobic respiration"
+      ],
+      "answer": "Internal respiration"
+    },
+    {
+      "number": 33,
+      "question": "What is the process by which organisms break down food to release energy?",
+      "options": [
+        "Digestion",
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration"
+      ],
+      "answer": "Digestion"
+    },
+    {
+      "number": 34,
+      "question": "Which of the following is an example of a renewable resource?",
+      "options": [
+        "Wind energy",
+        "Coal",
+        "Natural gas",
+        "Nuclear energy"
+      ],
+      "answer": "Wind energy"
+    },
+    {
+      "number": 35,
+      "question": "What is the SI unit of electric resistance?",
+      "options": [
+        "Ohm",
+        "Watt",
+        "Ampere",
+        "Volt"
+      ],
+      "answer": "Ohm"
+    },
+    {
+      "number": 36,
+      "question": "Which of the following is the process of the exchange of heat between objects of different temperatures?",
+      "options": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "Expansion"
+      ],
+      "answer": "Conduction"
+    },
+    {
+      "number": 37,
+      "question": "What is the process by which a liquid changes into a solid?",
+      "options": [
+        "Freezing",
+        "Evaporation",
+        "Condensation",
+        "Sublimation"
+      ],
+      "answer": "Freezing"
+    },
+    {
+      "number": 38,
+      "question": "Which of the following is a common air pollutant formed by the combustion of fossil fuels?",
+      "options": [
+        "Carbon monoxide",
+        "Ozone",
+        "Sulfur dioxide",
+        "Particulate matter"
+      ],
+      "answer": "Carbon monoxide"
+    },
+    {
+      "number": 39,
+      "question": "What is the process by which plants exchange gases with the atmosphere through small openings on their leaves?",
+      "options": [
+        "Transpiration",
+        "Respiration",
+        "Photosynthesis",
+        "Digestion"
+      ],
+      "answer": "Transpiration"
+    },
+    {
+      "number": 40,
+      "question": "Which of the following is a form of energy associated with temperature?",
+      "options": [
+        "Thermal energy",
+        "Kinetic energy",
+        "Potential energy",
+        "Electrical energy"
+      ],
+      "answer": "Thermal energy"
+    },
+    {
+      "number": 41,
+      "question": "What is the process by which a solid changes into a liquid?",
+      "options": [
+        "Melting",
+        "Evaporation",
+        "Condensation",
+        "Sublimation"
+      ],
+      "answer": "Melting"
+    },
+    {
+      "number": 42,
+      "question": "Which of the following is a greenhouse gas that protects the Earth from harmful ultraviolet radiation?",
+      "options": [
+        "Ozone",
+        "Carbon dioxide",
+        "Methane",
+        "Nitrous oxide"
+      ],
+      "answer": "Ozone"
+    },
+    {
+      "number": 43,
+      "question": "What is the process by which an organism circulates nutrients, oxygen, and waste products throughout the body?",
+      "options": [
+        "Circulation",
+        "Respiration",
+        "Digestion",
+        "Reproduction"
+      ],
+      "answer": "Circulation"
+    },
+    {
+      "number": 44,
+      "question": "Which of the following is the process of the exchange of gases within the cells of the body?",
+      "options": [
+        "Cellular respiration",
+        "Internal respiration",
+        "External respiration",
+        "Aerobic respiration"
+      ],
+      "answer": "Cellular respiration"
+    },
+    {
+      "number": 45,
+      "question": "What is the process by which plants convert stored energy into usable energy for growth and metabolism?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Digestion"
+      ],
+      "answer": "Respiration"
+    },
+    {
+      "number": 46,
+      "question": "Which of the following is a good conductor of heat?",
+      "options": [
+        "Copper",
+        "Rubber",
+        "Glass",
+        "Wood"
+      ],
+      "answer": "Copper"
+    },
+    {
+      "number": 47,
+      "question": "What is the process by which sediment is deposited in a new location?",
+      "options": [
+        "Deposition",
+        "Erosion",
+        "Weathering",
+        "Melting"
+      ],
+      "answer": "Deposition"
+    },
+    {
+      "number": 48,
+      "question": "Which of the following is the process of the breakdown of food molecules to release energy?",
+      "options": [
+        "Aerobic respiration",
+        "Internal respiration",
+        "External respiration",
+        "Cellular respiration"
+      ],
+      "answer": "Aerobic respiration"
+    },
+    {
+      "number": 49,
+      "question": "What is the process by which food is broken down into simpler substances in the body?",
+      "options": [
+        "Digestion",
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration"
+      ],
+      "answer": "Digestion"
+    },
+    {
+      "number": 50,
+      "question": "Which of the following is an example of a renewable resource?",
+      "options": [
+        "Solar power",
+        "Natural gas",
+        "Coal",
+        "Nuclear energy"
+      ],
+      "answer": "Solar power"
+    }
+  ]

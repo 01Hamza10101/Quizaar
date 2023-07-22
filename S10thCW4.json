@@ -1,0 +1,1003 @@
+[
+  {
+    "number": 1,
+    "question": "What is the SI unit of magnetic field strength?",
+    "options": [
+      "Ampere (A)",
+      "Tesla (T)",
+      "Ohm (Ω)",
+      "Joule (J)"
+    ],
+    "answer": "Tesla (T)"
+  },
+  {
+    "number": 2,
+    "question": "Who discovered the relationship between electricity and magnetism?",
+    "options": [
+      "James Clerk Maxwell",
+      "Michael Faraday",
+      "Nikola Tesla",
+      "Thomas Edison"
+    ],
+    "answer": "Michael Faraday"
+  },
+  {
+    "number": 3,
+    "question": "What is the right-hand rule used for?",
+    "options": [
+      "Determining the direction of the magnetic field around a current-carrying conductor",
+      "Calculating the resistance of a circuit",
+      "Finding the voltage drop across a resistor",
+      "Measuring the current flowing through a wire"
+    ],
+    "answer": "Determining the direction of the magnetic field around a current-carrying conductor"
+  },
+  {
+    "number": 4,
+    "question": "What is the phenomenon of electromagnetic induction?",
+    "options": [
+      "The production of an electric current in a conductor by changing magnetic field",
+      "The generation of a magnetic field due to electric current",
+      "The resistance offered by a material to the flow of electric current",
+      "The conversion of electrical energy into mechanical energy"
+    ],
+    "answer": "The production of an electric current in a conductor by changing magnetic field"
+  },
+  {
+    "number": 5,
+    "question": "Which type of magnet is commonly used in electric bells?",
+    "options": [
+      "Bar magnet",
+      "Horseshoe magnet",
+      "Cylindrical magnet",
+      "Solenoid magnet"
+    ],
+    "answer": "Solenoid magnet"
+  },
+  {
+    "number": 6,
+    "question": "What is the magnetic field produced by a straight current-carrying conductor called?",
+    "options": [
+      "Electric field",
+      "Magnetic field",
+      "Electromagnetic field",
+      "Induced field"
+    ],
+    "answer": "Magnetic field"
+  },
+  {
+    "number": 7,
+    "question": "Which law states that the magnetic field produced by a current-carrying conductor is directly proportional to the current and inversely proportional to the distance from the conductor?",
+    "options": [
+      "Ampere's law",
+      "Faraday's law",
+      "Ohm's law",
+      "Lenz's law"
+    ],
+    "answer": "Ampere's law"
+  },
+  {
+    "number": 8,
+    "question": "What is the purpose of using a soft iron core in an electromagnet?",
+    "options": [
+      "To increase the current flow",
+      "To reduce the resistance",
+      "To increase the magnetic field strength",
+      "To decrease the temperature"
+    ],
+    "answer": "To increase the magnetic field strength"
+  },
+  {
+    "number": 9,
+    "question": "What happens to the strength of the magnetic field inside a solenoid when the number of turns of wire increases?",
+    "options": [
+      "It increases",
+      "It decreases",
+      "It remains the same",
+      "It becomes zero"
+    ],
+    "answer": "Itincreases"
+  },
+  {
+    "number": 10,
+    "question": "What is the function of a commutator in a DC motor?",
+    "options": [
+      "To control the speed of the motor",
+      "To convert AC current into DC current",
+      "To change the direction of current in the armature coil",
+      "To regulate the voltage supplied to the motor"
+    ],
+    "answer": "To change the direction of current in the armature coil"
+  },
+  {
+    "number": 11,
+    "question": "What is the formula to calculate the magnetic field strength inside a solenoid?",
+    "options": [
+      "B = (μ₀ × N × I) / L",
+      "B = (N × I) / μ₀L",
+      "B = (L × N) / μ₀I",
+      "B = (μ₀ × I) / NL"
+    ],
+    "answer": "B = (μ₀ × N × I) / L"
+  },
+  {
+    "number": 12,
+    "question": "Which type of magnet is used in a moving-coil galvanometer?",
+    "options": [
+      "Bar magnet",
+      "Horseshoe magnet",
+      "Cylindrical magnet",
+      "Permanent magnet"
+    ],
+    "answer": "Permanent magnet"
+  },
+  {
+    "number": 13,
+    "question": "What is the direction of the magnetic field inside a solenoid?",
+    "options": [
+      "From south to north",
+      "From north to south",
+      "Clockwise",
+      "Counter-clockwise"
+    ],
+    "answer": "From south to north"
+  },
+  {
+    "number": 14,
+    "question": "Which rule is used to determine the direction of the force experienced by a current-carrying conductor placed in a magnetic field?",
+    "options": [
+      "Lenz's rule",
+      "Ampere's rule",
+      "Fleming's left-hand rule",
+      "Fleming's right-hand rule"
+    ],
+    "answer": "Fleming's left-hand rule"
+  },
+  {
+    "number": 15,
+    "question": "What happens to the strength of the magnetic field around a current-carrying conductor when the distance from the conductor increases?",
+    "options": [
+      "It increases",
+      "It decreases",
+      "It remains the same",
+      "It becomes zero"
+    ],
+    "answer": "It decreases"
+  },
+  {
+    "number": 16,
+    "question": "What is the principle of an electric generator based on?",
+    "options": [
+      "Electromagnetic induction",
+      "Electrostatic induction",
+      "Ohm's law",
+      "Faraday's law"
+    ],
+    "answer": "Electromagnetic induction"
+  },
+  {
+    "number": 17,
+    "question": "What is the direction of the magnetic field lines around a current-carrying straight conductor?",
+    "options": [
+      "Clockwise",
+      "Counter-clockwise",
+      "Parallel to the conductor",
+      "Perpendicular to the conductor"
+    ],
+    "answer": "Circular, forming concentric circles around the conductor"
+  },
+  {
+    "number": 18,
+    "question": "What is the purpose of a split-ring commutator in a DC motor?",
+    "options": [
+      "To control the speed of the motor",
+      "To convert AC current into DC current",
+      "To change the direction of current in the armature coil",
+      "To regulate the voltage supplied to the motor"
+    ],
+    "answer": "To change the direction of current in the armature coil"
+  },
+  {
+    "number": 19,
+    "question": "What is the function of an iron core in an electromagnet?",
+    "options": [
+      "To increase the current flow",
+      "To reduce the resistance",
+      "Toincrease the magnetic field strength",
+    "To decrease the temperature"
+  ],
+  "answer": "To increase the magnetic field strength"
+},
+{
+  "number": 20,
+  "question": "What is the phenomenon of a magnetic field produced due to a changing electric current in a nearby conductor called?",
+  "options": [
+    "Electromagnetic induction",
+    "Electromagnetic interference",
+    "Electromagnetic radiation",
+    "Electromagnetic resonance"
+  ],
+  "answer": "Electromagnetic induction"
+},
+{
+  "number": 21,
+  "question": "What is the direction of the magnetic field inside a current-carrying circular loop?",
+  "options": [
+    "Clockwise",
+    "Counter-clockwise",
+    "Parallel to the loop",
+    "Perpendicular to the loop"
+  ],
+  "answer": "Perpendicular to the loop"
+},
+{
+  "number": 22,
+  "question": "What does the right-hand thumb rule state?",
+  "options": [
+    "The direction of the magnetic field around a current-carrying conductor",
+    "The direction of the electric current in a circuit",
+    "The direction of the electric field in a capacitor",
+    "The direction of the voltage drop across a resistor"
+  ],
+  "answer": "The direction of the magnetic field around a current-carrying conductor"
+},
+{
+  "number": 23,
+  "question": "What is the effect of increasing the current in a solenoid on the strength of its magnetic field?",
+  "options": [
+    "It increases",
+    "It decreases",
+    "It remains the same",
+    "It becomes zero"
+  ],
+  "answer": "It increases"
+},
+{
+  "number": 24,
+  "question": "Which law states that the induced electromotive force (EMF) in a circuit is directly proportional to the rate of change of magnetic field linkage?",
+  "options": [
+    "Ampere's law",
+    "Faraday's law",
+    "Ohm's law",
+    "Lenz's law"
+  ],
+  "answer": "Faraday's law"
+},
+{
+  "number": 25,
+  "question": "Which device is used to measure the strength and direction of a magnetic field?",
+  "options": [
+    "Galvanometer",
+    "Ammeter",
+    "Voltmeter",
+    "Hall-effect sensor"
+  ],
+  "answer": "Hall-effect sensor"
+},
+{
+  "number": 26,
+  "question": "What is the purpose of a fuse in an electrical circuit?",
+  "options": [
+    "To control the voltage supplied to the circuit",
+    "To regulate the current flowing through the circuit",
+    "To prevent short circuits and overloading",
+    "To convert AC current into DC current"
+  ],
+  "answer": "To prevent short circuits and overloading"
+},
+{
+  "number": 27,
+  "question": "What happens to the strength of the magnetic field produced by a current-carrying conductor when the current increases?",
+  "options": [
+    "It increases",
+    "It decreases",
+    "It remains the same",
+    "It becomes zero"
+  ],
+  "answer": "It increases"
+},
+{
+  "number": 28,
+  "question": "Which type of magnet is used in a transformer?",
+  "options": [
+    "Bar magnet",
+    "Horseshoe magnet",
+    "Cylindrical magnet",
+    "Electromagnet"
+  ],
+  "answer": "Electromagnet"
+},
+{
+  "number": 29,
+  "question": "What is the purpose of a capacitor in an electric circuit?",
+ "options": [
+    "To control the voltage supplied to the circuit",
+    "To store and release electrical energy",
+    "To regulate the current flowing through the circuit",
+    "To convert AC current into DC current"
+  ],
+  "answer": "To store and release electrical energy"
+},
+{
+  "number": 30,
+  "question": "What is the direction of the force experienced by a current-carrying conductor placed perpendicular to a magnetic field?",
+  "options": [
+    "Parallel to the conductor",
+    "Perpendicular to the conductor",
+    "Opposite to the direction of current",
+    "In the direction of the magnetic field"
+  ],
+  "answer": "Perpendicular to the conductor"
+},
+{
+  "number": 31,
+  "question": "What is the phenomenon of an induced current flowing in a circuit due to a changing magnetic field called?",
+  "options": [
+    "Electromagnetic induction",
+    "Electromagnetic interference",
+    "Electromagnetic radiation",
+    "Electromagnetic resonance"
+  ],
+  "answer": "Electromagnetic induction"
+},
+{
+  "number": 32,
+  "question": "Which law states that the induced current in a circuit opposes the change that produced it?",
+  "options": [
+    "Ampere's law",
+    "Faraday's law",
+    "Ohm's law",
+    "Lenz's law"
+  ],
+  "answer": "Lenz's law"
+},
+{
+  "number": 33,
+  "question": "What is the purpose of a diode in an electric circuit?",
+  "options": [
+    "To control the voltage supplied to the circuit",
+    "To regulate the current flowing through the circuit",
+    "To convert AC current into DC current",
+    "To store and release electrical energy"
+  ],
+  "answer": "To convert AC current into DC current"
+},
+{
+  "number": 34,
+  "question": "What is the effect of increasing the number of turns in a coil on the strength of its magnetic field?",
+  "options": [
+    "It increases",
+    "It decreases",
+    "It remains the same",
+    "It becomes zero"
+  ],
+  "answer": "It increases"
+},
+{
+  "number": 35,
+  "question": "Which device is used to measure the potential difference between two points in an electric circuit?",
+  "options": [
+    "Galvanometer",
+    "Ammeter",
+    "Voltmeter",
+    "Hall-effect sensor"
+  ],
+  "answer": "Voltmeter"
+},
+{
+  "number": 36,
+  "question": "What is the direction of the magnetic field inside a current-carrying solenoid?",
+  "options": [
+    "Clockwise",
+    "Counter-clockwise",
+    "Parallel to the solenoid",
+    "Perpendicular to the solenoid"
+  ],
+  "answer": "Parallel to the solenoid"
+},
+{
+  "number": 37,
+  "question": "Which law states that the magnetic field produced by a current-carrying conductor is directly proportional to the current and the length of the conductor?",
+  "options": [
+    "Ampere's law",
+    "Faraday's law",
+    "Ohm's law",
+    "Lenz's law"
+  ],
+  "answer": "Ampere's law"
+},
+{
+  "number": 38,
+  "question": "What is the purpose of a resistor in an electric circuit?",
+  "options": [
+    "To control the voltage supplied to the circuit",
+    "To regulate the current flowing through the circuit",
+    "To convert AC current into DC current",
+   "To control the voltage supplied to the circuit"
+  ],
+  "answer": "To regulate the current flowing through the circuit"
+},
+{
+  "number": 39,
+  "question": "What is the direction of the induced current in a wire when the magnetic field through the wire increases?",
+  "options": [
+    "Clockwise",
+    "Counter-clockwise",
+    "Parallel to the wire",
+    "Perpendicular to the wire"
+  ],
+  "answer": "Clockwise"
+},
+{
+  "number": 40,
+  "question": "Which device is used to convert electrical energy into mechanical energy?",
+  "options": [
+    "Generator",
+    "Motor",
+    "Transistor",
+    "Transformer"
+  ],
+  "answer": "Motor"
+},
+{
+  "number": 41,
+  "question": "What is the purpose of a transformer in an electric circuit?",
+  "options": [
+    "To control the voltage supplied to the circuit",
+    "To regulate the current flowing through the circuit",
+    "To convert AC current into DC current",
+    "To change the voltage of an alternating current"
+  ],
+  "answer": "To change the voltage of an alternating current"
+},
+{
+  "number": 42,
+  "question": "What is the effect of increasing the number of turns in the secondary coil of a transformer on the voltage across the secondary coil?",
+  "options": [
+    "It increases",
+    "It decreases",
+    "It remains the same",
+    "It becomes zero"
+  ],
+  "answer": "It increases"
+},
+{
+  "number": 43,
+  "question": "What is the function of an inductor in an electric circuit?",
+  "options": [
+    "To control the voltage supplied to the circuit",
+    "To regulate the current flowing through the circuit",
+    "To store and release electrical energy",
+    "To convert AC current into DC current"
+  ],
+  "answer": "To regulate the current flowing through the circuit"
+},
+{
+  "number": 44,
+  "question": "What is the direction of the force experienced by a current-carrying wire placed parallel to a magnetic field?",
+  "options": [
+    "Parallel to the wire",
+    "Perpendicular to the wire",
+    "Opposite to the direction of current",
+    "In the direction of the magnetic field"
+  ],
+  "answer": "Zero force"
+},
+{
+  "number": 45,
+  "question": "What is the purpose of a capacitor in a DC circuit?",
+  "options": [
+    "To control the voltage supplied to the circuit",
+    "To store and release electrical energy",
+    "To regulate the current flowing through the circuit",
+    "To convert AC current into DC current"
+  ],
+  "answer": "To store and release electrical energy"
+},
+{
+  "number": 46,
+  "question": "Which law states that the electromotive force (EMF) induced in a conductor is directly proportional to the rate of change of magnetic field linkage?",
+  "options": [
+    "Ampere's law",
+    "Faraday's law",
+    "Ohm's law",
+    "Lenz's law"
+  ],
+  "answer": "Faraday's law"
+},
+{
+  "number": 47,
+  "question": "What is the purpose of a rheostat in an electric circuit?",
+  "options": [
+    "To control the voltage supplied to the circuit",
+    "To regulate the current flowing through the circuit",
+    "To convert AC current into DC current",
+    "To store and release electrical energy"
+  ],
+  "answer": "To regulate the current flowing through the circuit"
+},
+{
+  "number": 48,
+  "question": "What is the effect of increasing the number of turns in the primary coil of a transformer on the voltage across the secondary coil?",
+  "options": [
+    "It increases",
+    "It decreases",
+    "It remains the same",
+    "It becomes zero"
+  ],
+  "answer": "It remains the same"
+},
+{
+  "number": 49,
+  "question": "Which law states that the magnetic field produced by a current-carrying coil is directly proportional to the number of turns and the current?",
+  "options": [
+    "Ampere's law",
+    "Faraday's law",
+    "Ohm's law",
+    "Lenz's law"
+  ],
+  "answer": "Ampere's law"
+},
+{
+  "number": 50,
+  "question": "What is the direction of the magnetic field inside a solenoid when the current flowing through it is reversed?",
+  "options": [
+    "Clockwise",
+    "Counter-clockwise",
+    "Parallel to the solenoid",
+    "Perpendicular to the solenoid"
+  ],
+  "answer": "Counter-clockwise"
+},
+{
+  "number": 51,
+  "question": "What is the phenomenon of an induced voltage in a coil due to a changing magnetic field called?",
+  "options": [
+    "Electromagnetic induction",
+    "Electromagnetic interference",
+    "Electromagnetic radiation",
+    "Electromagnetic resonance"
+  ],
+  "answer": "Electromagnetic induction"
+},
+{
+  "number": 52,
+  "question": "What is the direction of the force experienced by a current-carrying wire placed perpendicular to a magnetic field?",
+  "options": [
+    "Parallel to the wire",
+    "Perpendicular to the wire",
+    "Opposite to the direction of current",
+    "In the direction of the magnetic field"
+  ],
+  "answer": "Perpendicular to the wire"
+},
+{
+  "number": 53,
+  "question": "What is the purpose of a rectifier in an electric circuit?",
+  "options": [
+    "To control the voltage supplied to the circuit",
+    "To regulate the current flowing through the circuit",
+    "To convert AC current into DC current",
+    "To store and release electrical energy"
+  ],
+  "answer": "To convert AC current into DC current"
+},
+{
+  "number": 54,
+  "question": "What is the effect of increasing the length of a current-carrying conductor on the strength of its magnetic field?",
+  "options": [
+    "It increases",
+    "It decreases",
+    "It remains the same",
+    "It becomes zero"
+  ],
+  "answer": "It remains the same"
+},
+{
+  "number": 55,
+  "question": "Which device is used to measure the electric current flowing through a circuit?",
+  "options": [
+    "Galvanometer",
+    "Ammeter",
+    "Voltmeter",
+    "Hall-effect sensor"
+  ],
+  "answer": "Ammeter"
+},
+{
+  "number": 56,
+  "question": "What is the purpose of a choke coil in an electric circuit?",
+  "options": [
+    "To control the voltage supplied to the circuit",
+    "To regulate the current flowing through the circuit",
+    "To store and release electrical energy",
+    "To convert AC current into DC current"
+  ],
+  "answer": "To regulate the current flowing through the circuit"
+},
+{
+  "number": 57,
+  "question": "What is the direction of the induced current in a wire when the magnetic field through the wire decreases?",
+ "options": [
+    "Clockwise",
+    "Counter-clockwise",
+    "Parallel to the wire",
+    "Perpendicular to the wire"
+  ],
+  "answer": "Counter-clockwise"
+},
+{
+  "number": 58,
+  "question": "Which law states that the direction of the induced current is such that it opposes the change causing it?",
+  "options": [
+    "Ampere's law",
+    "Faraday's law",
+    "Ohm's law",
+    "Lenz's law"
+  ],
+  "answer": "Lenz's law"
+},
+{
+  "number": 59,
+  "question": "What is the purpose of a transistor in an electric circuit?",
+  "options": [
+    "To control the voltage supplied to the circuit",
+    "To regulate the current flowing through the circuit",
+    "To amplify or switch electronic signals",
+    "To store and release electrical energy"
+  ],
+  "answer": "To amplify or switch electronic signals"
+},
+{
+  "number": 60,
+  "question": "What is the effect of increasing the area of a current-carrying loop on the strength of its magnetic field?",
+  "options": [
+    "It increases",
+    "It decreases",
+    "It remains the same",
+    "It becomes zero"
+  ],
+  "answer": "It increases"
+},
+{
+  "number": 61,
+  "question": "Which device is used to measure the resistance of a circuit component?",
+  "options": [
+    "Galvanometer",
+    "Ammeter",
+    "Voltmeter",
+    "Ohmmeter"
+  ],
+  "answer": "Ohmmeter"
+},
+{
+  "number": 62,
+  "question": "What is the purpose of a flywheel in an electric motor?",
+  "options": [
+    "To control the speed of the motor",
+    "To convert AC current into DC current",
+    "To change the direction of current in the armature coil",
+    "To store and release mechanical energy"
+  ],
+  "answer": "To store and release mechanical energy"
+},
+{
+  "number": 63,
+  "question": "What is the direction of the force experienced by a current-carrying wire placed at an angle to a magnetic field?",
+  "options": [
+    "Parallel to the wire",
+    "Perpendicular to the wire",
+    "Opposite to the direction of current",
+    "In the direction of the magnetic field"
+  ],
+  "answer": "At an angle to both the wire and the magnetic field"
+},
+{
+  "number": 64,
+  "question": "What is the purpose of an inverter in an electric circuit?",
+  "options": [
+    "To control the voltage supplied to the circuit",
+    "To regulate the current flowing through the circuit",
+    "To convert DC current into AC current",
+    "To store and release electrical energy"
+  ],
+  "answer": "To convert DC current into AC current"
+},
+{
+  "number": 65,
+  "question": "What is the effect of increasing the radius of a current-carrying loop on the strength of its magnetic field?",
+  "options": [
+    "It increases",
+    "It decreases",
+    "It remains the same",
+    "It becomes zero"
+  ],
+  "answer": "It remains the same"
+},
+{
+  "number": 66,
+  "question": "What is the principle of a transformer based on?",
+  "options": [
+    "Electromagnetic induction",
+    "Electrostatic induction",
+    "Ohm's law",
+    "Faraday's law"
+  ],
+  "answer": "Electromagnetic induction"
+},
+{
+  "number": 67,
+  "question": "What is the direction of the magnetic field inside a current-carrying circular coil?",
+  "options": [
+    "Clockwise",
+    "Counter-clockwise",
+    "Parallel to the coil",
+    "Perpendicular to the coil"
+  ],
+  "answer": "Perpendicular to the coil"
+},
+{
+  "number": 68,
+  "question": "Which rule is used to determine the direction of the induced current in a loop placed in a changing magnetic field?",
+  "options": [
+    "Lenz's rule",
+    "Ampere's rule",
+    "Fleming's left-hand rule",
+    "Fleming's right-hand rule"
+  ],
+  "answer": "Lenz's rule"
+},
+{
+  "number": 69,
+  "question": "What happens to the strength of the magnetic field around a current-carrying straight conductor when the current decreases?",
+  "options": [
+    "It increases",
+    "It decreases",
+    "It remains the same",
+    "It becomes zero"
+  ],
+  "answer": "It decreases"
+},
+{
+  "number": 70,
+  "question": "Which type of magnet is commonly used in a loudspeaker?",
+  "options": [
+    "Bar magnet",
+    "Horseshoe magnet",
+    "Cylindrical magnet",
+    "Neodymium magnet"
+  ],
+  "answer": "Neodymium magnet"
+},
+{
+  "number": 71,
+  "question": "What is the magnetic field inside a solenoid with a current-carrying wire wound around it called?",
+  "options": [
+    "Electric field",
+    "Magnetic field",
+    "Electromagnetic field",
+    "Induced field"
+  ],
+  "answer": "Magnetic field"
+},
+{
+  "number": 72,
+  "question": "Which law states that the force experienced by a current-carrying conductor in a magnetic field is directly proportional to the current, the length of the conductor, and the magnetic field strength?",
+  "options": [
+    "Ampere's law",
+    "Faraday's law",
+    "Ohm's law",
+    "Lenz's law"
+  ],
+  "answer": "Ampere's law"
+},
+{
+  "number": 73,
+  "question": "What is the purpose of a magnetic compass in a current-carrying circuit?",
+  "options": [
+    "To control the voltage supplied to the circuit",
+    "To regulate the current flowing through the circuit",
+    "To measure the strength of the magnetic field",
+    "To determine the direction of the magnetic field"
+  ],
+  "answer": "To determine the direction of the magnetic field"
+},
+{
+  "number": 74,
+  "question": "What is the function of a superconductor in an electric circuit?",
+  "options": [
+    "To control the voltage supplied to the circuit",
+    "To regulate the current flowing through the circuit",
+    "To store and release electrical energy",
+    "To offer zero resistance to the flow of electric current"
+  ],
+  "answer": "To offer zero resistance to the flow of electric current"
+},
+{
+  "number": 75,
+  "question": "What is the effect of increasing the number of turns in the primary coil of a transformer on the current in the secondary coil?",
+  "options": [
+    "It increases",
+    "It decreases",
+    "It remains the same",
+    "It becomes zero"
+  ],
+  "answer": "It remains the same"
+},
+{
+  "number": 76,
+  "question": "What is the phenomenon ofmutual induction?",
+  "options": [
+    "The generation of an electric current in a coil due to a changing magnetic field",
+    "The production of a magnetic field due to electric current",
+    "The resistance offered by a material to the flow of electric current",
+    "The conversion of electrical energy into mechanical energy"
+  ],
+  "answer": "The generation of an electric current in a coil due to a changing magnetic field"
+},
+{
+  "number": 77,
+  "question": "What is the direction of the magnetic field inside a current-carrying solenoid when the current is reversed?",
+  "options": [
+    "Clockwise",
+    "Counter-clockwise",
+    "Parallel to the solenoid",
+    "Perpendicular to the solenoid"
+  ],
+  "answer": "Counter-clockwise"
+},
+{
+  "number": 78,
+  "question": "What is the function of a galvanometer in an electric circuit?",
+  "options": [
+    "To control the voltage supplied to the circuit",
+    "To regulate the current flowing through the circuit",
+    "To measure the strength of the magnetic field",
+    "To convert AC current into DC current"
+  ],
+  "answer": "To measure the strength of the magnetic field"
+},
+{
+  "number": 79,
+  "question": "What is the purpose of a varistor in an electric circuit?",
+  "options": [
+    "To control the voltage supplied to the circuit",
+    "To regulate the current flowing through the circuit",
+    "To store and release electrical energy",
+    "To protect against voltage surges"
+  ],
+  "answer": "To protect against voltage surges"
+},
+{
+  "number": 80,
+  "question": "What is the effect of increasing the length of a current-carrying solenoid on the strength of its magnetic field?",
+  "options": [
+    "It increases",
+    "It decreases",
+    "It remains the same",
+    "It becomes zero"
+  ],
+  "answer": "It remains the same"
+},
+{
+  "number": 81,
+  "question": "Which law states that the electromotive force (EMF) induced in a circuit is equal to the rate of change of magnetic field linkage?",
+  "options": [
+    "Ampere's law",
+    "Faraday's law",
+    "Ohm's law",
+    "Lenz's law"
+  ],
+  "answer": "Faraday's law"
+},
+{
+  "number": 82,
+  "question": "What is the purpose of a potentiometer in an electric circuit?",
+  "options": [
+    "To control the voltage supplied to the circuit",
+    "To regulate the current flowing through the circuit",
+    "To measure the electromotive force (EMF) of a cell",
+    "To store and release electrical energy"
+  ],
+  "answer": "To measure the electromotive force (EMF) of a cell"
+},
+{
+  "number": 83,
+  "question": "What is the direction of the force experienced by a current-carrying wire placed at an angle to a magnetic field?",
+  "options": [
+    "Parallel to the wire",
+    "Perpendicular to the wire",
+    "Opposite to the direction of current",
+    "In the direction of the magnetic field"
+  ],
+  "answer": "At an angle to both the wire and the magnetic field"
+},
+{
+  "number": 84,
+  "question": "What is the purpose of a surge protector in an electric circuit?",
+  "options": [
+    "To control the voltage supplied to the circuit",
+    "To regulate the current flowing through the circuit",
+    "To convert AC current into DC current",
+    "To protect against voltage surges"
+  ],
+  "answer": "To protect against voltage surges"
+},
+{
+  "number": 85,
+  "question": "What is the effect of increasing the radius of a current-carrying solenoid on the strength of its magnetic field?",
+  "options": [
+    "It increases",
+    "It decreases",
+    "It remains the same",
+    "It becomes zero"
+  ],
+  "answer": "It increases"
+},
+{
+  "number": 86,
+  "question": "What is the principle of a galvanometer based on?",
+  "options": [
+    "Electromagnetic induction",
+    "Electrostatic induction",
+    "Ohm's law",
+    "Faraday's law"
+  ],
+  "answer": "Electromagnetic induction"
+},
+{
+  "number": 87,
+  "question": "What is the direction of the magnetic field inside a current-carrying circular coil when the direction of the current is reversed?",
+  "options": [
+    "Clockwise",
+    "Counter-clockwise",
+    "Parallel to the coil",
+    "Perpendicular to the coil"
+  ],
+  "answer": "Counter-clockwise"
+},
+{
+  "number": 88,
+  "question": "Which rule is used to determine the direction of the induced current in a coil placed in a magnetic field?",
+  "options": [
+    "Lenz's rule",
+    "Ampere's rule",
+    "Fleming's left-hand rule",
+    "Fleming's right-hand rule"
+  ],
+  "answer": "Lenz's rule"
+},
+{
+  "number": 89,
+  "question": "What happens to the strength of the magnetic field around a current-carrying straight conductor when the current increases?",
+  "options": [
+    "It increases",
+    "It decreases",
+    "It remains the same",
+    "It becomes zero"
+  ],
+  "answer": "It increases"
+},
+{
+  "number": 90,
+  "question": "Which type of magnet is commonly used in an MRI machine?",
+  "options": [
+    "Bar magnet",
+    "Horseshoe magnet",
+    "Cylindrical magnet",
+    "Superconducting magnet"
+  ],
+  "answer": "Superconducting magnet"
+},
+{
+"number": 91,
+"question": "What is the purpose of an electromagnet in an electric circuit?",
+"options": [
+"To control the voltage supplied to the circuit",
+"To regulate the current flowing through the circuit",
+"To store and release electrical energy",
+"To generate a magnetic field when current flows through it"
+],
+"answer": "To generate a magnetic field when current flows through it"
+}
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "number": 1,
+    "question": "What is the main source of energy for the sun?",
+    "options": [
+      "Nuclear fusion",
+      "Nuclear fission",
+      "Chemical reactions",
+      "Solar panels"
+    ],
+    "answer": "Nuclear fusion"
+  },
+  {
+    "number": 2,
+    "question": "What is the formula to calculate electric current?",
+    "options": [
+      "I = V/R",
+      "I = R/V",
+      "I = P/V",
+      "I = V/P"
+    ],
+    "answer": "I = V/R"
+  },
+  {
+    "number": 3,
+    "question": "Which of the following is a non-renewable source of energy?",
+    "options": [
+      "Solar energy",
+      "Wind energy",
+      "Coal",
+      "Biomass"
+    ],
+    "answer": "Coal"
+  },
+  {
+    "number": 4,
+    "question": "What is the energy stored in the nucleus of an atom called?",
+    "options": [
+      "Kinetic energy",
+      "Potential energy",
+      "Nuclear energy",
+      "Chemical energy"
+    ],
+    "answer": "Nuclear energy"
+  },
+  {
+    "number": 5,
+    "question": "What is the process by which plants convert light energy into chemical energy?",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Combustion",
+      "Evaporation"
+    ],
+    "answer": "Photosynthesis"
+  },
+  {
+    "number": 6,
+    "question": "Which type of energy is obtained from the movement of air?",
+    "options": [
+      "Solar energy",
+      "Geothermal energy",
+      "Wind energy",
+      "Hydro energy"
+    ],
+    "answer": "Wind energy"
+  },
+  {
+    "number": 7,
+    "question": "Which of the following is an example of a renewable source of energy?",
+    "options": [
+      "Natural gas",
+      "Uranium",
+      "Tidal energy",
+      "Petroleum"
+    ],
+    "answer": "Tidal energy"
+  },
+  {
+    "number": 8,
+    "question": "What is the energy obtained from the heat of the Earth's interior called?",
+    "options": [
+      "Geothermal energy",
+      "Hydro energy",
+      "Nuclear energy",
+      "Solar energy"
+    ],
+    "answer": "Geothermal energy"
+  },
+  {
+    "number": 9,
+    "question": "Which type of energy is produced by the combustion of fossil fuels?",
+    "options": [
+      "Hydro energy",
+      "Nuclear energy",
+      "Thermal energy",
+      "Chemical energy"
+    ],
+    "answer": "Thermal energy"
+  },
+  {
+    "number": 10,
+    "question": "What is the unit of measurement for electrical energy?",
+    "options": [
+      "Watt",
+      "Volt",
+      "Ampere",
+      "Joule"
+    ],
+    "answer": "Joule"
+  },
+  {
+    "number": 11,
+    "question": "Which form of energy is used in hydroelectric power plants?",
+    "options": [
+      "Nuclear energy",
+      "Wind energy",
+      "Thermal energy",
+      "Hydro energy"
+    ],
+    "answer": "Hydro energy"
+  },
+  {
+  "number": 12,
+  "question": "What is the process of splitting an atom called?",
+  "options": [
+    "Nuclear fusion",
+    "Nuclear fission",
+    "Chemical reaction",
+    "Radioactive decay"
+  ],
+  "answer": "Nuclear fission"
+},
+{
+  "number": 13,
+  "question": "Which type of energy is obtained from the motion of ocean tides?",
+  "options": [
+    "Geothermal energy",
+    "Solar energy",
+    "Wind energy",
+    "Tidal energy"
+  ],
+  "answer": "Tidal energy"
+},
+{
+  "number": 14,
+  "question": "What is the main source of energy for living organisms?",
+  "options": [
+    "Nuclear energy",
+    "Chemical energy",
+    "Thermal energy",
+    "Mechanical energy"
+  ],
+  "answer": "Chemical energy"
+},
+{
+  "number": 15,
+  "question": "Which type of energy is stored in a stretched rubber band?",
+  "options": [
+    "Potential energy",
+    "Kinetic energy",
+    "Thermal energy",
+    "Chemical energy"
+  ],
+  "answer": "Potential energy"
+},
+{
+  "number": 16,
+  "question": "What is the process of converting light energy into electrical energy called?",
+  "options": [
+    "Reflection",
+    "Refraction",
+    "Absorption",
+    "Photovoltaic effect"
+  ],
+  "answer": "Photovoltaic effect"
+},
+{
+  "number": 17,
+  "question": "Which type of energy is produced by the burning of wood?",
+  "options": [
+    "Geothermal energy",
+    "Nuclear energy",
+    "Chemical energy",
+    "Wind energy"
+  ],
+  "answer": "Chemical energy"
+},
+{
+  "number": 18,
+  "question": "What is the unit of measurement for power?",
+  "options": [
+    "Watt",
+    "Volt",
+    "Ampere",
+    "Joule"
+  ],
+  "answer": "Watt"
+},
+{
+  "number": 19,
+  "question": "Which type of energy is obtained from the heat of the Sun?",
+  "options": [
+    "Geothermal energy",
+    "Solar energy",
+    "Wind energy",
+    "Tidal energy"
+  ],
+  "answer": "Solar energy"
+},
+{
+  "number": 20,
+  "question": "What is the primary source of energy for most automobiles?",
+  "options": [
+    "Natural gas",
+    "Gasoline",
+    "Coal",
+    "Nuclear energy"
+  ],
+  "answer": "Gasoline"
+},
+{
+  "number": 21,
+  "question": "Which form of energy is obtained from the movement of water in rivers?",
+  "options": [
+    "Geothermal energy",
+    "Solar energy",
+    "Wind energy",
+    "Hydro energy"
+  ],
+  "answer": "Hydro energy"
+},
+{
+  "number": 22,
+  "question": "What is the process of generating electricity from sunlight called?",
+  "options": [
+    "Geothermal power",
+    "Solar power",
+    "Wind power",
+    "Tidal power"
+  ],
+  "answer": "Solar power"
+},
+{
+  "number": 23,
+  "question": "Which type of energy is produced by the burning of natural gas?",
+  "options": [
+    "Nuclear energy",
+    "Chemical energy",
+    "Thermal energy",
+    "Wind energy"
+  ],
+  "answer": "Thermal energy"
+},
+{
+  "number": 24,
+  "question": "What is the process of converting heat energy into mechanical energy called?",
+  "options": [
+    "Thermal expansion",
+    "Thermal conductivity",
+    "Thermal insulation",
+    "Thermal power"
+  ],
+  "answer": "Thermal power"
+},
+{
+  "number": 25,
+  "question": "Which type of energy is obtained from the heat stored within the Earth's crust?",
+  "options": [
+    "Geothermal energy",
+    "Solar energy",
+    "Wind energy",
+    "Tidal energy"
+  ],
+  "answer": "Geothermal energy"
+},
+{
+  "number": 26,
+  "question": "What is the energy associated with the motion of an object called?",
+  "options": [
+    "Kinetic energy",
+    "Potential energy",
+    "Chemical energy",
+    "Nuclear energy"
+  ],
+  "answer": "Kinetic energy"
+},
+{
+  "number": 27,
+  "question": "Which type of energy is produced by the splitting of water molecules?",
+  "options": [
+    "Nuclear energy",
+    "Chemical energy",
+    "Thermal energy",
+    "Solar energy"
+  ],
+  "answer": "Chemical energy"
+},
+{
+  "number": 28,
+  "question": "What is the unit of measurement for electric charge?",
+  "options": [
+    "Volt",
+    "Watt",
+    "Coulomb",
+    "Ohm"
+  ],
+  "answer": "Coulomb"
+},
+{
+  "number": 29,
+  "question": "Which type of energy is obtained from the movement of waves in the ocean?",
+  "options": [
+    "Geothermal energy",
+    "Solar energy",
+    "Wind energy",
+    "Wave energy"
+  ],
+  "answer": "Wave energy"
+},
+{
+  "number": 30,
+  "question": "What is the process of converting mechanical energy into electrical energy called?",
+  "options": [
+    "Induction",
+    "Conduction",
+    "Transmission",
+    "Generation"
+  ],
+  "answer": "Generation"
+},
+{
+  "number": 31,
+  "question": "Which form of energy is obtained from the combustion of natural gas?",
+  "options": [
+    "Geothermal energy",
+    "Chemical energy",
+    "Thermal energy",
+    "Solar energy"
+  ],
+  "answer": "Thermal energy"
+},
+{
+  "number": 32,
+  "question": "What is the primary source of energy for wind turbines?",
+  "options": [
+    "Solar energy",
+    "Geothermal energy",
+    "Wind energy",
+    "Hydro energy"
+  ],
+  "answer": "Wind energy"
+},
+{
+  "number": 33,
+  "question": "Which type of energy is stored in the chemical bonds of molecules?",
+  "options": [
+    "Nuclear energy",
+    "Chemical energy",
+    "Thermal energy",
+    "Mechanical energy"
+  ],
+  "answer": "Chemical energy"
+},
+{
+  "number": 34,
+  "question": "What is the unit of measurement for electrical resistance?",
+  "options": [
+    "Volt",
+    "Watt",
+    "Ampere",
+    "Ohm"
+  ],
+  "answer": "Ohm"
+},
+{
+  "number": 35,
+  "question": "Which type of energy is obtained from the heat released during a nuclear reaction?",
+  "options": [
+    "Geothermal energy",
+    "Chemical energy",
+    "Nuclear energy",
+    "Solar energy"
+  ],
+  "answer": "Nuclear energy"
+},
+{
+  "number": 36,
+  "question": "What is the process of converting mechanical energy into heat energy called?",
+  "options": [
+    "Convection",
+    "Conduction",
+    "Radiation",
+    "Friction"
+  ],
+  "answer": "Friction"
+},
+{
+  "number": 37,
+  "question": "Which form of energy is obtained from the movement of underground water?",
+  "options": [
+    "Geothermal energy",
+    "Solar energy",
+    "Wind energy",
+    "Hydro energy"
+  ],
+  "answer": "Hydro energy"
+},
+{
+  "number": 38,
+  "question": "What is the primary source of energy for biomass power plants?",
+  "options": [
+    "Natural gas",
+    "Biomass",
+    "Coal",
+    "Nuclear energy"
+  ],
+  "answer": "Biomass"
+},
+{
+  "number": 39,
+  "question": "Which type of energy is associated with the position or height of an object?",
+  "options": [
+    "Potential energy",
+    "Kinetic energy",
+    "Chemical energy",
+    "Thermal energy"
+  ],
+  "answer": "Potential energy"
+},
+{
+  "number": 40,
+  "question": "What is the process of converting solar energy into thermal energy called?",
+  "options": [
+    "Photovoltaic effect",
+    "Solar heating",
+    "Solar power",
+    "Solar radiation"
+  ],
+  "answer": "Solar heating"
+},
+{
+  "number": 41,
+  "question": "Which type of energy is produced by the combustion of gasoline in an automobile engine?",
+  "options": [
+    "Electrical energy",
+    "Mechanical energy",
+    "Thermal energy",
+    "Chemical energy"
+  ],
+  "answer": "Chemical energy"
+},
+{
+  "number": 42,
+  "question": "What is the unit of measurement for electric potential difference?",
+  "options": [
+    "Volt",
+    "Watt",
+    "Ampere",
+    "Ohm"
+  ],
+  "answer": "Volt"
+},
+{
+  "number": 43,
+  "question": "Which type of energy is obtained from the heat stored in the Earth's mantle?",
+  "options": [
+    "Geothermal energy",
+    "Solar energy",
+    "Wind energy",
+    "Tidal energy"
+  ],
+  "answer": "Geothermal energy"
+},
+{
+  "number": 44,
+  "question": "What is the energy associated with the vibration or movement of particles called?",
+  "options": [
+    "Kinetic energy",
+    "Potential energy",
+    "Chemical energy",
+    "Nuclear energy"
+  ],
+  "answer": "Kinetic energy"
+},
+{
+  "number": 45,
+  "question": "Which type of energy is produced by the burning of fossil fuels?",
+  "options": [
+    "Geothermal energy",
+    "Nuclear energy",
+    "Chemical energy",
+    "Thermal energy"
+  ],
+  "answer": "Thermal energy"
+},
+{
+  "number": 46,
+  "question": "What is the process of converting mechanical energy into electrical energy called?",
+  "options": [
+    "Induction",
+    "Conduction",
+    "Transmission",
+    "Generation"
+  ],
+  "answer": "Generation"
+},
+{
+  "number": 47,
+  "question": "Which form of energy is obtained from the combustion of coal?",
+  "options": [
+    "Geothermal energy",
+    "Chemical energy",
+    "Thermal energy",
+    "Solar energy"
+  ],
+  "answer": "Thermal energy"
+},
+{
+  "number": 48,
+  "question": "What is the unit of measurement for electric current?",
+  "options": [
+    "Volt",
+    "Watt",
+    "Ampere",
+    "Ohm"
+  ],
+  "answer": "Ampere"
+},
+{
+  "number": 49,
+  "question": "Which type of energy is obtained from the movement of air masses in the atmosphere?",
+  "options": [
+    "Geothermal energy",
+    "Solar energy",
+    "Wind energy",
+    "Tidal energy"
+  ],
+  "answer": "Wind energy"
+},
+{
+  "number": 50,
+  "question": "What is the primary source of energy for nuclear power plants?",
+  "options": [
+    "Natural gas",
+    "Uranium",
+    "Coal",
+    "Biomass"
+  ],
+  "answer": "Uranium"
+},
+{
+  "number": 51,
+  "question": "Which form of energy is obtained from the movement of water in oceans and seas?",
+  "options": [
+    "Geothermal energy",
+    "Solar energy",
+    "Wind energy",
+    "Tidal energy"
+  ],
+  "answer": "Tidal energy"
+},
+{
+  "number": 52,
+  "question": "What is the process of converting solar energy into electrical energy called?",
+  "options": [
+    "Photovoltaic effect",
+    "Solar heating",
+    "Solar power",
+    "Solar radiation"
+  ],
+  "answer": "Photovoltaic effect"
+},
+{
+  "number": 53,
+  "question": "Which type of energy is produced by the burning of biomass materials?",
+  "options": [
+    "Nuclear energy",
+    "Chemical energy",
+    "Thermal energy",
+    "Wind energy"
+  ],
+  "answer": "Thermal energy"
+},
+{
+  "number": 54,
+  "question": "What is the unit of measurement for electrical power?",
+  "options": [
+    "Watt",
+    "Volt",
+    "Ampere",
+    "Joule"
+  ],
+  "answer": "Watt"
+},
+{
+  "number": 55,
+  "question": "Which type of energy is obtained from the heat of the Sun?",
+  "options": [
+    "Geothermal energy",
+    "Solar energy",
+    "Wind energy",
+    "Tidal energy"
+  ],
+  "answer": "Solar energy"
+},
+{
+  "number": 56,
+  "question": "What is the primary source of energy for most vehicles powered by electricity?",
+  "options": [
+    "Natural gas",
+    "Electricity",
+    "Coal",
+    "Nuclear energy"
+  ],
+  "answer": "Electricity"
+},
+{
+  "number": 57,
+  "question": "Which form of energy is obtained from the movement of water in rivers?",
+  "options": [
+    "Geothermal energy",
+    "Solar energy",
+    "Wind energy",
+    "Hydro energy"
+  ],
+  "answer": "Hydro energy"
+},
+{
+  "number": 58,
+  "question": "What is the process of converting solar energy into electrical energy called?",
+  "options": [
+    "Geothermal power",
+    "Solar power",
+    "Wind power",
+    "Tidal power"
+  ],
+  "answer": "Solar power"
+},
+{
+  "number": 59,
+  "question": "Which type of energy is produced by the burning of natural gas?",
+  "options": [
+    "Nuclear energy",
+    "Chemical energy",
+    "Thermal energy",
+"Solar energy"
+  ],
+  "answer": "Thermal energy"
+},
+{
+  "number": 60,
+  "question": "What is the process of converting heat energy into mechanical energy called?",
+  "options": [
+    "Thermal expansion",
+    "Thermal conductivity",
+    "Thermal insulation",
+    "Thermal power"
+  ],
+  "answer": "Thermal power"
+},
+{
+  "number": 61,
+  "question": "Which form of energy is obtained from the movement of underground water?",
+  "options": [
+    "Geothermal energy",
+    "Solar energy",
+    "Wind energy",
+    "Hydro energy"
+  ],
+  "answer": "Hydro energy"
+},
+{
+  "number": 62,
+  "question": "What is the primary source of energy for biomass power plants?",
+  "options": [
+    "Natural gas",
+    "Biomass",
+    "Coal",
+    "Nuclear energy"
+  ],
+  "answer": "Biomass"
+},
+{
+  "number": 63,
+  "question": "Which type of energy is associated with the position or height of an object?",
+  "options": [
+    "Potential energy",
+    "Kinetic energy",
+    "Chemical energy",
+    "Thermal energy"
+  ],
+  "answer": "Potential energy"
+},
+{
+  "number": 64,
+  "question": "What is the process of converting solar energy into thermal energy called?",
+  "options": [
+    "Photovoltaic effect",
+    "Solar heating",
+    "Solar power",
+    "Solar radiation"
+  ],
+  "answer": "Solar heating"
+},
+{
+  "number": 65,
+  "question": "Which type of energy is produced by the burning of gasoline in an automobile engine?",
+  "options": [
+    "Electrical energy",
+    "Mechanical energy",
+    "Thermal energy",
+    "Chemical energy"
+  ],
+  "answer": "Chemical energy"
+},
+{
+  "number": 66,
+  "question": "What is the unit of measurement for electric potential difference?",
+  "options": [
+    "Volt",
+    "Watt",
+    "Ampere",
+    "Ohm"
+  ],
+  "answer": "Volt"
+},
+{
+  "number": 67,
+  "question": "Which type of energy is obtained from the heat stored in the Earth's mantle?",
+  "options": [
+    "Geothermal energy",
+    "Solar energy",
+    "Wind energy",
+    "Tidal energy"
+  ],
+  "answer": "Geothermal energy"
+},
+{
+  "number": 68,
+  "question": "What is the energy associated with the vibration or movement of particles called?",
+  "options": [
+    "Kinetic energy",
+    "Potential energy",
+    "Chemical energy",
+    "Nuclear energy"
+  ],
+  "answer": "Kinetic energy"
+},
+{
+  "number": 69,
+  "question": "Which type of energy is produced by the splitting of water molecules?",
+  "options": [
+    "Nuclear energy",
+    "Chemical energy",
+    "Thermal energy",
+    "Solar energy"
+  ],
+  "answer": "Chemical energy"
+},
+{
+  "number": 70,
+  "question": "What is the unit of measurement for electric charge?",
+  "options": [
+    "Volt",
+    "Watt",
+    "Coulomb",
+    "Ohm"
+  ],
+  "answer": "Coulomb"
+},
+{
+  "number": 71,
+  "question": "Which type of energy is obtained from the movement of waves in the ocean?",
+  "options": [
+    "Geothermal energy",
+    "Solar energy",
+    "Wind energy",
+    "Wave energy"
+  ],
+  "answer": "Wave energy"
+},
+{
+  "number": 72,
+  "question": "What is the process of converting mechanical energy into electrical energy called?",
+  "options": [
+    "Induction",
+    "Conduction",
+    "Transmission",
+    "Generation"
+  ],
+  "answer": "Generation"
+},
+{
+  "number": 73,
+  "question": "Which form of energy is obtained from the combustion of natural gas?",
+  "options": [
+    "Geothermal energy",
+    "Chemical energy",
+    "Thermal energy",
+    "Solar energy"
+  ],
+  "answer": "Thermal energy"
+},
+{
+  "number": 74,
+  "question": "What is the primary source of energy for wind turbines?",
+  "options": [
+    "Solar energy",
+    "Geothermal energy",
+    "Wind energy",
+    "Hydro energy"
+  ],
+  "answer": "Wind energy"
+},
+{
+  "number": 75,
+  "question": "Which type of energy is stored in the chemical bonds of molecules?",
+  "options": [
+    "Nuclear energy",
+    "Chemical energy",
+    "Thermal energy",
+    "Mechanical energy"
+  ],
+  "answer": "Chemical energy"
+},
+{
+  "number": 76,
+  "question": "What is the unit of measurement for electrical resistance?",
+  "options": [
+    "Volt",
+    "Watt",
+    "Ampere",
+    "Ohm"
+  ],
+  "answer": "Ohm"
+},
+{
+  "number": 77,
+  "question": "Which type of energy is obtained from the heat released during a nuclear reaction?",
+  "options": [
+    "Geothermal energy",
+    "Chemical energy",
+    "Nuclear energy",
+    "Solar energy"
+  ],
+  "answer": "Nuclear energy"
+},
+{
+  "number": 78,
+  "question": "What is the process of converting mechanical energy into heat energy called?",
+  "options": [
+    "Convection",
+    "Conduction",
+    "Radiation",
+    "Friction"
+  ],
+  "answer": "Friction"
+},
+{
+  "number": 79,
+  "question": "Which form of energy is obtained from the movement of underground water?",
+  "options": [
+    "Geothermal energy",
+    "Solar energy",
+    "Wind energy",
+    "Hydro energy"
+  ],
+  "answer": "Hydro energy"
+},
+{
+  "number": 80,
+  "question": "What is the primary source of energy for biomass power plants?",
+  "options": [
+    "Natural gas",
+    "Biomass",
+    "Coal",
+    "Nuclear energy"
+  ],
+  "answer": "Biomass"
+},
+{
+  "number": 81,
+  "question": "Which type of energy is associated with the position or height of an object?",
+  "options": [
+    "Potential energy",
+    "Kinetic energy",
+    "Chemical energy",
+    "Thermal energy"
+  ],
+  "answer": "Potential energy"
+},
+{
+  "number": 82,
+  "question": "What is the process of converting solar energy into thermal energy called?",
+  "options": [
+    "Photovoltaic effect",
+    "Solar heating",
+    "Solar power",
+    "Solar radiation"
+  ],
+  "answer": "Solar heating"
+},
+{
+  "number": 83,
+  "question": "Which type of energy is produced by the burning of biomass materials?",
+  "options": [
+    "Nuclear energy",
+"Chemical energy",
+    "Thermal energy",
+    "Wind energy"
+  ],
+  "answer": "Thermal energy"
+},
+{
+  "number": 84,
+  "question": "What is the unit of measurement for electrical power?",
+  "options": [
+    "Watt",
+    "Volt",
+    "Ampere",
+    "Joule"
+  ],
+  "answer": "Watt"
+},
+{
+  "number": 85,
+  "question": "Which type of energy is obtained from the heat of the Sun?",
+  "options": [
+    "Geothermal energy",
+    "Solar energy",
+    "Wind energy",
+    "Tidal energy"
+  ],
+  "answer": "Solar energy"
+},
+{
+  "number": 86,
+  "question": "What is the primary source of energy for most vehicles powered by electricity?",
+  "options": [
+    "Natural gas",
+    "Electricity",
+    "Coal",
+    "Nuclear energy"
+  ],
+  "answer": "Electricity"
+},
+{
+  "number": 87,
+  "question": "Which form of energy is obtained from the movement of water in rivers?",
+  "options": [
+    "Geothermal energy",
+    "Solar energy",
+    "Wind energy",
+    "Hydro energy"
+  ],
+  "answer": "Hydro energy"
+},
+{
+  "number": 88,
+  "question": "What is the process of converting solar energy into electrical energy called?",
+  "options": [
+    "Geothermal power",
+    "Solar power",
+    "Wind power",
+    "Tidal power"
+  ],
+  "answer": "Solar power"
+},
+{
+  "number": 89,
+  "question": "Which type of energy is produced by the burning of natural gas?",
+  "options": [
+    "Nuclear energy",
+    "Chemical energy",
+    "Thermal energy",
+    "Solar energy"
+  ],
+  "answer": "Thermal energy"
+},
+{
+  "number": 90,
+  "question": "What is the process of converting mechanical energy into electrical energy called?",
+  "options": [
+    "Induction",
+    "Conduction",
+    "Transmission",
+    "Generation"
+  ],
+  "answer": "Generation"
+},
+{
+  "number": 91,
+  "question": "Which form of energy is obtained from the combustion of coal?",
+  "options": [
+    "Geothermal energy",
+    "Chemical energy",
+    "Thermal energy",
+    "Solar energy"
+  ],
+  "answer": "Thermal energy"
+},
+{
+  "number": 92,
+  "question": "What is the primary source of energy for wind turbines?",
+  "options": [
+    "Solar energy",
+    "Geothermal energy",
+    "Wind energy",
+    "Hydro energy"
+  ],
+  "answer": "Wind energy"
+},
+{
+  "number": 93,
+  "question": "Which type of energy is stored in the chemical bonds of molecules?",
+  "options": [
+    "Nuclear energy",
+    "Chemical energy",
+    "Thermal energy",
+    "Mechanical energy"
+  ],
+  "answer": "Chemical energy"
+},
+{
+  "number": 94,
+  "question": "What is the unit of measurement for electrical resistance?",
+  "options": [
+    "Volt",
+    "Watt",
+    "Ampere",
+    "Ohm"
+  ],
+  "answer": "Ohm"
+},
+{
+  "number": 95,
+  "question": "Which type of energy is obtained from the heat released during a nuclear reaction?",
+  "options": [
+    "Geothermal energy",
+    "Chemical energy",
+    "Nuclear energy",
+    "Solar energy"
+  ],
+  "answer": "Nuclear energy"
+},
+{
+  "number": 96,
+  "question": "What is the process of converting mechanical energy into heat energy called?",
+  "options": [
+    "Convection",
+    "Conduction",
+    "Radiation",
+    "Friction"
+  ],
+  "answer": "Friction"
+},
+{
+  "number": 97,
+  "question": "Which form of energy is obtained from the movement of underground water?",
+  "options": [
+    "Geothermal energy",
+    "Solar energy",
+    "Wind energy",
+    "Hydro energy"
+  ],
+  "answer": "Hydro energy"
+},
+{
+  "number": 98,
+  "question": "What is the primary source of energy for biomass power plants?",
+  "options": [
+    "Natural gas",
+    "Biomass",
+    "Coal",
+    "Nuclear energy"
+  ],
+  "answer": "Biomass"
+},
+{
+  "number": 99,
+  "question": "Which type of energy is associated with the position or height of an object?",
+  "options": [
+    "Potential energy",
+    "Kinetic energy",
+    "Chemical energy",
+    "Thermal energy"
+  ],
+  "answer": "Potential energy"
+},
+{
+  "number": 100,
+  "question": "What is the process of converting solar energy into thermal energy called?",
+  "options": [
+    "Photovoltaic effect",
+    "Solar heating",
+    "Solar power",
+    "Solar radiation"
+  ],
+  "answer": "Solar heating"
+}
+]

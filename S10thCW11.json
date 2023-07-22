@@ -1,0 +1,1015 @@
+[
+    {
+      "number": 1,
+      "question": "What is the main organ of the central nervous system?",
+      "options": [
+        "Heart",
+        "Lungs",
+        "Brain",
+        "Liver"
+      ],
+      "answer": "Brain"
+    },
+    {
+      "number": 2,
+      "question": "What is the process by which a stimulus is detected and converted into nerve impulses?",
+      "options": [
+        "Transmission",
+        "Absorption",
+        "Refraction",
+        "Sensation"
+      ],
+      "answer": "Sensation"
+    },
+    {
+      "number": 3,
+      "question": "Which hormone is responsible for regulating blood sugar levels in the body?",
+      "options": [
+        "Insulin",
+        "Adrenaline",
+        "Estrogen",
+        "Testosterone"
+      ],
+      "answer": "Insulin"
+    },
+    {
+      "number": 4,
+      "question": "Which part of the brain is responsible for controlling balance and coordination?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Pituitary gland"
+      ],
+      "answer": "Cerebellum"
+    },
+    {
+      "number": 5,
+      "question": "Which sense organ is responsible for detecting light?",
+      "options": [
+        "Nose",
+        "Tongue",
+        "Eyes",
+        "Skin"
+      ],
+      "answer": "Eyes"
+    },
+    {
+      "number": 6,
+      "question": "Which part of the eye is responsible for focusing light onto the retina?",
+      "options": [
+        "Cornea",
+        "Iris",
+        "Lens",
+        "Pupil"
+      ],
+      "answer": "Lens"
+    },
+    {
+      "number": 7,
+      "question": "What is the largest gland in the human body?",
+      "options": [
+        "Liver",
+        "Pancreas",
+        "Kidney",
+        "Spleen"
+      ],
+      "answer": "Liver"
+    },
+    {
+      "number": 8,
+      "question": "Which hormone is responsible for the development of secondary sexual characteristics in males?",
+      "options": [
+        "Testosterone",
+        "Estrogen",
+        "Progesterone",
+        "Thyroxine"
+      ],
+      "answer": "Testosterone"
+    },
+    {
+      "number": 9,
+      "question": "Which part of the ear is responsible for transmitting sound vibrations to the cochlea?",
+      "options": [
+        "Pinna",
+        "Tympanic membrane",
+        "Cochlea",
+        "Eustachian tube"
+      ],
+      "answer": "Tympanic membrane"
+    },
+    {
+      "number": 10,
+      "question": "What is the smallest unit of a nervous system?",
+      "options": [
+        "Neuron",
+        "Nephron",
+        "Chromatin",
+        "Ganglion"
+      ],
+      "answer": "Neuron"
+    },
+    {
+      "number": 11,
+      "question": "Which part of the brain is responsible for controlling involuntary actions like breathing and heart rate?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Hypothalamus"
+      ],
+      "answer": "Medulla oblongata"
+    },
+    {
+      "number": 12,
+      "question": "Which hormone is responsible for the fight-or-flight response in stressful situations?",
+      "options": [
+        "Adrenaline",
+        "Insulin",
+        "Melatonin",
+        "Oxytocin"
+      ],
+      "answer": "Adrenaline"
+    },
+    {
+      "number": 13,
+      "question": "What is the name of the fluid present in the anterior chamber of the eye?",
+      "options": [
+        "Vitreous humor",
+        "Aqueous humor",
+        "Cerebrospinal fluid",
+        "Synovial fluid"
+      ],
+      "answer": "Aqueous humor"
+    },
+    {
+      "number": 14,
+      "question": "Which part of the brain is responsible for processing and interpreting sensory information?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Thalamus"
+      ],
+      "answer": "Thalamus"
+    },
+    {
+      "number": 15,
+      "question": "Which gland is known as the master gland of the endocrine system?",
+      "options": [
+        "Pituitary gland",
+        "Thyroid gland",
+        "Adrenal gland",
+        "Pineal gland"
+      ],
+      "answer": "Pituitary gland"
+    },
+    {
+      "number": 16,
+      "question": "What is the process by which plants bend or grow towards light called?",
+      "options": [
+        "Tropism",
+        "Photosynthesis",
+        "Transpiration",
+        "Respiration"
+      ],
+      "answer": "Tropism"
+    },
+    {
+      "number": 17,
+      "question": "Which part of the brain is responsible for controlling hunger, thirst, and body temperature?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Hypothalamus"
+      ],
+      "answer": "Hypothalamus"
+    },
+    {
+      "number": 18,
+      "question": "Which hormone is responsible for the regulation of sleep-wake cycle?",
+      "options": [
+        "Melatonin",
+        "Adrenaline",
+        "Insulin",
+        "Estrogen"
+      ],
+      "answer": "Melatonin"
+    },
+    {
+      "number": 19,
+      "question": "What is the name of the enzyme present in saliva that breaks down starch?",
+      "options": [
+        "Amylase",
+        "Lipase",
+        "Pepsin",
+        "Trypsin"
+      ],
+      "answer": "Amylase"
+    },
+    {
+      "number": 20,
+      "question": "Which part of the eye contains cells called rods and cones that are responsible for vision?",
+      "options": [
+        "Retina",
+        "Cornea",
+        "Iris",
+        "Lens"
+      ],
+      "answer": "Retina"
+    },
+    {
+      "number": 21,
+      "question": "Which part of the brain is responsible for processing emotions and forming memories?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Hippocampus"
+      ],
+      "answer": "Hippocampus"
+    },
+    {
+      "number": 22,
+      "question": "What is the name of the hormone that regulates calcium levels in the body?",
+      "options": [
+        "Calcitonin",
+        "Insulin",
+        "Adrenaline",
+        "Thyroxine"
+      ],
+      "answer": "Calcitonin"
+    },
+    {
+      "number": 23,
+      "question": "Which part of the brain is responsible for coordinating voluntary muscle movements?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Pons"
+      ],
+      "answer": "Cerebellum"
+    },
+    {
+      "number": 24,
+      "question": "What is the name of the hormone responsible for stimulating uterine contractions during childbirth?",
+      "options": [
+        "Oxytocin",
+        "Estrogen",
+        "Progesterone",
+        "Testosterone"
+      ],
+      "answer": "Oxytocin"
+    },
+    {
+      "number": 25,
+      "question": "Which part of the eye controls the size of the pupil?",
+      "options": [
+        "Cornea",
+        "Iris",
+        "Lens",
+        "Retina"
+      ],
+      "answer": "Iris"
+    },
+    {
+      "number": 26,
+      "question": "Which hormone is responsible for the development of secondary sexual characteristics in females?",
+      "options": [
+        "Estrogen",
+        "Testosterone",
+        "Progesterone",
+        "Thyroxine"
+      ],
+      "answer": "Estrogen"
+    },
+    {
+      "number": 27,
+      "question": "What is the name of the hormone produced by the adrenal glands in response to stress?",
+      "options": [
+        "Adrenaline",
+        "Insulin",
+        "Melatonin",
+        "Oxytocin"
+      ],
+      "answer": "Adrenaline"
+    },
+    {
+      "number": 28,
+      "question": "Which part of the ear is responsible for maintaining balance and equilibrium?",
+      "options": [
+        "Cochlea",
+        "Semicircular canals",
+        "Tympanic membrane",
+        "Eustachian tube"
+      ],
+      "answer": "Semicircular canals"
+    },
+    {
+      "number": 29,
+      "question": "What is the name of the hormone that regulates the body's metabolism?",
+      "options": [
+        "Thyroxine",
+        "Adrenaline",
+        "Insulin",
+        "Estrogen"
+      ],
+      "answer": "Thyroxine"
+    },
+    {
+      "number": 30,
+      "question": "Which part of the eye is responsible for protecting the delicate structures inside?",
+      "options": [
+        "Cornea",
+        "Iris",
+        "Lens",
+        "Sclera"
+      ],
+      "answer": "Sclera"
+    },
+    {
+      "number": 31,
+      "question": "Which gland is responsible for the production of insulin?",
+      "options": [
+        "Pancreas",
+        "Thyroid gland",
+        "Adrenal gland",
+        "Pineal gland"
+      ],
+      "answer": "Pancreas"
+    },
+    {
+      "number": 32,
+      "question": "What is the name of the hormone that stimulates the growth and development of bones?",
+      "options": [
+        "Growth hormone",
+        "Insulin",
+        "Adrenaline",
+        "Thyroxine"
+      ],
+      "answer": "Growth hormone"
+    },
+    {
+      "number": 33,
+      "question": "Which part of the brain is responsible for regulating the body's internal clock and sleep-wake cycles?",
+      "options": [
+        "Pituitary gland",
+        "Hypothalamus",
+        "Thalamus",
+        "Pineal gland"
+      ],
+      "answer": "Pineal gland"
+    },
+    {
+      "number": 34,
+      "question": "What is the name of the enzyme present in the stomach that breaks down proteins?",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "answer": "Pepsin"
+    },
+    {
+      "number": 35,
+      "question": "Which part of the eye is responsible for controlling the amount of light entering the eye?",
+      "options": [
+        "Cornea",
+        "Iris",
+        "Lens",
+        "Retina"
+      ],
+      "answer": "Iris"
+    },
+    {
+      "number": 36,
+      "question": "Which hormone is responsible for the development of female reproductive structures and secondary sexual characteristics?",
+      "options": [
+        "Estrogen",
+        "Testosterone",
+        "Progesterone",
+        "Thyroxine"
+      ],
+      "answer": "Estrogen"
+    },
+    {
+      "number": 37,
+      "question": "What is the name of the hormone that regulates the body's response to long-term stress?",
+      "options": [
+        "Cortisol",
+        "Adrenaline",
+        "Insulin",
+        "Melatonin"
+      ],
+      "answer": "Cortisol"
+    },
+    {
+      "number": 38,
+      "question": "Which part of the ear is responsible for amplifying sound waves?",
+      "options": [
+        "Pinna",
+        "Tympanic membrane",
+        "Cochlea",
+        "Eustachian tube"
+      ],
+      "answer": "Pinna"
+    },
+    {
+      "number": 39,
+      "question": "What is the name of the hormone that stimulates milk production in the mammary glands?",
+      "options": [
+        "Prolactin",
+        "Estrogen",
+        "Progesterone",
+        "Testosterone"
+      ],
+      "answer": "Prolactin"
+    },
+    {
+      "number": 40,
+      "question": "Which part of the eye is responsible for converting light into nerve impulses?",
+      "options": [
+        "Retina",
+        "Cornea",
+        "Iris",
+        "Lens"
+      ],
+      "answer": "Retina"
+    },
+    {
+      "number": 41,
+      "question": "Which part of the brain is responsible for regulating body temperature and hunger?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Hypothalamus"
+      ],
+      "answer": "Hypothalamus"
+    },
+    {
+      "number": 42,
+      "question": "What is the name of the hormone that stimulates the contraction of the uterus during childbirth?",
+      "options": [
+        "Oxytocin",
+        "Estrogen",
+        "Progesterone",
+        "Testosterone"
+      ],
+      "answer": "Oxytocin"
+    },
+    {
+      "number": 43,
+      "question": "Which part of the eye is responsible for focusing light onto the retina?",
+      "options": [
+        "Cornea",
+        "Iris",
+        "Lens",
+        "Pupil"
+      ],
+      "answer": "Lens"
+    },
+    {
+      "number": 44,
+      "question": "Which hormone is responsible for the development of male reproductive structures and secondary sexual characteristics?",
+      "options": [
+        "Testosterone",
+        "Estrogen",
+        "Progesterone",
+        "Thyroxine"
+      ],
+      "answer": "Testosterone"
+    },
+    {
+      "number": 45,
+      "question": "What is the name of the hormone that regulates blood pressure and heart rate?",
+      "options": [
+        "Adrenaline",
+        "Insulin",
+        "Melatonin",
+        "Epinephrine"
+      ],
+      "answer": "Epinephrine"
+    },
+    {
+      "number": 46,
+      "question": "Which part of the ear is responsible for transmitting sound vibrations to the cochlea?",
+      "options": [
+        "Pinna",
+        "Tympanic membrane",
+        "Cochlea",
+        "Eustachian tube"
+      ],
+      "answer": "Tympanic membrane"
+    },
+    {
+      "number": 47,
+      "question": "What is the name of the hormone that regulates the body's metabolism and energy production?",
+      "options": [
+        "Thyroxine",
+        "Adrenaline",
+        "Insulin",
+        "Estrogen"
+      ],
+      "answer": "Thyroxine"
+    },
+    {
+      "number": 48,
+      "question": "Which part of the eye is responsible for protecting the delicate structures and maintaining the shape of the eye?",
+      "options": [
+        "Cornea",
+        "Iris",
+        "Lens",
+        "Sclera"
+      ],
+      "answer": "Sclera"
+    },
+    {
+      "number": 49,
+      "question": "Which gland is responsible for the production of growth hormone?",
+      "options": [
+        "Pituitary gland",
+        "Thyroid gland",
+        "Adrenal gland",
+        "Pineal gland"
+      ],
+      "answer": "Pituitary gland"
+    },
+    {
+      "number": 50,
+      "question": "What is the name of the hormone that regulates the calcium levels in the body?",
+      "options": [
+        "Calcitonin",
+        "Insulin",
+        "Adrenaline",
+        "Thyroxine"
+      ],
+      "answer": "Calcitonin"
+    },
+    {
+      "number": 51,
+      "question": "Which part of the brain is responsible for coordinating voluntary muscle movements?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Pons"
+      ],
+      "answer": "Cerebellum"
+    },
+    {
+      "number": 52,
+      "question": "What is the name of the hormone responsible for stimulating uterine contractions during childbirth?",
+      "options": [
+        "Oxytocin",
+        "Estrogen",
+        "Progesterone",
+        "Testosterone"
+      ],
+      "answer": "Oxytocin"
+    },
+    {
+      "number": 53,
+      "question": "Which part of the eye controls the size of the pupil?",
+      "options": [
+        "Cornea",
+        "Iris",
+        "Lens",
+        "Retina"
+      ],
+      "answer": "Iris"
+    },
+    {
+      "number": 54,
+      "question": "Which hormone is responsible for the development of secondary sexual characteristics in females?",
+      "options": [
+        "Estrogen",
+        "Testosterone",
+        "Progesterone",
+        "Thyroxine"
+      ],
+      "answer": "Estrogen"
+    },
+    {
+      "number": 55,
+      "question": "What is the name of the hormone produced by the adrenal glands in response to stress?",
+      "options": [
+        "Adrenaline",
+        "Insulin",
+        "Melatonin",
+        "Oxytocin"
+      ],
+      "answer": "Adrenaline"
+    },
+    {
+      "number": 56,
+      "question": "Which part of the ear is responsible for maintaining balance and equilibrium?",
+      "options": [
+        "Cochlea",
+        "Semicircular canals",
+        "Tympanic membrane",
+        "Eustachian tube"
+      ],
+      "answer": "Semicircular canals"
+    },
+    {
+      "number": 57,
+      "question": "What is the name of the hormone that regulates the body's metabolism?",
+      "options": [
+        "Thyroxine",
+        "Adrenaline",
+        "Insulin",
+        "Estrogen"
+      ],
+      "answer": "Thyroxine"
+    },
+    {
+      "number": 58,
+      "question": "Which part of the eye is responsible for protecting the delicate structures inside?",
+      "options": [
+        "Cornea",
+        "Iris",
+        "Lens",
+        "Sclera"
+      ],
+      "answer": "Sclera"
+    },
+    {
+      "number": 59,
+      "question": "Which gland is responsible for the production of insulin?",
+      "options": [
+        "Pancreas",
+        "Thyroid gland",
+        "Adrenal gland",
+        "Pineal gland"
+      ],
+      "answer": "Pancreas"
+    },
+    {
+      "number": 60,
+      "question": "What is the name of the hormone that stimulates the growth and development of bones?",
+      "options": [
+        "Growth hormone",
+        "Insulin",
+        "Adrenaline",
+        "Thyroxine"
+      ],
+      "answer": "Growth hormone"
+    },
+    {
+      "number": 61,
+      "question": "Which part of the brain is responsible for regulating the body's internal clock and sleep-wake cycles?",
+      "options": [
+        "Pituitary gland",
+        "Hypothalamus",
+        "Thalamus",
+        "Pineal gland"
+      ],
+      "answer": "Pineal gland"
+    },
+    {
+      "number": 62,
+      "question": "What is the name of the enzyme present in the stomach that breaks down proteins?",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "answer": "Pepsin"
+    },
+    {
+      "number": 63,
+      "question": "Which part of the eye is responsible for controlling the amount of light entering the eye?",
+      "options": [
+        "Cornea",
+        "Iris",
+        "Lens",
+        "Retina"
+      ],
+      "answer": "Iris"
+    },
+    {
+      "number": 64,
+      "question": "Which hormone is responsible for the development of female reproductive structures and secondary sexual characteristics?",
+      "options": [
+        "Estrogen",
+        "Testosterone",
+        "Progesterone",
+        "Thyroxine"
+      ],
+      "answer": "Estrogen"
+    },
+    {
+      "number": 65,
+      "question": "What is the name of the hormone that regulates the body's response to long-term stress?",
+      "options": [
+        "Cortisol",
+        "Adrenaline",
+        "Insulin",
+        "Melatonin"
+      ],
+      "answer": "Cortisol"
+    },
+    {
+      "number": 66,
+      "question": "What is the name of the hormone that regulates the body's response to long-term stress?",
+      "options": [
+        "Cortisol",
+        "Adrenaline",
+        "Insulin",
+        "Melatonin"
+      ],
+      "answer": "Cortisol"
+    },
+    {
+      "number": 67,
+      "question": "Which part of the ear is responsible for amplifying sound waves?",
+      "options": [
+        "Pinna",
+        "Tympanic membrane",
+        "Cochlea",
+        "Eustachian tube"
+      ],
+      "answer": "Pinna"
+    },
+    {
+      "number": 68,
+      "question": "What is the name of the hormone that stimulates milk production in the mammary glands?",
+      "options": [
+        "Prolactin",
+        "Estrogen",
+        "Progesterone",
+        "Testosterone"
+      ],
+      "answer": "Prolactin"
+    },
+    {
+      "number": 69,
+      "question": "Which part of the eye is responsible for converting light into nerve impulses?",
+      "options": [
+        "Retina",
+        "Cornea",
+        "Iris",
+        "Lens"
+      ],
+      "answer": "Retina"
+    },
+    {
+      "number": 70,
+      "question": "Which part of the brain is responsible for processing emotions and forming memories?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Hippocampus"
+      ],
+      "answer": "Hippocampus"
+    },
+    {
+      "number": 71,
+      "question": "What is the name of the hormone that regulates calcium levels in the body?",
+      "options": [
+        "Calcitonin",
+        "Insulin",
+        "Adrenaline",
+        "Thyroxine"
+      ],
+      "answer": "Calcitonin"
+    },
+    {
+      "number": 72,
+      "question": "Which part of the brain is responsible for coordinating voluntary muscle movements?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Pons"
+      ],
+      "answer": "Cerebellum"
+    },
+    {
+      "number": 73,
+      "question": "What is the name of the hormone responsible for stimulating uterine contractions during childbirth?",
+      "options": [
+        "Oxytocin",
+        "Estrogen",
+        "Progesterone",
+        "Testosterone"
+      ],
+      "answer": "Oxytocin"
+    },
+    {
+      "number": 74,
+      "question": "Which part of the eye controls the size of the pupil?",
+      "options": [
+        "Cornea",
+        "Iris",
+        "Lens",
+        "Retina"
+      ],
+      "answer": "Iris"
+    },
+    {
+      "number": 75,
+      "question": "Which hormone is responsible for the development of secondary sexual characteristics in females?",
+      "options": [
+        "Estrogen",
+        "Testosterone",
+        "Progesterone",
+        "Thyroxine"
+      ],
+      "answer": "Estrogen"
+    },
+    {
+      "number": 76,
+      "question": "What is the name of the hormone produced by the adrenal glands in response to stress?",
+      "options": [
+        "Adrenaline",
+        "Insulin",
+        "Melatonin",
+        "Oxytocin"
+      ],
+      "answer": "Adrenaline"
+    },
+    {
+      "number": 77,
+      "question": "Which part of the ear is responsible for maintaining balance and equilibrium?",
+      "options": [
+        "Cochlea",
+        "Semicircular canals",
+        "Tympanic membrane",
+        "Eustachian tube"
+      ],
+      "answer": "Semicircular canals"
+    },
+    {
+      "number": 78,
+      "question": "What is the name of the hormone that regulates the body's metabolism?",
+      "options": [
+        "Thyroxine",
+        "Adrenaline",
+        "Insulin",
+        "Estrogen"
+      ],
+      "answer": "Thyroxine"
+    },
+    {
+      "number": 79,
+      "question": "Which part of the eye is responsible for protecting the delicate structures inside?",
+      "options": [
+        "Cornea",
+        "Iris",
+        "Lens",
+        "Sclera"
+      ],
+      "answer": "Sclera"
+    },
+    {
+      "number": 80,
+      "question": "Which gland is responsible for the production of insulin?",
+      "options": [
+        "Pancreas",
+        "Thyroid gland",
+        "Adrenal gland",
+        "Pineal gland"
+      ],
+      "answer": "Pancreas"
+    },
+    {
+      "number": 81,
+      "question": "What is the name of the hormone that stimulates the growth and development of bones?",
+      "options": [
+        "Growth hormone",
+        "Insulin",
+        "Adrenaline",
+        "Thyroxine"
+      ],
+      "answer": "Growth hormone"
+    },
+    {
+      "number": 82,
+      "question": "Which part of the brain is responsible for regulating the body's internal clock and sleep-wake cycles?",
+      "options": [
+        "Pituitary gland",
+        "Hypothalamus",
+        "Thalamus",
+        "Pineal gland"
+      ],
+      "answer": "Pineal gland"
+    },
+    {
+      "number": 83,
+      "question": "What is the name of the enzyme present in the stomach that breaks down proteins?",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "answer": "Pepsin"
+    },
+    {
+      "number": 84,
+      "question": "Which part of the eye is responsible for controlling the amount of light entering the eye?",
+      "options": [
+        "Cornea",
+        "Iris",
+        "Lens",
+        "Retina"
+      ],
+      "answer": "Iris"
+    },
+    {
+      "number": 85,
+      "question": "Which hormone is responsible for the development of female reproductive structures and secondary sexual characteristics?",
+      "options": [
+        "Estrogen",
+        "Testosterone",
+        "Progesterone",
+        "Thyroxine"
+      ],
+      "answer": "Estrogen"
+    },
+    {
+      "number": 86,
+      "question": "What is the name of the hormone that regulates the body's response to long-term stress?",
+      "options": [
+        "Cortisol",
+        "Adrenaline",
+        "Insulin",
+        "Melatonin"
+      ],
+      "answer": "Cortisol"
+    },
+    {
+      "number": 87,
+      "question": "Which hormone is responsible for the regulation of blood sugar levels in the body?",
+      "options": [
+        "Insulin",
+        "Adrenaline",
+        "Estrogen",
+        "Testosterone"
+      ],
+      "answer": "Insulin"
+    },
+    {
+      "number": 88,
+      "question": "Which part of the brain is responsible for controlling balance and coordination?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Pituitary gland"
+      ],
+      "answer": "Cerebellum"
+    },
+    {
+      "number": 89,
+      "question": "Which sense organ is responsible for detecting light?",
+      "options": [
+        "Nose",
+        "Tongue",
+        "Eyes",
+        "Skin"
+      ],
+      "answer": "Eyes"
+    },
+    {
+      "number": 90,
+      "question": "Which part of the eye is responsible for focusing light onto the retina?",
+      "options": [
+        "Cornea",
+        "Iris",
+        "Lens",
+        "Pupil"
+      ],
+      "answer": "Lens"
+    },
+    {
+      "number": 91,
+      "question": "What is the largest gland in the human body?",
+      "options": [
+        "Liver",
+        "Pancreas",
+        "Kidney",
+        "Spleen"
+      ],
+      "answer": "Liver"
+    },
+    {
+      "number": 92,
+      "question": "Which hormone is responsible for the development of secondary sexual characteristics in males?",
+      "options": [
+        "Testosterone",
+        "Estrogen",
+        "Progesterone",
+        "Thyroxine"
+      ],
+      "answer": "Testosterone"
+    }
+    
+]

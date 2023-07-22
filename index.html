@@ -3,160 +3,50 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title></title>
-  
-  <style>
-    .main {
-      background: gainsboro;
-      max-height: 100%;
-      max-width: 100%;
-    }
-    .header {
-      height: 20px;
-      border-bottom: 2px solid white;
-      text-align: center;
-      text-justify: center;
-    }
-    .chatPad {
-      height: 600px;
-      overflow-y: auto;
-    }
-    .footer {
-      border-top: 2px solid white;
-      height: 45px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-    input {
-      box-sizing: border-box;
-      width: 75%;
-      height: 30px;
-      padding: 15px;
-      outline: none;
-      border: none;
-      border-left: 7px solid gainsboro;
-    }
-    button {
-      width: 25%;
-      height: 30px;
-      outline: none;
-      border: none;
-    }
-    .chatH {
-      width: 140px;
-      height: auto;
-      padding: 6px;
-      margin-bottom: 15px;
-      border-radius: 7px;
-      position: relative;
-      margin-left: 53%;
-      background: yellow;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-    .chatAi {
-      width: 140px;
-      height: auto;
-      padding: 6px;
-      margin-bottom: 15px;
-      border-radius: 7px;
-      position: relative;
-      margin-left: 2%;
-      background: yellow;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-    h3 {
-      text-align: center;
-    }
-  </style>
+  <title>Quizaar</title>
+   <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
-  <div class="main">
-    <div class="header">
-      Ai
+  <nav class="navbar">
+    <div class="navbar-logo">
+      <span class="logo">Quizaar </span>
     </div>
-    <div class="chatPad" id="chatPd">
-      <h3>testing</h3>
-      <!--chats here-->
+    <button class="navbar-toggle" onclick="toggleMenu()">
+      <span class="menu-icon">&#9776;</span>
+      <span class="close-icon">&times;</span>
+    </button>
+    <div class="navbar-links">
+      <a href="###">Home</a>
+      <a href="/quiz app.html">Class 10th</a>
+      <a href="####" onclick="C12th()">Class 12th</a>
     </div>
-    <div class="footer">
-     <input type="text" class="input">
-     <button>send</button>
-    </div>
-  </div>
+  </nav>
   
-<script>
-    const input = document.querySelector('input');
-    const send = document.querySelector('button');
-    const chatPd = document.getElementById('chatPd');
-    let x = {};
+  <main>
+<header>
+  <h2>Welcome to the Quiz Website Quizaar</h2>
+  <p>Test your knowledge with our interactive quizzes!</p>
+  <a href="/quiz app.html" class="cta-button">Get Started</a>
+</header>
+<div class="btn-QuizC">
   
+ 
+<button class="button-17" onclick="C10th()" role="button">CLASS 10TH CHAPTER WISE QUIZ</button>
+  <div class="ads">
+
+            </div>
+
+<button class="button-17" onclick="C12th()" role="button">CLASS 12TH CHAPTER WISE QUIZ</button>
+</div>
+<footer>
+  <p>&copy; 2023 Quiz Website. All rights reserved.</p>
+</footer>
+  </main>
   
-  function getCurrentTime() {
-  const now = new Date();
-  const hours = now.getHours() % 12 || 12;
-  const minutes = now.getMinutes().toString().padStart(2, '0');
-  const seconds = now.getSeconds().toString().padStart(2, '0');
-  const amPm = now.getHours() >= 12 ? 'PM' : 'AM';
-  return `${hours}:${minutes}:${seconds} ${amPm}`;
-}
+<meta name="viewport" content="width=device-width">
 
 
-    // Fetch data from qa.json
-    fetch('qa.json')
-      .then(response => response.json())
-      .then(handleFetchResponse)
-      .catch(error => {
-        console.error('Error fetching data:', error);
-      });
-  
-      // Function to handle fetch response
-    function handleFetchResponse(data) {
-      // Convert the questions to lowercase in the fetched data and remove question marks
-      for (const key in data) {
-        x[key.trim().toLowerCase().replace(/\?.!/, '')] = data[key];
-      }
-    }
-  
-  
-    send.addEventListener("click", function() {
-      
-  
-      let qesH = input.value.trim().toLowerCase().replace(/\?.!/, '');
-  
-      function ctH(question) {
-        const chatH = document.createElement('div');
-        chatH.classList.add('chatH');
-        chatH.textContent = question;
-        chatPd.appendChild(chatH);
-      }
-  
-      function ctAi(answer) {
-        const chatAi = document.createElement('div');
-        chatAi.classList.add('chatAi');
-        chatAi.textContent = answer;
-        chatPd.appendChild(chatAi);
-      }
-  
-      if (x[qesH]) {
-        ctH(input.value);
-        ctAi(x[qesH]);
-      } else if (qesH === 'what time is it') {
-        ctH(input.value);
-        ctAi(`Current time: ${getCurrentTime()}`);
-      } else if (qesH === '') {
-        alert('You must have to enter something!');
-      } else {
-        ctH(input.value);
-        ctAi("I'm sorry, I don't have an answer for that question.");
-      }
-  
-      input.value = '';
-    });
-  </script>
+<script src="/script.js"></script>
+
 </body>
 </html>

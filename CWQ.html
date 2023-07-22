@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>QuizChapterWise</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="/CWQ.css">
+</head>
+<body>
+  <main class="mainCp">
+  <div class="phy">
+  <nav>
+      <button  class="phyback" onclick="Back()">Back</button>
+  </nav>
+    <div class="head">
+      <span>Physics</span> <br>
+      <span>Chapter 5</span>
+    </div>
+    
+    <div class="bodyCh">
+      <div class="chpQ Phycp1">
+       <span>1.</span>
+       <div>
+        Light-Reflection and Refraction
+       </div>
+      </div>
+    <div class="chpQ Phycp2">
+       <span>2.</span>
+       <div>
+       Human Eye and Colorful World
+       </div>
+    </div>
+    <div class="chpQ Phycp3">
+      <span>3.</span>
+       <div>
+        Electricity
+       </div>
+    </div>
+      <div class="chpQ Phycp4">
+         <span>4.</span>
+          <div>
+             Magnetic Effects of Electric Current
+          </div>
+      </div>
+       <div class="chpQ Phycp5">
+          <span>5.</span>
+            <div>
+             Sources of Energy
+            </div>
+       </div>
+    </div>
+   </div>
+   
+   
+     <div class="phy">
+    <div class="head">
+      <span>Chemistry</span> <br>
+      <span>Chapter 5</span>
+    </div>
+    
+    <div class="bodyCh">
+      <div class="chpQ Chmcp1">
+       <span>6.</span>
+       <div>
+        Chemical Reactions and Equations
+       </div>
+      </div>
+    <div class="chpQ Chmcp2">
+       <span>7.</span>
+       <div>
+       Acids, Bases and Salts
+       </div>
+    </div>
+    <div class="chpQ Chmcp3">
+      <span>8.</span>
+       <div>
+        Carbon and its compounds
+       </div>
+    </div>
+      <div class="chpQ Chmcp4">
+         <span>9.</span>
+          <div>
+             Metals and Non metals
+          </div>
+      </div>
+       <div class="chpQ Chmcp5">
+          <span>10.</span>
+            <div>
+              Periodic Classification of Elements
+            </div>
+       </div>
+    </div>
+   </div>
+   
+     <div class="phy">
+    <div class="head">
+      <span>Biology</span> <br>
+      <span>Chapter 6</span>
+    </div>
+    
+    <div class="bodyCh">
+      <div class="chpQ Biocp1">
+       <span>11.</span>
+       <div>
+         Control and Coordination
+       </div>
+      </div>
+    <div class="chpQ Biocp2">
+       <span>12.</span>
+       <div>
+         Heredity and Evolution
+       </div>
+    </div>
+    <div class="chpQ Biocp3">
+      <span>13.</span>
+       <div>
+         Our Environment
+       </div>
+    </div>
+      <div class="chpQ Biocp4">
+         <span>14.</span>
+          <div>
+            How do Organisms Reproduce?
+          </div>
+      </div>
+       <div class="chpQ Biocp5">
+          <span>15.</span>
+            <div>
+              Sustainable Management of Natural Resources
+            </div>
+       </div>
+         <div class="chpQ Biocp6">
+          <span>16.</span>
+            <div>
+              life prosess 
+           </div>
+       </div>
+    </div>
+   </div>
+  </main>
+   
+   <div class="mainQP">
+        <div class = "info-box">
+        
+            <div class = "info-title">Rules of this quiz</div>
+              <div class = "info-list">
+                <div class = "info"><i class = "fas fa-asterisk"></i>  You only have <span>30 seconds</span> for each question.</div>
+                <div class = "info"><i class = "fas fa-asterisk"></i>  You have to select an option before you can go to the next question.</div>
+                <div class = "info"><i class = "fas fa-asterisk"></i>  There's no going back after selecting an option.</div>
+                <div class = "info"><i class = "fas fa-asterisk"></i>  You cannot select an option once the timer goes off.</div>
+                <div class = "info"><i class = "fas fa-asterisk"></i>  You cannot exit the quiz while playing.</div>
+                <div class = "buttons">
+                    <button class = "quit">Exit Quiz</button>
+                    <button class = "cont">Continue</button>
+                </div>
+            </div>
+            
+        </div>
+        
+        <div class = "quiz-box">
+            <header>
+                <div class = "title">Quizaar</div>
+                  <div class = "timer">
+                    <div class = "text">Time left </div>
+                    <div class = "sec">30</div>
+                 </div>
+              <div class = "timeline"></div>
+           </header>
+                
+                <!-- question section -->
+                <section>
+                <div class = "question">
+             <!-- question goes in here -->
+                </div>
+                <div class = "option-list">
+                   <div class = "option">
+                     <!--   options goes in here -->
+                    </div> 
+                    </div>
+                    </section>
+                    
+                    
+       <!-- Quiz footer -->             
+        <footer>
+            <div class = "total-questions">
+       <!-- question count goes in here -->
+            </div>
+            <button class = "next">Next</button>
+        </footer> 
+        <div class="ads">
+
+            </div>
+        </div>
+        
+        <!-- Result section-->
+         <div class = "result-box">
+            <div class = "icon">
+            <!--    <i class = "fa fa-crown"></i>--><img src="https://www.dropbox.com/s/2b81pov6c4nuev3/crown.png?dl=1">
+            </div>
+         <div class = "complete-text">You have completed the quiz !</div>
+         <div class = "score-text"> 
+         <!--   score text goes in here -->
+         </div>
+         <div class = "buttons">
+                <button class = "restart">Replay</button>
+                <button class = "exit">Exit</button>
+         </div  
+         </div>
+       
+   </div>
+   <script src="/CWQ.js"></script>
+  <meta name="viewport" content="width=device-width">
+</body>
+</html>

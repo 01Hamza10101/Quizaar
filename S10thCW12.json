@@ -1,0 +1,565 @@
+ [
+    {
+      "number": 1,
+      "question": "What is heredity?",
+      "options": [
+        "Transfer of genetic information from parents to offspring",
+        "The process of evolution",
+        "The study of fossils",
+        "A type of genetic mutation"
+      ],
+      "answer": "Transfer of genetic information from parents to offspring"
+    },
+    {
+      "number": 2,
+      "question": "What is DNA?",
+      "options": [
+        "A genetic disorder",
+        "A molecule that carries genetic information",
+        "An ancient organism",
+        "A type of evolutionary adaptation"
+      ],
+      "answer": "A molecule that carries genetic information"
+    },
+    {
+      "number": 3,
+      "question": "What are genes?",
+      "options": [
+        "Segments of DNA that determine traits",
+        "Inherited behaviors",
+        "Ancient organisms",
+        "Mutations in the genetic code"
+      ],
+      "answer": "Segments of DNA that determine traits"
+    },
+    {
+      "number": 4,
+      "question": "What is the basic unit of heredity?",
+      "options": [
+        "Chromosome",
+        "Allele",
+        "Gene",
+        "Mutation"
+      ],
+      "answer": "Gene"
+    },
+    {
+      "number": 5,
+      "question": "What is an allele?",
+      "options": [
+        "A type of genetic disorder",
+        "A variation of a gene",
+        "An ancient organism",
+        "A type of evolutionary adaptation"
+      ],
+      "answer": "A variation of a gene"
+    },
+    {
+      "number": 6,
+      "question": "What is genetic variation?",
+      "options": [
+        "The study of fossils",
+        "The process of evolution",
+        "Differences in genetic makeup within a population",
+        "A type of genetic mutation"
+      ],
+      "answer": "Differences in genetic makeup within a population"
+    },
+    {
+      "number": 7,
+      "question": "What is natural selection?",
+      "options": [
+        "The study of fossils",
+        "The process of evolution by which individuals with favorable traits survive and reproduce",
+        "A type of genetic mutation",
+        "An ancient organism"
+      ],
+      "answer": "The process of evolution by which individuals with favorable traits survive and reproduce"
+    },
+    {
+      "number": 8,
+      "question": "What is the theory of evolution?",
+      "options": [
+        "The study of fossils",
+        "The idea that all species share a common ancestor and change over time",
+        "The process of genetic mutation",
+        "An ancient organism"
+      ],
+      "answer": "The idea that all species share a common ancestor and change over time"
+    },
+    {
+      "number": 9,
+      "question": "What is speciation?",
+      "options": [
+        "The process of evolution",
+        "The study of fossils",
+        "The creation of new species",
+        "A type of genetic mutation"
+      ],
+      "answer": "The creation of new species"
+    },
+    {
+      "number": 10,
+      "question": "What is genetic drift?",
+      "options": [
+        "The study of fossils",
+        "Random changes in gene frequencies in a population",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "Random changes in gene frequencies in a population"
+    },
+    {
+      "number": 11,
+      "question": "What is genetic mutation?",
+      "options": [
+        "The study of fossils",
+        "Changes in the DNA sequence of an organism",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "Changes in the DNA sequence of an organism"
+    },
+    {
+      "number": 12,
+      "question": "What is genetic engineering?",
+      "options": [
+        "The study of fossils",
+        "Manipulating an organism's DNA to create desired traits",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "Manipulating an organism's DNA to create desired traits"
+    },
+    {
+      "number": 13,
+      "question": "What is a clone?",
+      "options": [
+        "The study of fossils",
+        "An organism genetically identical to its parent",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "An organism genetically identical to its parent"
+    },
+    {
+      "number": 14,
+      "question": "What is artificial selection?",
+      "options": [
+        "The study of fossils",
+        "The process of evolution by human intervention",
+        "The creation of new species",
+        "A type of genetic mutation"
+      ],
+      "answer": "The process of evolution by human intervention"
+    },
+    {
+      "number": 15,
+      "question": "What is a fossil?",
+      "options": [
+        "A type of genetic disorder",
+        "The preserved remains or traces of ancient organisms",
+        "An organism genetically identical to its parent",
+        "A type of evolutionary adaptation"
+      ],
+      "answer": "The preserved remains or traces of ancient organisms"
+    },
+    {
+      "number": 16,
+      "question": "What is selective breeding?",
+      "options": [
+        "The process of evolution by human intervention",
+        "The study of fossils",
+        "Differences in genetic makeup within a population",
+        "A type of genetic mutation"
+      ],
+      "answer": "The process of evolution by human intervention"
+    },
+    {
+      "number": 17,
+      "question": "What is the theory of inheritance?",
+      "options": [
+        "The study of fossils",
+        "The idea that traits are passed from parents to offspring",
+        "The process of genetic mutation",
+        "An ancient organism"
+      ],
+      "answer": "The idea that traits are passed from parents to offspring"
+    },
+    {
+      "number": 18,
+      "question": "What is a mutation?",
+      "options": [
+        "The study of fossils",
+        "A random change in the DNA sequence of an organism",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "A random change in the DNA sequence of an organism"
+    },
+    {
+      "number": 19,
+      "question": "What is genetic recombination?",
+      "options": [
+        "The study of fossils",
+        "The process of combining genes from two parents",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "The process of combining genes from two parents"
+    },
+    {
+      "number": 20,
+      "question": "What is genetic counseling?",
+      "options": [
+        "The study of fossils",
+        "The process of providing information about genetic disorders and inheritance",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "The process of providing information about genetic disorders and inheritance"
+    },
+    {
+      "number": 21,
+      "question": "What is genetic testing?",
+      "options": [
+        "The study of fossils",
+        "The process of analyzing DNA to identify genetic disorders",
+       "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "The process of analyzing DNA to identify genetic disorders"
+    },
+    {
+      "number": 22,
+      "question": "What is gene therapy?",
+      "options": [
+        "The study of fossils",
+        "The process of using genes to treat or prevent diseases",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "The process of using genes to treat or prevent diseases"
+    },
+    {
+      "number": 23,
+      "question": "What is genetic inheritance?",
+      "options": [
+        "The study of fossils",
+        "The passing of traits from parents to offspring through genes",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "The passing of traits from parents to offspring through genes"
+    },
+    {
+      "number": 24,
+      "question": "What is a genetic disorder?",
+      "options": [
+        "The study of fossils",
+        "An abnormal condition caused by a defective gene",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "An abnormal condition caused by a defective gene"
+    },
+    {
+      "number": 25,
+      "question": "What is genetic screening?",
+      "options": [
+        "The study of fossils",
+        "The process of testing individuals for genetic disorders",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "The process of testing individuals for genetic disorders"
+    },
+    {
+      "number": 26,
+      "question": "What is genetic recombination?",
+      "options": [
+        "The study of fossils",
+        "The process of combining genes from two parents",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "The process of combining genes from two parents"
+    },
+    {
+      "number": 27,
+      "question": "What is genetic diversity?",
+      "options": [
+        "The study of fossils",
+        "The variety of genes within a population",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "The variety of genes within a population"
+    },
+    {
+      "number": 28,
+      "question": "What is the role of mutation in evolution?",
+      "options": [
+        "The study of fossils",
+        "Mutations introduce genetic variation, which can lead to evolution",
+        "The process of genetic recombination",
+        "An ancient organism"
+      ],
+      "answer": "Mutations introduce genetic variation, which can lead to evolution"
+    },
+    {
+      "number": 29,
+      "question": "What is genetic drift?",
+      "options": [
+        "The study of fossils",
+        "Random changes in gene frequencies in a population",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "Random changes in gene frequencies in a population"
+    },
+    {
+      "number": 30,
+      "question": "What is the role of natural selection in evolution?",
+      "options": [
+        "The study of fossils",
+        "Natural selection favors individuals with favorable traits, leading to evolution",
+        "The process of genetic recombination",
+        "An ancient organism"
+      ],
+      "answer": "Natural selection favors individuals with favorable traits, leading to evolution"
+    },
+    {
+      "number": 31,
+      "question": "What is the importance of genetic variation in a population?",
+      "options": [
+        "The study of fossils",
+        "Genetic variation allows populations to adapt to changing environments",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "Genetic variation allows populations to adapt to changing environments"
+    },
+    {
+      "number": 32,
+      "question": "What is the difference between inherited traits and acquired traits?",
+      "options": [
+        "The study of fossils",
+        "Inherited traits are passed from parents, while acquired traits are gained during an individual's lifetime",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "Inherited traits are passed from parents, while acquired traits are gained during an individual's lifetime"
+    },
+    {
+      "number": 33,
+      "question": "What is the role of genetic variation in natural selection?",
+      "options": [
+        "The study of fossils",
+        "Genetic variation provides the raw material for natural selection to act upon",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "Genetic variation provides the raw material for natural selection to act upon"
+    },
+    {
+      "number": 34,
+      "question": "What is the difference between homologous structures and analogous structures?",
+      "options": [
+        "The study of fossils",
+        "Homologous structures are derived from a common ancestor, while analogous structures serve similar functions but have different evolutionary origins",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "Homologous structures are derived from a common ancestor, while analogous structures serve similar functions but have different evolutionary origins"
+    },
+    {
+      "number": 35,
+      "question": "What is convergent evolution?",
+      "options": [
+        "The study of fossils",
+        "The independent evolution of similar traits in unrelated species",
+        "The process of genetic recombination",
+        "An ancient organism"
+      ],
+      "answer": "The independent evolution of similar traits in unrelated species"
+    },
+    {
+      "number": 36,
+      "question": "What is the role of reproductive isolation in speciation?",
+      "options": [
+        "The study of fossils",
+        "Reproductive isolation prevents gene flow between populations, leading to the formation of new species",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "Reproductive isolation prevents gene flow between populations, leading to the formation of new species"
+    },
+    {
+      "number": 37,
+      "question": "What is the concept of survival of the fittest?",
+      "options": [
+        "The study of fossils",
+        "Individuals with traits that enhance survival and reproduction are more likely to pass on their genes",
+        "The process of genetic recombination",
+        "An ancient organism"
+      ],
+      "answer": "Individuals with traits that enhance survival and reproduction are more likely to pass on their genes"
+    },
+    {
+      "number": 38,
+      "question": "What is the role of mutations in genetic diversity?",
+      "options": [
+        "The study of fossils",
+        "Mutations introduce new genetic variants, increasing genetic diversity",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "Mutations introduce new genetic variants, increasing genetic diversity"
+    },
+    {
+      "number": 39,
+      "question": "What is the difference between gradualism and punctuated equilibrium?",
+      "options": [
+        "The study of fossils",
+        "Gradualism suggests slow and steady evolution, while punctuated equilibrium suggests rapid bursts of change followed by long periods of stability",
+        "The process of genetic recombination",
+     "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "Gradualism suggests slow and steady evolution, while punctuated equilibrium suggests rapid bursts of change followed by long periods of stability"
+    },
+    {
+      "number": 40,
+      "question": "What is the role of gene flow in evolution?",
+      "options": [
+        "The study of fossils",
+        "Gene flow can introduce new genetic variation into a population, potentially influencing evolution",
+        "The process of genetic recombination",
+        "An ancient organism"
+      ],
+      "answer": "Gene flow can introduce new genetic variation into a population, potentially influencing evolution"
+    },
+    {
+      "number": 41,
+      "question": "What is the concept of genetic equilibrium?",
+      "options": [
+        "The study of fossils",
+        "Genetic equilibrium occurs when the allele frequencies in a population remain constant over generations",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "Genetic equilibrium occurs when the allele frequencies in a population remain constant over generations"
+    },
+    {
+      "number": 42,
+      "question": "What is the role of mutation in creating genetic variation?",
+      "options": [
+        "The study of fossils",
+        "Mutations introduce new genetic variants, increasing genetic diversity",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "Mutations introduce new genetic variants, increasing genetic diversity"
+    },
+    {
+      "number": 43,
+      "question": "What is the impact of genetic drift on small populations?",
+      "options": [
+        "The study of fossils",
+        "Genetic drift can have a significant impact on small populations, leading to loss of genetic diversity and increased risk of genetic disorders",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "Genetic drift can have a significant impact on small populations, leading to loss of genetic diversity and increased risk of genetic disorders"
+    },
+    {
+      "number": 44,
+      "question": "What is the difference between selective breeding and natural selection?",
+      "options": [
+        "The study of fossils",
+        "Selective breeding is guided by human intervention to produce desired traits, while natural selection is the result of environmental pressures favoring certain traits",
+        "The process of genetic recombination",
+        "An ancient organism"
+      ],
+      "answer": "Selective breeding is guided by human intervention to produce desired traits, while natural selection is the result of environmental pressures favoring certain traits"
+    },
+    {
+      "number": 45,
+      "question": "What is the role of mutations in genetic disorders?",
+      "options": [
+        "The study of fossils",
+        "Mutations can lead to genetic disorders by disrupting the normal functioning of genes",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "Mutations can lead to genetic disorders by disrupting the normal functioning of genes"
+    },
+    {
+      "number": 46,
+      "question": "What is the significance of the Hardy-Weinberg equilibrium?",
+      "options": [
+        "The study of fossils",
+        "The Hardy-Weinberg equilibrium provides a baseline for comparing observed allele frequencies with expected frequencies in a population",
+        "The process of genetic recombination",
+        "An ancient organism"
+      ],
+      "answer": "The Hardy-Weinberg equilibrium provides a baseline for comparing observed allele frequencies with expected frequencies in a population"
+    },
+    {
+      "number": 47,
+      "question": "What is the role of gene flow in maintaining genetic diversity?",
+      "options": [
+        "The study of fossils",
+        "Gene flow can introduce new genetic variation into a population, preventing genetic drift and promoting genetic diversity",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "Gene flow can introduce new genetic variation into a population, preventing genetic drift and promoting genetic diversity"
+    },
+    {
+      "number": 48,
+      "question": "What is the role of genetic recombination in creating genetic diversity?",
+      "options": [
+        "The study of fossils",
+        "Genetic recombination shuffles genetic material during sexual reproduction, creating new combinations of alleles and increasing genetic diversity",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "Genetic recombination shuffles genetic material during sexual reproduction, creating new combinations of alleles and increasing genetic diversity"
+    },
+    {
+      "number": 49,
+      "question": "What is the significance of the founder effect in small populations?",
+      "options": [
+        "The study of fossils",
+        "The founder effect occurs when a small group of individuals establish a new population, leading to reduced genetic diversity and increased prevalence of certain traits",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "The founder effect occurs when a small group of individuals establish a new population, leading to reduced genetic diversity and increased prevalence of certain traits"
+    },
+    {
+      "number": 50,
+      "question": "What is the role of genetic variation in adaptation?",
+      "options": [
+        "The study of fossils",
+        "Genetic variation provides the raw material for natural selection to act upon, allowing populations to adapt to changing environments",
+        "The process of evolution",
+        "An ancient organism"
+      ],
+      "answer": "Genetic variation provides the raw material for natural selection to act upon, allowing populations to adapt to changing environments"
+    },
+    {
+      "number": 51,
+      "question": "What is the concept of common ancestry?",
+      "options": [
+        "The study of fossils",
+        "All species share a common ancestor from which they have descended",
+        "The process of genetic recombination",
+        "An ancient organism"
+      ],
+      "answer": "All species share a common ancestor from which they have descended"
+    }
+     
+    ]

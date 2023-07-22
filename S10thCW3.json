@@ -1,0 +1,1102 @@
+[
+  {
+    "number": 1,
+    "question": "What is the SI unit of electric current?",
+    "options": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Watt"
+    ],
+    "answer": "Ampere"
+  },
+  {
+    "number": 2,
+    "question": "What is the formula to calculate electric current?",
+    "options": [
+      "I = V/R",
+      "I = R/V",
+      "I = P/V",
+      "I = V/P"
+    ],
+    "answer": "I = V/R"
+  },
+  {
+    "number": 3,
+    "question": "Which type of circuit has only one path for current to flow?",
+    "options": [
+      "Series circuit",
+      "Parallel circuit",
+      "Combination circuit",
+      "Open circuit"
+    ],
+    "answer": "Series circuit"
+  },
+  {
+    "number": 4,
+    "question": "What is the potential difference across a component with resistance 10 ohms and current 2 amperes?",
+    "options": [
+      "5 volts",
+      "20 volts",
+      "0.2 volts",
+      "2 volts"
+    ],
+    "answer": "20 volts"
+  },
+  {
+    "number": 5,
+    "question": "What is the formula to calculate resistance?",
+    "options": [
+      "R = V/I",
+      "R = I/V",
+      "R = P/V",
+      "R = V/P"
+    ],
+    "answer": "R = V/I"
+  },
+  {
+    "number": 6,
+    "question": "Which material is a good conductor of electricity?",
+    "options": [
+      "Wood",
+      "Rubber",
+      "Plastic",
+      "Copper"
+    ],
+    "answer": "Copper"
+  },
+  {
+    "number": 7,
+    "question": "What happens to the resistance of a conductor when its length is doubled?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+      "Increases four times"
+    ],
+    "answer": "Doubles"
+  },
+  {
+    "number": 8,
+    "question": "What happens to the resistance of a conductor when its cross-sectional area is doubled?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+      "Increases four times"
+    ],
+    "answer": "Halves"
+  },
+  {
+    "number": 9,
+    "question": "Which component is used to control the flow of current in a circuit?",
+    "options": [
+      "Resistor",
+      "Capacitor",
+      "Inductor",
+      "Variable resistor"
+    ],
+    "answer": "Variable resistor"
+  },
+  {
+    "number": 10,
+    "question": "What is the unit of electric power?",
+    "options": [
+      "Watt",
+      "Volt",
+      "Ampere",
+      "Ohm"
+    ],
+    "answer": "Watt"
+  },
+  {
+    "number": 11,
+    "question": "What is the formula to calculate electric power?",
+    "options": [
+      "P = V/I",
+      "P = I/V",
+      "P = R/V",
+      "P= V * I"
+    ],
+    "answer": "P = V * I"
+  },
+  {
+    "number": 12,
+    "question": "What is the resistance of a conductor with a voltage of 10 volts and a current of 2 amperes?",
+    "options": [
+      "2 ohms",
+      "5 ohms",
+      "10 ohms",
+      "20 ohms"
+    ],
+    "answer": "5 ohms"
+  },
+  {
+    "number": 13,
+    "question": "Which type of circuit has multiple paths for current to flow?",
+    "options": [
+      "Series circuit",
+      "Parallel circuit",
+      "Combination circuit",
+      "Open circuit"
+    ],
+    "answer": "Parallel circuit"
+  },
+  {
+    "number": 14,
+    "question": "What is the potential difference across a component with resistance 5 ohms and current 3 amperes?",
+    "options": [
+      "15 volts",
+      "8 volts",
+      "1.67 volts",
+      "0.6 volts"
+    ],
+    "answer": "15 volts"
+  },
+  {
+    "number": 15,
+    "question": "What is the formula to calculate current?",
+    "options": [
+      "I = V/R",
+      "I = R/V",
+      "I = P/V",
+      "I = V/P"
+    ],
+    "answer": "I = V/R"
+  },
+  {
+    "number": 16,
+    "question": "Which material is a poor conductor of electricity?",
+    "options": [
+      "Silver",
+      "Copper",
+      "Aluminum",
+      "Rubber"
+    ],
+    "answer": "Rubber"
+  },
+  {
+    "number": 17,
+    "question": "What happens to the resistance of a conductor when its length is halved?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+      "Increases four times"
+    ],
+    "answer": "Halves"
+  },
+  {
+    "number": 18,
+    "question": "What happens to the resistance of a conductor when its cross-sectional area is halved?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+      "Increases four times"
+    ],
+    "answer": "Doubles"
+  },
+  {
+    "number": 19,
+    "question": "Which component is used to store electric charge in a circuit?",
+    "options": [
+      "Resistor",
+      "Capacitor",
+      "Inductor",
+      "Variable resistor"
+    ],
+    "answer": "Capacitor"
+  },
+  {
+    "number": 20,
+    "question": "What is the unit of electric energy?",
+    "options": [
+      "Joule",
+      "Watt",
+      "Volt",
+      "Ampere"
+    ],
+    "answer": "Joule"
+  },
+  {
+    "number": 21,
+    "question": "What is the formula to calculate electric energy?",
+    "options": [
+      "E = V/I",
+      "E = I/V",
+      "E = P/V",
+      "E = V * I"
+    ],
+    "answer": "E = V * I"
+  },
+  {
+    "number": 22,
+    "question": "What is the power consumption of a device with a voltage of 12 volts and a current of 3 amperes?",
+    "options": [
+      "4 watts",
+      "9 watts",
+      "15 watts",
+      "36 watts"
+    ],
+    "answer": "36 watts"
+  },
+  {
+    "number": 23,
+    "question": "Which type of circuit has a combination of series and parallel components?",
+    "options": [
+      "Series circuit",
+      "Parallel circuit",
+      "Combination circuit",
+      "Open circuit"
+    ],
+    "answer": "Combination circuit"
+  },
+  {
+    "number": 24,
+    "question": "What is the potential difference across a component with resistance 8 ohms and current 4 amperes?",
+    "options": [
+      "2 volts",
+      "12 volts",
+      "32 volts",
+      "0.5 volts"
+    ],
+    "answer": "32 volts"
+  },
+  {
+    "number": 25,
+    "question": "What is the formula to calculate resistance?",
+    "options": [
+      "R = V/I",
+      "R = I/V",
+      "R = P/V",
+      "R = V/P"
+    ],
+    "answer": "R = V/I"
+  },
+  {
+    "number": 26,
+    "question": "Which material is a good insulator of electricity?",
+    "options": [
+      "Copper",
+      "Aluminum",
+      "Glass",
+      "Silver"
+    ],
+    "answer": "Glass"
+  },
+  {
+    "number": 27,
+    "question": "What happens to the resistance of a conductor when its length is tripled?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+      "Increases four times"
+    ],
+    "answer": "Triples"
+  },
+  {
+    "number": 28,
+    "question": "What happens to the resistance of a conductor when its cross-sectional area is tripled?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+      "Increases four times"
+    ],
+    "answer": "Halves"
+  },
+  {
+    "number": 29,
+    "question": "Which component is used to store and release electrical energy in a circuit?",
+    "options": [
+      "Resistor",
+      "Capacitor",
+      "Inductor",
+      "Variable resistor"
+    ],
+    "answer": "Inductor"
+  },
+  {
+    "number": 30,
+    "question": "What is the unit of electric charge?",
+    "options": [
+      "Coulomb",
+      "Ampere",
+      "Ohm",
+      "Joule"
+    ],
+    "answer": "Coulomb"
+  },
+  {
+    "number": 31,
+    "question": "What is the formula to calculate electric charge?",
+    "options": [
+      "Q = I * t",
+      "Q = t/I",
+      "Q = P * t",
+      "Q = t/P"
+    ],
+    "answer": "Q = I * t"
+  },
+  {
+    "number": 32,
+    "question": "What is the charge flowing through a circuit in 2 seconds with a current of 3 amperes?",
+    "options": [
+      "2 C",
+      "3 C",
+      "5 C",
+      "6 C"
+    ],
+    "answer": "6 C"
+  },
+  {
+    "number": 33,
+    "question": "Which type of circuit has a break in the path for current to flow?",
+    "options": [
+      "Series circuit",
+      "Parallel circuit",
+      "Combination circuit",
+      "Open circuit"
+    ],
+    "answer": "Open circuit"
+  },
+  {
+   "number": 34,
+    "question": "What is the potential difference across a component with resistance 6 ohms and current 2 amperes?",
+    "options": [
+      "3 volts",
+      "8 volts",
+      "12 volts",
+      "0.5 volts"
+    ],
+    "answer": "12 volts"
+  },
+  {
+    "number": 35,
+    "question": "What is the formula to calculate current?",
+    "options": [
+      "I = V/R",
+      "I = R/V",
+      "I = P/V",
+      "I = V/P"
+    ],
+    "answer": "I = V/R"
+  },
+  {
+    "number": 36,
+    "question": "Which material is a poor insulator of electricity?",
+    "options": [
+      "Rubber",
+      "Plastic",
+      "Wood",
+      "Glass"
+    ],
+    "answer": "Plastic"
+  },
+  {
+    "number": 37,
+    "question": "What happens to the resistance of a conductor when its length is quadrupled?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+      "Increases four times"
+    ],
+    "answer": "Quadruples"
+  },
+  {
+    "number": 38,
+    "question": "What happens to the resistance of a conductor when its cross-sectional area is quadrupled?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+      "Increases four times"
+    ],
+    "answer": "Halves"
+  },
+  {
+    "number": 39,
+    "question": "Which component is used to regulate voltage in a circuit?",
+    "options": [
+      "Resistor",
+      "Capacitor",
+      "Inductor",
+      "Variable resistor"
+    ],
+    "answer": "Resistor"
+  },
+  {
+    "number": 40,
+    "question": "What is the unit of electric resistance?",
+    "options": [
+      "Ohm",
+      "Ampere",
+      "Volt",
+      "Joule"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "number": 41,
+    "question": "What is the formula to calculate electric resistance?",
+    "options": [
+      "R = V/I",
+      "R = I/V",
+      "R = P/V",
+      "R = V/P"
+    ],
+    "answer": "R = V/I"
+  },
+  {
+    "number": 42,
+    "question": "What is the resistance of a conductor with a voltage of 6 volts and a current of 3 amperes?",
+    "options": [
+      "2 ohms",
+      "9 ohms",
+      "0.5 ohms",
+      "18 ohms"
+    ],
+    "answer": "2 ohms"
+  },
+  {
+    "number": 43,
+    "question": "Which type of circuit has all components connected in a single loop?",
+    "options": [
+      "Series circuit",
+      "Parallel circuit",
+      "Combination circuit",
+      "Open circuit"
+    ],
+    "answer": "Series circuit"
+  },
+  {
+    "number": 44,
+    "question": "What is the potential difference across a component with resistance 4 ohms and current 5 amperes?",
+    "options": [
+      "0.8 volts",
+      "20 volts",
+      "9 volts",
+      "1.25 volts"
+    ],
+    "answer": "20 volts"
+  },
+  {
+    "number": 45,
+    "question": "What is the formula to calculate current?",
+    "options": [
+      "I = V/R",
+      "I = R/V",
+      "I = P/V",
+      "I = V/P"
+    ],
+    "answer": "I = V/R"
+  },
+  {
+    "number": 46,
+    "question": "Which material is a good conductor of electricity?",
+    "options": [
+      "Copper",
+      "Aluminum",
+      "Silver",
+      "Rubber"
+    ],
+    "answer": "Copper"
+  },
+  {
+    "number": 47,
+    "question": "What happens to the resistance of a conductor when its length is doubled?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+      "Increases four times"
+    ],
+    "answer": "Doubles"
+  },
+  {
+    "number": 48,
+    "question": "What happens to the resistance of a conductor when its cross-sectional area is doubled?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+      "Increases four times"
+    ],
+    "answer": "Halves"
+  },
+  {
+    "number": 49,
+    "question": "Which component is used to control the flow of current in a circuit?",
+    "options": [
+      "Resistor",
+      "Capacitor",
+      "Inductor",
+      "Variable resistor"
+    ],
+    "answer": "Variable resistor"
+  },
+  {
+    "number": 50,
+    "question": "What is the unit of electric power?",
+    "options": [
+      "Watt",
+      "Volt",
+      "Ampere",
+      "Ohm"
+    ],
+    "answer": "Watt"
+  },
+  {
+    "number": 51,
+    "question": "What is the formula to calculate electric power?",
+    "options": [
+      "P = V/I",
+      "P = I/V",
+      "P = R/V",
+      "P = V * I"
+    ],
+    "answer": "P = V * I"
+  },
+  {
+    "number": 52,
+    "question": "What is the power consumption of a device with a voltage of 12 volts and a current of 3 amperes?",
+    "options": [
+      "4 watts",
+      "9 watts",
+      "15 watts",
+      "36 watts"
+    ],
+    "answer": "36 watts"
+  },
+  {
+    "number": 53,
+    "question": "Which type of circuit has multiple paths for current to flow?",
+    "options": [
+      "Series circuit",
+      "Parallel circuit",
+      "Combination circuit",
+      "Open circuit"
+    ],
+    "answer": "Parallel circuit"
+  },
+  {
+    "number": 54,
+    "question": "What is the potential difference across a component with resistance 8 ohms and current 4 amperes?",
+    "options": [
+      "2 volts",
+      "12 volts",
+      "32 volts",
+      "0.5 volts"
+    ],
+    "answer": "32 volts"
+  },
+  {
+    "number": 55,
+    "question": "What is the formula to calculate resistance?",
+    "options": [
+      "R = V/I",
+      "R = I/V",
+      "R = P/V",
+      "R = V/P"
+    ],
+    "answer": "R = V/I"
+  },
+  {
+    "number": 56,
+    "question": "Which material is a poor conductor of electricity?",
+    "options": [
+     "Plastic",
+      "Wood",
+      "Rubber",
+      "Glass"
+    ],
+    "answer": "Wood"
+  },
+  {
+    "number": 57,
+    "question": "What happens to the resistance of a conductor when its length is halved?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+      "Increases four times"
+    ],
+    "answer": "Halves"
+  },
+  {
+    "number": 58,
+    "question": "What happens to the resistance of a conductor when its cross-sectional area is halved?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+      "Increases four times"
+    ],
+    "answer": "Doubles"
+  },
+  {
+    "number": 59,
+    "question": "Which component is used to store electric charge in a circuit?",
+    "options": [
+      "Resistor",
+      "Capacitor",
+      "Inductor",
+      "Variable resistor"
+    ],
+    "answer": "Capacitor"
+  },
+  {
+    "number": 60,
+    "question": "What is the unit of electric energy?",
+    "options": [
+      "Joule",
+      "Watt",
+      "Volt",
+      "Ampere"
+    ],
+    "answer": "Joule"
+  },
+  {
+    "number": 61,
+    "question": "What is the formula to calculate electric energy?",
+    "options": [
+      "E = V/I",
+      "E = I/V",
+      "E = P/V",
+      "E = V * I"
+    ],
+    "answer": "E = V * I"
+  },
+  {
+    "number": 62,
+    "question": "What is the energy consumed by a device with a voltage of 6 volts and a current of 2 amperes for 5 seconds?",
+    "options": [
+      "12 J",
+      "15 J",
+      "30 J",
+      "60 J"
+    ],
+    "answer": "60 J"
+  },
+  {
+    "number": 63,
+    "question": "Which type of circuit has a combination of series and parallel components?",
+    "options": [
+      "Series circuit",
+      "Parallel circuit",
+      "Combination circuit",
+      "Open circuit"
+    ],
+    "answer": "Combination circuit"
+  },
+  {
+    "number": 64,
+    "question": "What is the potential difference across a component with resistance 4 ohms and current 5 amperes?",
+    "options": [
+      "0.8 volts",
+      "20 volts",
+      "9 volts",
+      "1.25 volts"
+    ],
+    "answer": "20 volts"
+  },
+  {
+    "number": 65,
+    "question": "What is the formula to calculate current?",
+    "options": [
+      "I = V/R",
+      "I = R/V",
+      "I = P/V",
+      "I = V/P"
+    ],
+    "answer": "I = V/R"
+  },
+  {
+    "number": 66,
+    "question": "Which material is a poor insulator of electricity?",
+    "options": [
+      "Rubber",
+      "Plastic",
+      "Wood",
+      "Glass"
+    ],
+    "answer": "Plastic"
+  },
+  {
+    "number": 67,
+    "question": "What happens to the resistance of a conductor when its length is tripled?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+"Triples"
+    ],
+    "answer": "Triples"
+  },
+  {
+    "number": 68,
+    "question": "What happens to the resistance of a conductor when its cross-sectional area is tripled?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+      "Increases four times"
+    ],
+    "answer": "Halves"
+  },
+  {
+    "number": 69,
+    "question": "Which component is used to store and release electrical energy in a circuit?",
+    "options": [
+      "Resistor",
+      "Capacitor",
+      "Inductor",
+      "Variable resistor"
+    ],
+    "answer": "Inductor"
+  },
+  {
+    "number": 70,
+    "question": "What is the unit of electric charge?",
+    "options": [
+      "Coulomb",
+      "Ampere",
+      "Ohm",
+      "Joule"
+    ],
+    "answer": "Coulomb"
+  },
+  {
+    "number": 71,
+    "question": "What is the formula to calculate electric charge?",
+    "options": [
+      "Q = I * t",
+      "Q = t/I",
+      "Q = P * t",
+      "Q = t/P"
+    ],
+    "answer": "Q = I * t"
+  },
+  {
+    "number": 72,
+    "question": "What is the charge flowing through a circuit in 2 seconds with a current of 3 amperes?",
+    "options": [
+      "2 C",
+      "3 C",
+      "5 C",
+      "6 C"
+    ],
+    "answer": "6 C"
+  },
+  {
+    "number": 73,
+    "question": "Which type of circuit has a break in the path for current to flow?",
+    "options": [
+      "Series circuit",
+      "Parallel circuit",
+      "Combination circuit",
+      "Open circuit"
+    ],
+    "answer": "Open circuit"
+  },
+  {
+    "number": 74,
+    "question": "What is the potential difference across a component with resistance 6 ohms and current 2 amperes?",
+    "options": [
+      "3 volts",
+      "8 volts",
+      "12 volts",
+      "0.5 volts"
+    ],
+    "answer": "12 volts"
+  },
+  {
+    "number": 75,
+    "question": "What is the formula to calculate current?",
+    "options": [
+      "I = V/R",
+      "I = R/V",
+      "I = P/V",
+      "I = V/P"
+    ],
+    "answer": "I = V/R"
+  },
+  {
+    "number": 76,
+    "question": "Which material is a poor insulator of electricity?",
+    "options": [
+      "Rubber",
+      "Plastic",
+      "Wood",
+      "Glass"
+    ],
+    "answer": "Plastic"
+  },
+  {
+    "number": 77,
+    "question": "What happens to the resistance of a conductor when its length is quadrupled?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+      "Increases four times"
+    ],
+    "answer": "Quadruples"
+  },
+  {
+    "number": 78,
+    "question": "What happens to the resistance of a conductor when its cross-sectional area is quadrupled?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+      "Increases four times"
+    ],
+    "answer": "Doubles"
+  },
+  {
+    "number": 79,
+    "question": "Which component is used to regulate voltage in a circuit?",
+    "options": [
+      "Resistor",
+      "Capacitor",
+      "Inductor",
+      "Variable resistor"
+    ],
+    "answer": "Resistor"
+  },
+  {
+    "number": 80,
+    "question": "What is the unit of electric resistance?",
+    "options": [
+      "Ohm",
+      "Ampere",
+      "Volt",
+      "Joule"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "number": 81,
+    "question": "What is the formula to calculate electric resistance?",
+    "options": [
+      "R = V/I",
+      "R = I/V",
+      "R = P/V",
+      "R = V/P"
+    ],
+    "answer": "R = V/I"
+  },
+  {
+    "number": 82,
+    "question": "What is the resistance of a conductor with a voltage of 6 volts and a current of 3 amperes?",
+    "options": [
+      "2 ohms",
+      "9 ohms",
+      "0.5 ohms",
+      "18 ohms"
+    ],
+    "answer": "2 ohms"
+  },
+  {
+    "number": 83,
+    "question": "Which type of circuit has all components connected in a single loop?",
+    "options": [
+      "Series circuit",
+      "Parallel circuit",
+      "Combination circuit",
+      "Open circuit"
+    ],
+    "answer": "Series circuit"
+  },
+  {
+    "number": 84,
+    "question": "What is the potential difference across a component with resistance 4 ohms and current 5 amperes?",
+    "options": [
+      "0.8 volts",
+      "20 volts",
+      "9 volts",
+      "1.25 volts"
+    ],
+    "answer": "20 volts"
+  },
+  {
+    "number": 85,
+    "question": "What is the formula to calculate current?",
+    "options": [
+      "I = V/R",
+      "I = R/V",
+      "I = P/V",
+      "I = V/P"
+    ],
+    "answer": "I = V/R"
+  },
+  {
+    "number": 86,
+    "question": "Which material is a poor conductor of electricity?",
+    "options": [
+      "Rubber",
+      "Plastic",
+      "Wood",
+      "Glass"
+    ],
+    "answer": "Plastic"
+  },
+  {
+    "number": 87,
+    "question": "What happens to the resistance of a conductor when its length is tripled?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+      "Increases four times"
+    ],
+    "answer": "Triples"
+  },
+  {
+    "number": 88,
+    "question": "What happens to the resistance of a conductor when its cross-sectional area is tripled?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+      "Increases four times"
+    ],
+    "answer": "Halves"
+  },
+  {
+    "number": 89,
+    "question": "Which component is used to regulate current in a circuit?",
+    "options": [
+      "Resistor",
+      "Capacitor",
+      "Inductor",
+      "Variable resistor"
+    ],
+    "answer": "Variable resistor"
+  },
+  {
+    "number": 90,
+    "question": "What isthe unit of electric power?",
+    "options": [
+      "Watt",
+      "Volt",
+      "Ampere",
+      "Ohm"
+    ],
+    "answer": "Watt"
+  },
+  {
+    "number": 91,
+    "question": "What is the formula to calculate electric power?",
+    "options": [
+      "P = V/I",
+      "P = I/V",
+      "P = R/V",
+      "P = V * I"
+    ],
+    "answer": "P = V * I"
+  },
+  {
+    "number": 92,
+    "question": "What is the power consumption of a device with a voltage of 12 volts and a current of 3 amperes?",
+    "options": [
+      "4 watts",
+      "9 watts",
+      "15 watts",
+      "36 watts"
+    ],
+    "answer": "36 watts"
+  },
+  {
+    "number": 93,
+    "question": "Which type of circuit has multiple paths for current to flow?",
+    "options": [
+      "Series circuit",
+      "Parallel circuit",
+      "Combination circuit",
+      "Open circuit"
+    ],
+    "answer": "Parallel circuit"
+  },
+  {
+    "number": 94,
+    "question": "What is the potential difference across a component with resistance 8 ohms and current 4 amperes?",
+    "options": [
+      "2 volts",
+      "12 volts",
+      "32 volts",
+      "0.5 volts"
+    ],
+    "answer": "32 volts"
+  },
+  {
+    "number": 95,
+    "question": "What is the formula to calculate resistance?",
+    "options": [
+      "R = V/I",
+      "R = I/V",
+      "R = P/V",
+      "R = V/P"
+    ],
+    "answer": "R = V/I"
+  },
+  {
+    "number": 96,
+    "question": "Which material is a poor conductor of electricity?",
+    "options": [
+      "Rubber",
+      "Plastic",
+      "Wood",
+      "Glass"
+    ],
+    "answer": "Plastic"
+  },
+  {
+    "number": 97,
+    "question": "What happens to the resistance of a conductor when its length is doubled?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+      "Increases four times"
+    ],
+    "answer": "Doubles"
+  },
+  {
+    "number": 98,
+    "question": "What happens to the resistance of a conductor when its cross-sectional area is doubled?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+      "Increases four times"
+    ],
+    "answer": "Halves"
+  },
+  {
+    "number": 99,
+    "question": "Which component is used to store electric charge in a circuit?",
+    "options": [
+      "Resistor",
+      "Capacitor",
+      "Inductor",
+      "Variable resistor"
+    ],
+    "answer": "Capacitor"
+  },
+  {
+    "number": 100,
+    "question": "What is the unit of electric energy?",
+    "options": [
+      "Joule",
+      "Watt",
+      "Volt",
+      "Ampere"
+    ],
+    "answer": "Joule"
+  }
+]

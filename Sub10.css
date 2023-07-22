@@ -1,0 +1,92 @@
+ *{
+   margin:0px;
+   padding: 0px;
+ }
+ body{
+   width: 100%;
+ }
+ .phy{
+   width: 100%;
+   height: 100%;
+ }
+ 
+ .phy nav{
+   position: sticky;
+   top: 0;
+   z-index: 100;
+   display: flex;
+   align-items: center;
+   background: #fff;
+   color: white;
+   height: 40px;
+   padding: 15px 20px;
+   box-shadow:0 3px 5px 1px rgba(0, 0, 0, 0.1);
+ }
+ .phyback{
+   position: absolute;
+    top: 15px;
+    left: 10px;
+    padding: 10px;
+    border: none;
+    background-color: transparent;
+    color: #555;
+    font-size: 18px;
+    cursor: pointer;
+    font-family:'Varela Round', sans-serif;
+    transition: transform 0.3s ease-in-out;
+ }
+ .phyback:focus{
+   transform: scale(1.2);
+ }
+ .phyback:hover{
+   background: #fff;
+ }
+.phy .head{
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size:20px;
+  font-weight: 600;
+}
+.bodyCh{
+  width: 100%;
+  height: 100%;
+}
+
+.chpQ{
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start ;
+  font-size:20px;
+  border-bottom: .5px solid #555;
+
+}
+.chpQ:hover{
+  background-color:#f2f2f2 ;
+  translate: transform 0.3s ease-in-out;
+}
+.chpQ span{
+  margin-left: 30px;
+  font-size: 25px;
+  font-weight: 600;
+  color: #1e88e5;
+}
+
+.chpQ div{
+  margin-left: 30px;
+  font-size: 15px;
+  font-weight: 600;
+  color: black;
+  transition: transform 0.3s ease-in-out;
+  }
+  
+  
+  .ads{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center ;
+    margin-top: 30px;
+  }
